@@ -14,7 +14,7 @@
 "caps lock" = "caps lock";
 
 /* message in the send feedback dialog */
-"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>.";
+"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "Click \";
 
 /* No comment provided by engineer. */
 "Close" = "Schließen";

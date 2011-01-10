@@ -257,11 +257,11 @@
 /* Class = "NSButtonCell"; title = "Shade invisible windows"; ObjectID = "2553"; */
 "2553.title" = "Shade invisible windows";
 
-/* Class = "NSButtonCell"; title = "Highlight the preview under mouse"; ObjectID = "2554"; */
-"2554.title" = "Highlight the preview under mouse";
+/* Class = "NSButtonCell"; title = "Draw highlight gradient"; ObjectID = "2554"; */
+"2554.title" = "Draw highlight gradient";
 
-/* Class = "NSButtonCell"; title = "Draw triangle"; ObjectID = "2555"; */
-"2555.title" = "Draw triangle";
+/* Class = "NSButtonCell"; title = "Draw triangle below bubble"; ObjectID = "2555"; */
+"2555.title" = "Draw triangle below bubble";
 
 /* Class = "NSTextFieldCell"; title = "px"; ObjectID = "2586"; */
 "2586.title" = "px";
@@ -500,8 +500,8 @@
 /* Class = "NSButtonCell"; title = "Purchase ..."; ObjectID = "3471"; */
 "3471.title" = "Purchase ...";
 
-/* Class = "NSButtonCell"; title = "Highlight the front window"; ObjectID = "3474"; */
-"3474.title" = "Highlight the front window";
+/* Class = "NSButtonCell"; title = "Indicate the front window"; ObjectID = "3474"; */
+"3474.title" = "Indicate the front window";
 
 /* Class = "NSWindow"; title = "Welcome"; ObjectID = "3481"; */
 "3481.title" = "Welcome";
@@ -515,20 +515,17 @@
 /* Class = "NSTabViewItem"; label = "2"; ObjectID = "3487"; */
 "3487.label" = "2";
 
-/* Class = "NSButtonCell"; title = "Agree"; ObjectID = "3499"; */
-"3499.title" = "Agree";
+/* Class = "NSButtonCell"; title = "Accept"; ObjectID = "3499"; */
+"3499.title" = "Accept";
 
-/* Class = "NSTextFieldCell"; title = "Boost you productivity with HyperDock's extensions for Apple's Dock: Window Previews, Shortcuts, Window Snapping ...\n\nYou are free to try HyperDock for 15 days from now on.\n\nHyperDock is installed as a Mac OS Preference Pane. You can access it later in your System Preferences."; ObjectID = "3501"; */
-"3501.title" = "Boost you productivity with HyperDock's extensions for Apple's Dock: Window Previews, Shortcuts, Window Snapping ...\n\nYou are free to try HyperDock for 15 days from now on.\n\nHyperDock is installed as a Mac OS Preference Pane. You can access it later in your System Preferences.";
-
-/* Class = "NSTextFieldCell"; title = "Licence Agreement"; ObjectID = "3503"; */
-"3503.title" = "Licence Agreement";
+/* Class = "NSTextFieldCell"; title = "License Agreement"; ObjectID = "3503"; */
+"3503.title" = "License Agreement";
 
 /* Class = "NSButtonCell"; title = "Decline"; ObjectID = "3505"; */
 "3505.title" = "Decline";
 
-/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "3508"; */
-"3508.title" = "Continue";
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "3514"; */
+"3514.title" = "Continue";
 
-/* Class = "NSButtonCell"; title = "Cache thumbnails"; ObjectID = "3515"; */
-"3515.title" = "Cache thumbnails";
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "3517"; */
+"3517.title" = "Cancel";
