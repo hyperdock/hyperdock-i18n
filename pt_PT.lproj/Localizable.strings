@@ -14,7 +14,7 @@
 "caps lock" = "caps lock";
 
 /* message in the send feedback dialog */
-"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "Clicar \"Abrir com Mail...\" para gerar um email para <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Antes de reportar erros, deve ler a secção Known Bugs section do <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>.";
+"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "Clicar \";
 
 /* No comment provided by engineer. */
 "Close" = "Fechar";
@@ -162,4 +162,3 @@
 
 /* generic new tab action */
 "⌘ + T (New Tab)" = "⌘ + T (Nova Aba)";
-
