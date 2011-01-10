@@ -1,0 +1,165 @@
+/* No comment provided by engineer. */
+"Activate App" = "Activar App";
+
+/* all-day string on ical preview */
+"all-day" = "todo o dia";
+
+/* No comment provided by engineer. */
+"Button" = "Botão";
+
+/* No comment provided by engineer. */
+"Cancel" = "Cancelar";
+
+/* No comment provided by engineer. */
+"caps lock" = "caps lock";
+
+/* message in the send feedback dialog */
+"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "Clicar \"Abrir com Mail...\" para gerar um email para <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Antes de reportar erros, deve ler a secção Known Bugs section do <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>.";
+
+/* No comment provided by engineer. */
+"Close" = "Fechar";
+
+/* No comment provided by engineer. */
+"Create new mail" = "Criar novo mail";
+
+/* No comment provided by engineer. */
+"Do you really want to uninstall HyperDock?" = "Tem a certeza que deseja desinstalar o HyperDock?";
+
+/* No comment provided by engineer. */
+"Execute AppleScript" = "Executar AppleScript";
+
+/* No comment provided by engineer. */
+"Exposé" = "Exposé";
+
+/* No comment provided by engineer. */
+"Focus Next Window" = "Focar na próxima janela";
+
+/* No comment provided by engineer. */
+"Focus Previous Window" = "Focar na janela anterior";
+
+/* No comment provided by engineer. */
+"help" = "ajuda";
+
+/* No comment provided by engineer. */
+"Hide App" = "Esconder App";
+
+/* No comment provided by engineer. */
+"Hide other apps" = "Esconder outras apps";
+
+/* No comment provided by engineer. */
+"Kill App" = "Matar App";
+
+/* No comment provided by engineer. */
+"Left Click" = "Clique Esquerdo";
+
+/* No comment provided by engineer. */
+"Left Edge" = "Canto Esquerdo";
+
+/* No comment provided by engineer. */
+"Maximize" = "Maximizar";
+
+/* No comment provided by engineer. */
+"Middle Click" = "Clique do meio";
+
+/* No comment provided by engineer. */
+"Minimize" = "Minimizar";
+
+/* No comment provided by engineer. */
+"New Tab" = "Nova aba";
+
+/* No comment provided by engineer. */
+"New Window" = "Nova janela";
+
+/* No comment provided by engineer. */
+"Next" = "Próximo";
+
+/* No comment provided by engineer. */
+"Next track" = "Próxima faixa";
+
+/* No comment provided by engineer. */
+"Next window" = "Próxima janela";
+
+/* No comment provided by engineer. */
+"No Action" = "Sem Acção";
+
+/* No comment provided by engineer. */
+"No Events!" = "Sem Events!";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open Location" = "Abrir Localização";
+
+/* No comment provided by engineer. */
+"Play/Pause" = "Play/Pausa";
+
+/* No comment provided by engineer. */
+"Previous" = "Anterior";
+
+/* No comment provided by engineer. */
+"Previous track" = "Faixa anterior";
+
+/* No comment provided by engineer. */
+"Previous window" = "Próxima faixa";
+
+/* No comment provided by engineer. */
+"Quit App" = "Sair da App";
+
+/* No comment provided by engineer. */
+"Restart App" = "Reabrir App";
+
+/* No comment provided by engineer. */
+"Restart Safari to see the tab previews in HyperDock." = "Reabra o Safari para ver pré-visualizações de abas no HyperView.";
+
+/* No comment provided by engineer. */
+"Reveal App in Finder" = "Ver App no Finder";
+
+/* No comment provided by engineer. */
+"Right Click" = "Clique Direito";
+
+/* No comment provided by engineer. */
+"Right Edge" = "Canto Direito";
+
+/* No comment provided by engineer. */
+"Safari Plugin installed!" = "Plugin do Safari instalado!";
+
+/* No comment provided by engineer. */
+"Scroll down" = "Scroll para baixo";
+
+/* No comment provided by engineer. */
+"Scroll left" = "Scroll para a esquerda";
+
+/* No comment provided by engineer. */
+"Scroll right" = "Scroll para a direita";
+
+/* No comment provided by engineer. */
+"Scroll up" = "Scroll para cima";
+
+/* No comment provided by engineer. */
+"Send to Space" = "Enviar para o Space";
+
+/* No comment provided by engineer. */
+"Stop" = "Parar";
+
+/* String for current day */
+"Today" = "Hoje";
+
+/* No comment provided by engineer. */
+"Toggle mute" = "Sem Som";
+
+/* No comment provided by engineer. */
+"Uninstall" = "Desinstalar";
+
+/* No comment provided by engineer. */
+"Volume Down" = "Menos Volume";
+
+/* No comment provided by engineer. */
+"Volume Up" = "Mais Volume";
+
+/* generic new window action */
+"⌘ + N (New Window)" = "⌘ + N (Nova Janela)";
+
+/* generic new tab action */
+"⌘ + T (New Tab)" = "⌘ + T (Nova Aba)";
+
