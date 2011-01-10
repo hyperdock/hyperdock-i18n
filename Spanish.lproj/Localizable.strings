@@ -1,0 +1,165 @@
+/* No comment provided by engineer. */
+"Activate App" = "Activate App";
+
+/* all-day string on ical preview */
+"all-day" = "all-day";
+
+/* No comment provided by engineer. */
+"Button" = "Button";
+
+/* No comment provided by engineer. */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"caps lock" = "caps lock";
+
+/* message in the send feedback dialog */
+"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>.";
+
+/* No comment provided by engineer. */
+"Close" = "Close";
+
+/* No comment provided by engineer. */
+"Create new mail" = "Create new mail";
+
+/* No comment provided by engineer. */
+"Do you really want to uninstall HyperDock?" = "Do you really want to uninstall HyperDock?";
+
+/* No comment provided by engineer. */
+"Execute AppleScript" = "Execute AppleScript";
+
+/* No comment provided by engineer. */
+"Exposé" = "Exposé";
+
+/* No comment provided by engineer. */
+"Focus Next Window" = "Focus Next Window";
+
+/* No comment provided by engineer. */
+"Focus Previous Window" = "Focus Previous Window";
+
+/* No comment provided by engineer. */
+"help" = "help";
+
+/* No comment provided by engineer. */
+"Hide App" = "Hide App";
+
+/* No comment provided by engineer. */
+"Hide other apps" = "Hide other apps";
+
+/* No comment provided by engineer. */
+"Kill App" = "Kill App";
+
+/* No comment provided by engineer. */
+"Left Click" = "Left Click";
+
+/* No comment provided by engineer. */
+"Left Edge" = "Left Edge";
+
+/* No comment provided by engineer. */
+"Maximize" = "Maximize";
+
+/* No comment provided by engineer. */
+"Middle Click" = "Middle Click";
+
+/* No comment provided by engineer. */
+"Minimize" = "Minimize";
+
+/* No comment provided by engineer. */
+"New Tab" = "New Tab";
+
+/* No comment provided by engineer. */
+"New Window" = "New Window";
+
+/* No comment provided by engineer. */
+"Next" = "Next";
+
+/* No comment provided by engineer. */
+"Next track" = "Next track";
+
+/* No comment provided by engineer. */
+"Next window" = "Next window";
+
+/* No comment provided by engineer. */
+"No Action" = "No Action";
+
+/* No comment provided by engineer. */
+"No Events!" = "No Events!";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open Location" = "Open Location";
+
+/* No comment provided by engineer. */
+"Play/Pause" = "Play/Pause";
+
+/* No comment provided by engineer. */
+"Previous" = "Previous";
+
+/* No comment provided by engineer. */
+"Previous track" = "Previous track";
+
+/* No comment provided by engineer. */
+"Previous window" = "Previous window";
+
+/* No comment provided by engineer. */
+"Quit App" = "Quit App";
+
+/* No comment provided by engineer. */
+"Restart App" = "Restart App";
+
+/* No comment provided by engineer. */
+"Restart Safari to see the tab previews in HyperDock." = "Restart Safari to see the tab previews in HyperDock.";
+
+/* No comment provided by engineer. */
+"Reveal App in Finder" = "Reveal App in Finder";
+
+/* No comment provided by engineer. */
+"Right Click" = "Right Click";
+
+/* No comment provided by engineer. */
+"Right Edge" = "Right Edge";
+
+/* No comment provided by engineer. */
+"Safari Plugin installed!" = "Safari Plugin installed!";
+
+/* No comment provided by engineer. */
+"Scroll down" = "Scroll down";
+
+/* No comment provided by engineer. */
+"Scroll left" = "Scroll left";
+
+/* No comment provided by engineer. */
+"Scroll right" = "Scroll right";
+
+/* No comment provided by engineer. */
+"Scroll up" = "Scroll up";
+
+/* No comment provided by engineer. */
+"Send to Space" = "Send to Space";
+
+/* No comment provided by engineer. */
+"Stop" = "Stop";
+
+/* String for current day */
+"Today" = "Today";
+
+/* No comment provided by engineer. */
+"Toggle mute" = "Toggle mute";
+
+/* No comment provided by engineer. */
+"Uninstall" = "Uninstall";
+
+/* No comment provided by engineer. */
+"Volume Down" = "Volume Down";
+
+/* No comment provided by engineer. */
+"Volume Up" = "Volume Up";
+
+/* generic new window action */
+"⌘ + N (New Window)" = "⌘ + N (New Window)";
+
+/* generic new tab action */
+"⌘ + T (New Tab)" = "⌘ + T (New Tab)";
+
