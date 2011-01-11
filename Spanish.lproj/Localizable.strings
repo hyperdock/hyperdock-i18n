@@ -1,165 +1,165 @@
 /* No comment provided by engineer. */
-"Activate App" = "Activate App";
+"Activate App" = "Activar App";
 
 /* all-day string on ical preview */
-"all-day" = "all-day";
+"all-day" = "todo el día";
 
 /* No comment provided by engineer. */
-"Button" = "Button";
+"Button" = "Botón";
 
 /* No comment provided by engineer. */
-"Cancel" = "Cancel";
+"Cancel" = "Cancelar";
 
 /* No comment provided by engineer. */
-"caps lock" = "caps lock";
+"caps lock" = "Mayúsculas";
 
 /* message in the send feedback dialog */
-"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>.";
+"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "Haz clic en \"Abrir con Mail...\" para generar un email hacia <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Antes de reportar errores, lee las <a href='http://hyperdock.bahoom.de/faq.html'>Preguntas Frecuentes</a> (en inglés).";
 
 /* No comment provided by engineer. */
-"Close" = "Close";
+"Close" = "Cerrar";
 
 /* No comment provided by engineer. */
-"Create new mail" = "Create new mail";
+"Create new mail" = "Crear nuevo correo";
 
 /* No comment provided by engineer. */
-"Do you really want to uninstall HyperDock?" = "Do you really want to uninstall HyperDock?";
+"Do you really want to uninstall HyperDock?" = "¿En realidad desea desinstalar HyperDock?";
 
 /* No comment provided by engineer. */
-"Execute AppleScript" = "Execute AppleScript";
+"Execute AppleScript" = "Ejecutar AppleScript";
 
 /* No comment provided by engineer. */
 "Exposé" = "Exposé";
 
 /* No comment provided by engineer. */
-"Focus Next Window" = "Focus Next Window";
+"Focus Next Window" = "Enfocar Siguiente Ventana";
 
 /* No comment provided by engineer. */
-"Focus Previous Window" = "Focus Previous Window";
+"Focus Previous Window" = "Enfocar Ventana Previa";
 
 /* No comment provided by engineer. */
-"help" = "help";
+"help" = "ayuda";
 
 /* No comment provided by engineer. */
-"Hide App" = "Hide App";
+"Hide App" = "Esconder App";
 
 /* No comment provided by engineer. */
-"Hide other apps" = "Hide other apps";
+"Hide other apps" = "Esconder otras apps";
 
 /* No comment provided by engineer. */
-"Kill App" = "Kill App";
+"Kill App" = "Cerrar Forzosamente elu App";
 
 /* No comment provided by engineer. */
-"Left Click" = "Left Click";
+"Left Click" = "Click Izquierdo";
 
 /* No comment provided by engineer. */
-"Left Edge" = "Left Edge";
+"Left Edge" = "Borde Izquierdo";
 
 /* No comment provided by engineer. */
-"Maximize" = "Maximize";
+"Maximize" = "Maximizar";
 
 /* No comment provided by engineer. */
-"Middle Click" = "Middle Click";
+"Middle Click" = "Click de 3er botón";
 
 /* No comment provided by engineer. */
-"Minimize" = "Minimize";
+"Minimize" = "Minimizar";
 
 /* No comment provided by engineer. */
-"New Tab" = "New Tab";
+"New Tab" = "Nueva Pestaña";
 
 /* No comment provided by engineer. */
-"New Window" = "New Window";
+"New Window" = "Nueva Ventana";
 
 /* No comment provided by engineer. */
-"Next" = "Next";
+"Next" = "Siguiente";
 
 /* No comment provided by engineer. */
-"Next track" = "Next track";
+"Next track" = "Siguiente pista";
 
 /* No comment provided by engineer. */
-"Next window" = "Next window";
+"Next window" = "Siguiente ventana";
 
 /* No comment provided by engineer. */
-"No Action" = "No Action";
+"No Action" = "Sin Acción";
 
 /* No comment provided by engineer. */
-"No Events!" = "No Events!";
+"No Events!" = "Sin Eventos!";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
 
 /* No comment provided by engineer. */
-"Open Location" = "Open Location";
+"Open Location" = "Abrir Lugar";
 
 /* No comment provided by engineer. */
-"Play/Pause" = "Play/Pause";
+"Play/Pause" = "Reproducir/Pausa";
 
 /* No comment provided by engineer. */
-"Previous" = "Previous";
+"Previous" = "Previo";
 
 /* No comment provided by engineer. */
-"Previous track" = "Previous track";
+"Previous track" = "Pista previa";
 
 /* No comment provided by engineer. */
-"Previous window" = "Previous window";
+"Previous window" = "Ventana previa";
 
 /* No comment provided by engineer. */
-"Quit App" = "Quit App";
+"Quit App" = "Cerrar App";
 
 /* No comment provided by engineer. */
-"Restart App" = "Restart App";
+"Restart App" = "Reiniciar App";
 
 /* No comment provided by engineer. */
-"Restart Safari to see the tab previews in HyperDock." = "Restart Safari to see the tab previews in HyperDock.";
+"Restart Safari to see the tab previews in HyperDock." = "Reinicia Safari para ver las vistas previas por pestaña en HyperDock.";
 
 /* No comment provided by engineer. */
-"Reveal App in Finder" = "Reveal App in Finder";
+"Reveal App in Finder" = "Mostrar App en el Finder";
 
 /* No comment provided by engineer. */
-"Right Click" = "Right Click";
+"Right Click" = "Clic Derecho";
 
 /* No comment provided by engineer. */
-"Right Edge" = "Right Edge";
+"Right Edge" = "Borde Derecho";
 
 /* No comment provided by engineer. */
-"Safari Plugin installed!" = "Safari Plugin installed!";
+"Safari Plugin installed!" = "¡La extensión de Safari fue instalada!";
 
 /* No comment provided by engineer. */
-"Scroll down" = "Scroll down";
+"Scroll down" = "Desplazar abajo";
 
 /* No comment provided by engineer. */
-"Scroll left" = "Scroll left";
+"Scroll left" = "Desplazar izquierda";
 
 /* No comment provided by engineer. */
-"Scroll right" = "Scroll right";
+"Scroll right" = "Desplazar derecha";
 
 /* No comment provided by engineer. */
-"Scroll up" = "Scroll up";
+"Scroll up" = "Desplazar arriba";
 
 /* No comment provided by engineer. */
-"Send to Space" = "Send to Space";
+"Send to Space" = "Mandar a Space";
 
 /* No comment provided by engineer. */
-"Stop" = "Stop";
+"Stop" = "Detener";
 
 /* String for current day */
-"Today" = "Today";
+"Today" = "Hoy";
 
 /* No comment provided by engineer. */
-"Toggle mute" = "Toggle mute";
+"Toggle mute" = "Mute";
 
 /* No comment provided by engineer. */
-"Uninstall" = "Uninstall";
+"Uninstall" = "Desinstalar";
 
 /* No comment provided by engineer. */
-"Volume Down" = "Volume Down";
+"Volume Down" = "Bajar Volumen";
 
 /* No comment provided by engineer. */
-"Volume Up" = "Volume Up";
+"Volume Up" = "Subir Volumen";
 
 /* generic new window action */
-"⌘ + N (New Window)" = "⌘ + N (New Window)";
+"⌘ + N (New Window)" = "⌘ + N (Nueva Ventana)";
 
 /* generic new tab action */
-"⌘ + T (New Tab)" = "⌘ + T (New Tab)";
+"⌘ + T (New Tab)" = "⌘ + T (Nueva Pestaña)";
 
