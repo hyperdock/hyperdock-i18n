@@ -14,7 +14,7 @@
 "caps lock" = "caps lock";
 
 /* message in the send feedback dialog */
-"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "按下\"以 Mail 開啟...\"以產生一封信寄到 <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>在回報錯誤之前，你也許想要看一看<a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>當中的 Known Bugs。";
+"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "按下\"開啟 Mail...\"以產生一封信寄到 <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>在回報錯誤之前，你也許想要看一看<a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>當中的 Known Bugs。";
 
 /* No comment provided by engineer. */
 "Close" = "關閉";
