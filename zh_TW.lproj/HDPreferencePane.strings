@@ -1,0 +1,531 @@
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "視窗";
+
+/* Class = "NSTableColumn"; headerCell.title = "Dock Items"; ObjectID = "13"; */
+"13.headerCell.title" = "Dock 項目";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "16"; */
+"16.title" = "Text Cell";
+
+/* Class = "NSTabViewItem"; label = "Dock Items"; ObjectID = "71"; */
+"71.label" = "Dock 項目";
+
+/* Class = "NSTabViewItem"; label = "About"; ObjectID = "75"; */
+"75.label" = "關於";
+
+/* Class = "NSTextFieldCell"; title = "HyperDock"; ObjectID = "100"; */
+"100.title" = "HyperDock";
+
+/* Class = "NSButtonCell"; title = "Uninstall ..."; ObjectID = "106"; */
+"106.title" = "移除 ...";
+
+/* Class = "NSTabViewItem"; label = "Window Management"; ObjectID = "119"; */
+"119.label" = "視窗管理";
+
+/* Class = "NSButtonCell"; title = "Move windows when holding down"; ObjectID = "224"; */
+"224.title" = "移動視窗當我按住";
+
+/* Class = "NSButtonCell"; title = "^"; ObjectID = "555"; */
+"555.title" = "^";
+
+/* Class = "NSButtonCell"; title = "⌥"; ObjectID = "557"; */
+"557.title" = "⌥";
+
+/* Class = "NSButtonCell"; title = "⌘"; ObjectID = "559"; */
+"559.title" = "⌘";
+
+/* Class = "NSButtonCell"; title = "⇧"; ObjectID = "561"; */
+"561.title" = "⇧";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults ..."; ObjectID = "676"; */
+"676.title" = "回復預設值 ...";
+
+/* Class = "NSButtonCell"; title = "Resize windows when holding down"; ObjectID = "707"; */
+"707.title" = "調整視窗大小當我按住";
+
+/* Class = "NSButtonCell"; title = "⇧"; ObjectID = "715"; */
+"715.title" = "⇧";
+
+/* Class = "NSButtonCell"; title = "⌘"; ObjectID = "716"; */
+"716.title" = "⌘";
+
+/* Class = "NSButtonCell"; title = "⌥"; ObjectID = "717"; */
+"717.title" = "⌥";
+
+/* Class = "NSButtonCell"; title = "^"; ObjectID = "718"; */
+"718.title" = "^";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "1086"; */
+"1086.label" = "一般";
+
+/* Class = "NSPanel"; title = "Window"; ObjectID = "1117"; */
+"1117.title" = "視窗";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "1122"; */
+"1122.title" = "確定";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1124"; */
+"1124.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Send Feedback ..."; ObjectID = "1138"; */
+"1138.title" = "回饋意見...";
+
+/* Class = "NSButtonCell"; title = "Visit Homepage ..."; ObjectID = "1141"; */
+"1141.title" = "拜訪首頁...";
+
+/* Class = "NSTextFieldCell"; title = "Version XXX"; ObjectID = "1144"; */
+"1144.title" = "版本 XXX";
+
+/* Class = "NSButtonCell"; title = "Enable window previews"; ObjectID = "1158"; */
+"1158.title" = "啟用視窗預覽";
+
+/* Class = "NSButtonCell"; title = "Show full size preview on hover"; ObjectID = "1424"; */
+"1424.title" = "滑鼠經過時顯示完整大小預覽";
+
+/* Class = "NSButtonCell"; title = "Windows from all spaces"; ObjectID = "1428"; */
+"1428.title" = "來自任何 spaces 的視窗";
+
+/* Class = "NSButtonCell"; title = "Enable Window Snapping"; ObjectID = "1488"; */
+"1488.title" = "啟用視窗 Snapping";
+
+/* Class = "NSTextFieldCell"; title = "Beta"; ObjectID = "1505"; */
+"1505.title" = "Beta";
+
+/* Class = "NSButtonCell"; title = "Minimized/hidden windows"; ObjectID = "1511"; */
+"1511.title" = "最小化/隱藏 的視窗";
+
+/* Class = "NSWindow"; title = "DEBUG "; ObjectID = "1559"; */
+"1559.title" = "DEBUG ";
+
+/* Class = "NSButtonCell"; title = "Save Default Examples"; ObjectID = "1602"; */
+"1602.title" = "Save Default Examples";
+
+/* Class = "NSButtonCell"; title = "Apply Config"; ObjectID = "1605"; */
+"1605.title" = "套用設定";
+
+/* Class = "NSButtonCell"; title = "Hide when a preview is clicked"; ObjectID = "1701"; */
+"1701.title" = "點下預覽時隱藏";
+
+/* Class = "NSButtonCell"; title = "Don't show if there is only one app window"; ObjectID = "1718"; */
+"1718.title" = "如果只有一個視窗則不要顯示";
+
+/* Class = "NSTabViewItem"; label = "Appearance"; ObjectID = "1813"; */
+"1813.label" = "外觀";
+
+/* Class = "NSButtonCell"; title = "Close button"; ObjectID = "1823"; */
+"1823.title" = "關閉按鈕";
+
+/* Class = "NSButtonCell"; title = "Application name"; ObjectID = "1824"; */
+"1824.title" = "應用程式名稱";
+
+/* Class = "NSTextFieldCell"; title = "Bubble size:"; ObjectID = "1829"; */
+"1829.title" = "氣泡大小:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Event"; ObjectID = "1856"; */
+"1856.headerCell.title" = "事件";
+
+/* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "1858"; */
+"1858.headerCell.title" = "動作";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1860"; */
+"1860.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1870"; */
+"1870.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Right Click"; ObjectID = "1871"; */
+"1871.title" = "右鍵";
+
+/* Class = "NSMenuItem"; title = "Other Buttons/Keys ..."; ObjectID = "1872"; */
+"1872.title" = "其他按鈕/快速鍵 ...";
+
+/* Class = "NSMenuItem"; title = "Left Click"; ObjectID = "1873"; */
+"1873.title" = "左鍵";
+
+/* Class = "NSMenuItem"; title = "Mouse Entered"; ObjectID = "1875"; */
+"1875.title" = "滑鼠進入";
+
+/* Class = "NSMenuItem"; title = "Mouse Hovered"; ObjectID = "1876"; */
+"1876.title" = "滑鼠經過";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "1879"; */
+"1879.title" = "往上捲動";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "1880"; */
+"1880.title" = "往下捲動";
+
+/* Class = "NSMenuItem"; title = "Middle Click"; ObjectID = "1881"; */
+"1881.title" = "中鍵";
+
+/* Class = "IBBindingConnection"; designableIsNilPlaceholder = "none"; ObjectID = "1886"; */
+"1886.designableIsNilPlaceholder" = "無";
+
+/* Class = "IBBindingConnection"; designableNotApplicablePlaceholder = "none"; ObjectID = "1886"; */
+"1886.designableNotApplicablePlaceholder" = "無";
+
+/* Class = "IBBindingConnection"; designableIsNilPlaceholder = "null"; ObjectID = "1887"; */
+"1887.designableIsNilPlaceholder" = "null";
+
+/* Class = "IBBindingConnection"; designableNoSelectionPlaceholder = "Select Event1"; ObjectID = "1887"; */
+"1887.designableNoSelectionPlaceholder" = "選擇事件一";
+
+/* Class = "IBBindingConnection"; designableNotApplicablePlaceholder = "Select 2"; ObjectID = "1887"; */
+"1887.designableNotApplicablePlaceholder" = "選擇二";
+
+/* Class = "NSTextFieldCell"; title = "Include:"; ObjectID = "1894"; */
+"1894.title" = "包含:";
+
+/* Class = "NSTextFieldCell"; title = "Order by:"; ObjectID = "1899"; */
+"1899.title" = "排序依照:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1902"; */
+"1902.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Recent usage"; ObjectID = "1904"; */
+"1904.title" = "最近使用";
+
+/* Class = "NSTextFieldCell"; title = "Behaviour:"; ObjectID = "1907"; */
+"1907.title" = "行為:";
+
+/* Class = "NSTextFieldCell"; title = "Small"; ObjectID = "1994"; */
+"1994.title" = "小";
+
+/* Class = "NSTextFieldCell"; title = "Large"; ObjectID = "1996"; */
+"1996.title" = "大";
+
+/* Class = "NSTextFieldCell"; title = "Elements:"; ObjectID = "2013"; */
+"2013.title" = "Elements:";
+
+/* Class = "NSButtonCell"; title = "Minimized indicator / space number"; ObjectID = "2018"; */
+"2018.title" = "最小化指示 / space 號碼";
+
+/* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "2062"; */
+"2062.label" = "進階";
+
+/* Class = "NSTextFieldCell"; title = "s"; ObjectID = "2331"; */
+"2331.title" = "秒";
+
+/* Class = "NSTextFieldCell"; title = "Full size preview delay on subsequent activation:"; ObjectID = "2345"; */
+"2345.title" = "之後顯示完整大小預覽的延遲:";
+
+/* Class = "NSTextFieldCell"; title = "Close button activation delay:"; ObjectID = "2349"; */
+"2349.title" = "顯示關閉按鈕延遲:";
+
+/* Class = "NSTextFieldCell"; title = "s"; ObjectID = "2354"; */
+"2354.title" = "秒";
+
+/* Class = "NSTextFieldCell"; title = "Full size preview delay on first activation:"; ObjectID = "2356"; */
+"2356.title" = "首次顯示完整大小預覽的延遲:";
+
+/* Class = "NSTextFieldCell"; title = "Preview deactivation delay:"; ObjectID = "2357"; */
+"2357.title" = "預覽消失延遲:";
+
+/* Class = "NSTextFieldCell"; title = "s"; ObjectID = "2360"; */
+"2360.title" = "秒";
+
+/* Class = "NSTextFieldCell"; title = "s "; ObjectID = "2407"; */
+"2407.title" = "秒 ";
+
+/* Class = "NSTextFieldCell"; title = "s"; ObjectID = "2408"; */
+"2408.title" = "秒";
+
+/* Class = "NSTextFieldCell"; title = "Delay (near screen border):"; ObjectID = "2410"; */
+"2410.title" = "延遲 (靠近視窗邊界):";
+
+/* Class = "NSButtonCell"; title = "Hide when a dock item is clicked"; ObjectID = "2448"; */
+"2448.title" = "按下 dock 後隱藏";
+
+/* Class = "NSTextFieldCell"; title = "Delay (exact screen border):"; ObjectID = "2534"; */
+"2534.title" = "延遲 (碰到視窗邊界):";
+
+/* Class = "NSBox"; title = "Window Snapping"; ObjectID = "2536"; */
+"2536.title" = "視窗 Snapping";
+
+/* Class = "NSBox"; title = "Window Dragging"; ObjectID = "2537"; */
+"2537.title" = "視窗拖拉";
+
+/* Class = "NSTextFieldCell"; title = "When you hold these modifier keys, you can move&resize windows from anywhere - not just the titlebar."; ObjectID = "2539"; */
+"2539.title" = "當你按著這些鍵，你可以在任何地方移動視窗或調整視窗大小 - 不只是在標題列。";
+
+/* Class = "NSButton"; gToolTip = "When enabled, pressing arrow/number keys directly switches spaces"; ObjectID = "2550"; */
+"2550.gToolTip" = "啟用後，按下方向鍵/數字鍵直接切換 spaces";
+
+/* Class = "NSButtonCell"; title = "Blur bubble background"; ObjectID = "2551"; */
+"2551.title" = "Blur 氣泡背景";
+
+/* Class = "NSButtonCell"; title = "Shade invisible windows"; ObjectID = "2553"; */
+"2553.title" = "看不見的視窗加上陰影";
+
+/* Class = "NSButtonCell"; title = "Draw highlight gradient"; ObjectID = "2554"; */
+"2554.title" = "Draw highlight gradient";
+
+/* Class = "NSButtonCell"; title = "Draw triangle below bubble"; ObjectID = "2555"; */
+"2555.title" = "在氣泡下加三角形";
+
+/* Class = "NSTextFieldCell"; title = "px"; ObjectID = "2586"; */
+"2586.title" = "px";
+
+/* Class = "NSTextFieldCell"; title = "Distance from the Dock:"; ObjectID = "2588"; */
+"2588.title" = "距離 Dock:";
+
+/* Class = "NSBox"; title = "Delays"; ObjectID = "2594"; */
+"2594.title" = "延遲";
+
+/* Class = "NSButtonCell"; title = "Palettes"; ObjectID = "2596"; */
+"2596.title" = "Palettes";
+
+/* Class = "NSButton"; gToolTip = "When enabled, pressing arrow/number keys directly switches spaces"; ObjectID = "2601"; */
+"2601.gToolTip" = "啟用後，按下方向鍵/數字鍵直接切換 spaces";
+
+/* Class = "NSButtonCell"; title = "Update to dev versions"; ObjectID = "2602"; */
+"2602.title" = "更新至 dev 版本";
+
+/* Class = "NSButtonCell"; title = "Open License ..."; ObjectID = "2657"; */
+"2657.title" = "開啟授權...";
+
+/* Class = "NSWindow"; title = "Send Feedback"; ObjectID = "2666"; */
+"2666.title" = "傳送回饋意見";
+
+/* Class = "NSButtonCell"; title = "Include HyperDock configuration"; ObjectID = "2669"; */
+"2669.title" = "包含 HyperDock 設定";
+
+/* Class = "NSButtonCell"; title = "Include Dock configuration"; ObjectID = "2671"; */
+"2671.title" = "包含 Dock 設定";
+
+/* Class = "NSButtonCell"; title = "Open with Mail..."; ObjectID = "2673"; */
+"2673.title" = "開啟 Mail...";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "2675"; */
+"2675.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Disable HyperDock"; ObjectID = "2686"; */
+"2686.title" = "停用 HyperDock";
+
+/* Class = "NSTextFieldCell"; title = "Enable this option if you experience problems like a stuttering Dock."; ObjectID = "2687"; */
+"2687.title" = "如果你遇到 Dock 卡卡的問題，請啟用這項設定。";
+
+/* Class = "NSButtonCell"; title = "Don't block Dock's autohide / magnification"; ObjectID = "2688"; */
+"2688.title" = "不要禁止 Dock 自動隱藏/放大功能";
+
+/* Class = "NSTabViewItem"; label = "Shortcuts"; ObjectID = "2708"; */
+"2708.label" = "捷徑";
+
+/* Class = "NSTabViewItem"; label = "Window Filters"; ObjectID = "2710"; */
+"2710.label" = "視窗篩選";
+
+/* Class = "NSTabViewItem"; label = "Preview Options"; ObjectID = "2754"; */
+"2754.label" = "預覽選項";
+
+/* Class = "NSButtonCell"; title = "Show ratings"; ObjectID = "2763"; */
+"2763.title" = "顯示評分";
+
+/* Class = "NSButtonCell"; title = "Enable iTunes special preview"; ObjectID = "2764"; */
+"2764.title" = "啟用 iTunes 特殊預覽";
+
+/* Class = "NSTabViewItem"; label = "Preview Options"; ObjectID = "2772"; */
+"2772.label" = "預覽選項";
+
+/* Class = "NSButtonCell"; title = "Show tabs instead of windows"; ObjectID = "2775"; */
+"2775.title" = "顯示分頁而不是視窗";
+
+/* Class = "NSButtonCell"; title = "Scrolling on the iTunes icon adjusts volume"; ObjectID = "2833"; */
+"2833.title" = "在 iTunes 圖示上捲動來調整音量";
+
+/* Class = "NSMenuItem"; title = "Creation time"; ObjectID = "2859"; */
+"2859.title" = "製作日期";
+
+/* Class = "NSButtonCell"; title = "Order current space windows to front"; ObjectID = "2861"; */
+"2861.title" = "Order current space windows to front";
+
+/* Class = "NSTextFieldCell"; title = "This list allows you to exclude windows from HyperDock. A single wildcard (*) excludes all windows."; ObjectID = "2888"; */
+"2888.title" = "這個清單讓你排除不想使用 HyperDock 的視窗。一個萬用字元 (*) 將會排除所有視窗。";
+
+/* Class = "NSTableColumn"; headerCell.title = "Window title filter"; ObjectID = "2898"; */
+"2898.headerCell.title" = "視窗標題篩選";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "2904"; */
+"2904.title" = "文字";
+
+/* Class = "IBBindingConnection"; designableIsNilPlaceholder = "*"; ObjectID = "2910"; */
+"2910.designableIsNilPlaceholder" = "*";
+
+/* Class = "NSTabViewItem"; label = "Preview Options"; ObjectID = "2934"; */
+"2934.label" = "預覽設定";
+
+/* Class = "NSButtonCell"; title = "Enable Busycal events preview"; ObjectID = "2946"; */
+"2946.title" = "啟用 Busycal 事件預覽";
+
+/* Class = "NSTextFieldCell"; title = "Limit to:"; ObjectID = "2947"; */
+"2947.title" = "限制在:";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "2953"; */
+"2953.title" = "檢查";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2954"; */
+"2954.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "day(s)"; ObjectID = "2956"; */
+"2956.title" = "天";
+
+/* Class = "NSTextFieldCell"; title = "events"; ObjectID = "2958"; */
+"2958.title" = "事件";
+
+/* Class = "NSTextFieldCell"; title = "Calendars:"; ObjectID = "2959"; */
+"2959.title" = "日曆:";
+
+/* Class = "NSTabViewItem"; label = "Preview Options"; ObjectID = "2988"; */
+"2988.label" = "預覽選項";
+
+/* Class = "NSTextFieldCell"; title = "Grid layout:"; ObjectID = "3041"; */
+"3041.title" = "格狀佈局:";
+
+/* Class = "NSTextFieldCell"; title = "previews per row"; ObjectID = "3047"; */
+"3047.title" = "預覽每一列";
+
+/* Class = "NSTextFieldCell"; title = "s"; ObjectID = "3080"; */
+"3080.title" = "s";
+
+/* Class = "NSTextFieldCell"; title = "Calendars:"; ObjectID = "3129"; */
+"3129.title" = "日曆:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3135"; */
+"3135.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "3136"; */
+"3136.title" = "檢查";
+
+/* Class = "NSTextFieldCell"; title = "Limit to:"; ObjectID = "3137"; */
+"3137.title" = "限制在:";
+
+/* Class = "NSButtonCell"; title = "Enable iCal events preview"; ObjectID = "3138"; */
+"3138.title" = "啟用 iCal 事件預覽";
+
+/* Class = "NSTextFieldCell"; title = "events"; ObjectID = "3139"; */
+"3139.title" = "事件";
+
+/* Class = "NSTextFieldCell"; title = "day(s)"; ObjectID = "3141"; */
+"3141.title" = "天";
+
+/* Class = "NSTextFieldCell"; title = "Show"; ObjectID = "3164"; */
+"3164.title" = "顯示";
+
+/* Class = "NSBox"; title = "Attachments"; ObjectID = "3192"; */
+"3192.title" = "附件";
+
+/* Class = "NSButton"; gToolTip = "When enabled, pressing arrow/number keys directly switches spaces"; ObjectID = "3257"; */
+"3257.gToolTip" = "啟用後，按下方向鍵/數字鍵直接切換 spaces";
+
+/* Class = "NSButtonCell"; title = "Enable logging"; ObjectID = "3258"; */
+"3258.title" = "啟用記錄";
+
+/* Class = "NSButtonCell"; title = "View Log"; ObjectID = "3270"; */
+"3270.title" = "檢視記錄";
+
+/* Class = "NSTextFieldCell"; title = "1,000"; ObjectID = "3276"; */
+"3276.title" = "1,000";
+
+/* Class = "NSTextFieldCell"; title = "ms"; ObjectID = "3278"; */
+"3278.title" = "ms";
+
+/* Class = "NSTextFieldCell"; title = "Activation Delay:"; ObjectID = "3279"; */
+"3279.title" = "啟動延遲:";
+
+/* Class = "NSButtonCell"; title = "Left mouse button"; ObjectID = "3285"; */
+"3285.title" = "滑鼠左鍵";
+
+/* Class = "NSButtonCell"; title = "Left mouse button"; ObjectID = "3287"; */
+"3287.title" = "滑鼠左鍵";
+
+/* Class = "NSTextFieldCell"; title = "Thumbnail interpolation quality:"; ObjectID = "3302"; */
+"3302.title" = "縮圖品質:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "3305"; */
+"3305.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Low"; ObjectID = "3306"; */
+"3306.title" = "低";
+
+/* Class = "NSMenuItem"; title = "Medium"; ObjectID = "3307"; */
+"3307.title" = "中";
+
+/* Class = "NSMenuItem"; title = "High"; ObjectID = "3308"; */
+"3308.title" = "高";
+
+/* Class = "NSTextFieldCell"; title = "Popup animation:"; ObjectID = "3323"; */
+"3323.title" = "跳出動畫:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "3326"; */
+"3326.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Snap in"; ObjectID = "3327"; */
+"3327.title" = "Snap 於";
+
+/* Class = "NSMenuItem"; title = "Fade in"; ObjectID = "3328"; */
+"3328.title" = "Fade 於";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "3329"; */
+"3329.title" = "無";
+
+/* Class = "NSButtonCell"; title = "Check for Updates:"; ObjectID = "3383"; */
+"3383.title" = "檢查更新:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "3385"; */
+"3385.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Weekly"; ObjectID = "3386"; */
+"3386.title" = "每週";
+
+/* Class = "NSMenuItem"; title = "Daily"; ObjectID = "3387"; */
+"3387.title" = "每日";
+
+/* Class = "NSButtonCell"; title = "Check now"; ObjectID = "3388"; */
+"3388.title" = "馬上檢查";
+
+/* Class = "NSTextFieldCell"; title = "Drag a window to a screen edge and pause to see resize recommendations."; ObjectID = "3405"; */
+"3405.title" = "拖拉視窗到螢幕邊緣停一下可以看到調整大小的建議。";
+
+/* Class = "NSButtonCell"; title = "Run Helper in Terminal"; ObjectID = "3446"; */
+"3446.title" = "在終端機中執行 Helper";
+
+/* Class = "NSBox"; title = "Preview Rendering"; ObjectID = "3448"; */
+"3448.title" = "預覽渲染";
+
+/* Class = "NSButtonCell"; title = "Refresh thumbnails every"; ObjectID = "3450"; */
+"3450.title" = "重新整理縮圖每";
+
+/* Class = "NSTextFieldCell"; title = "s"; ObjectID = "3457"; */
+"3457.title" = "秒";
+
+/* Class = "NSButtonCell"; title = "Purchase ..."; ObjectID = "3471"; */
+"3471.title" = "購買...";
+
+/* Class = "NSButtonCell"; title = "Indicate the front window"; ObjectID = "3474"; */
+"3474.title" = "指示目前視窗";
+
+/* Class = "NSWindow"; title = "Welcome"; ObjectID = "3481"; */
+"3481.title" = "歡迎";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to HyperDock!"; ObjectID = "3484"; */
+"3484.title" = "歡迎來到 HyperDock!";
+
+/* Class = "NSTabViewItem"; label = "1"; ObjectID = "3486"; */
+"3486.label" = "1";
+
+/* Class = "NSTabViewItem"; label = "2"; ObjectID = "3487"; */
+"3487.label" = "2";
+
+/* Class = "NSButtonCell"; title = "Accept"; ObjectID = "3499"; */
+"3499.title" = "接受";
+
+/* Class = "NSTextFieldCell"; title = "License Agreement"; ObjectID = "3503"; */
+"3503.title" = "授權協議";
+
+/* Class = "NSButtonCell"; title = "Decline"; ObjectID = "3505"; */
+"3505.title" = "拒絕";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "3514"; */
+"3514.title" = "繼續";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "3517"; */
+"3517.title" = "取消";

@@ -1,0 +1,165 @@
+/* No comment provided by engineer. */
+"Activate App" = "顯示程式";
+
+/* all-day string on ical preview */
+"all-day" = "整日";
+
+/* No comment provided by engineer. */
+"Button" = "按鈕";
+
+/* No comment provided by engineer. */
+"Cancel" = "取消";
+
+/* No comment provided by engineer. */
+"caps lock" = "caps lock";
+
+/* message in the send feedback dialog */
+"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "按下\"開啟 Mail...\"以產生一封信寄到 <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>在回報錯誤之前，你也許想要看一看<a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>當中的 Known Bugs。";
+
+/* No comment provided by engineer. */
+"Close" = "關閉";
+
+/* No comment provided by engineer. */
+"Create new mail" = "建立新信件";
+
+/* No comment provided by engineer. */
+"Do you really want to uninstall HyperDock?" = "你確定要移除 HyperDock?";
+
+/* No comment provided by engineer. */
+"Execute AppleScript" = "執行 AppleScript";
+
+/* No comment provided by engineer. */
+"Exposé" = "Exposé";
+
+/* No comment provided by engineer. */
+"Focus Next Window" = "焦點移至下一視窗";
+
+/* No comment provided by engineer. */
+"Focus Previous Window" = "焦點移至上一視窗";
+
+/* No comment provided by engineer. */
+"help" = "輔助說明";
+
+/* No comment provided by engineer. */
+"Hide App" = "隱藏程式";
+
+/* No comment provided by engineer. */
+"Hide other apps" = "隱藏其他程式";
+
+/* No comment provided by engineer. */
+"Kill App" = "強制結束程式";
+
+/* No comment provided by engineer. */
+"Left Click" = "左鍵";
+
+/* No comment provided by engineer. */
+"Left Edge" = "左邊緣";
+
+/* No comment provided by engineer. */
+"Maximize" = "最大化";
+
+/* No comment provided by engineer. */
+"Middle Click" = "中鍵";
+
+/* No comment provided by engineer. */
+"Minimize" = "最小化";
+
+/* No comment provided by engineer. */
+"New Tab" = "新分頁";
+
+/* No comment provided by engineer. */
+"New Window" = "新視窗";
+
+/* No comment provided by engineer. */
+"Next" = "下一個";
+
+/* No comment provided by engineer. */
+"Next track" = "下一項目";
+
+/* No comment provided by engineer. */
+"Next window" = "下一視窗";
+
+/* No comment provided by engineer. */
+"No Action" = "沒有動作";
+
+/* No comment provided by engineer. */
+"No Events!" = "沒有事件!";
+
+/* No comment provided by engineer. */
+"OK" = "確定";
+
+/* No comment provided by engineer. */
+"Open Location" = "開啟位置";
+
+/* No comment provided by engineer. */
+"Play/Pause" = "播放/暫停";
+
+/* No comment provided by engineer. */
+"Previous" = "上一個";
+
+/* No comment provided by engineer. */
+"Previous track" = "上一項目";
+
+/* No comment provided by engineer. */
+"Previous window" = "上一視窗";
+
+/* No comment provided by engineer. */
+"Quit App" = "結束程式";
+
+/* No comment provided by engineer. */
+"Restart App" = "重新啟動程式";
+
+/* No comment provided by engineer. */
+"Restart Safari to see the tab previews in HyperDock." = "重新啟動 Safari 以顯示分頁預覽於 HyperDock.";
+
+/* No comment provided by engineer. */
+"Reveal App in Finder" = "顯示程式於 Finder";
+
+/* No comment provided by engineer. */
+"Right Click" = "右鍵";
+
+/* No comment provided by engineer. */
+"Right Edge" = "右邊緣";
+
+/* No comment provided by engineer. */
+"Safari Plugin installed!" = "Safari Plugin 已安裝!";
+
+/* No comment provided by engineer. */
+"Scroll down" = "往下捲動";
+
+/* No comment provided by engineer. */
+"Scroll left" = "往左捲動";
+
+/* No comment provided by engineer. */
+"Scroll right" = "往右捲動";
+
+/* No comment provided by engineer. */
+"Scroll up" = "往上捲動";
+
+/* No comment provided by engineer. */
+"Send to Space" = "送到 Space";
+
+/* No comment provided by engineer. */
+"Stop" = "停止";
+
+/* String for current day */
+"Today" = "今天";
+
+/* No comment provided by engineer. */
+"Toggle mute" = "切換靜音";
+
+/* No comment provided by engineer. */
+"Uninstall" = "移除";
+
+/* No comment provided by engineer. */
+"Volume Down" = "降低音量";
+
+/* No comment provided by engineer. */
+"Volume Up" = "調高音量";
+
+/* generic new window action */
+"⌘ + N (New Window)" = "⌘ + N (新視窗)";
+
+/* generic new tab action */
+"⌘ + T (New Tab)" = "⌘ + T (新分頁)";
+
