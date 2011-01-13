@@ -12,7 +12,7 @@
 "71.label" = "Éléments du Dock";
 
 /* Class = "NSTabViewItem"; label = "About"; ObjectID = "75"; */
-"75.label" = "À Propos";
+"75.label" = "À propos";
 
 /* Class = "NSTextFieldCell"; title = "HyperDock"; ObjectID = "100"; */
 "100.title" = "HyperDock";
