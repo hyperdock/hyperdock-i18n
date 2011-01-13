@@ -14,7 +14,7 @@
 "caps lock" = "Mayúsculas";
 
 /* message in the send feedback dialog */
-"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "Haz clic en \"Abrir con Mail...\" para generar un email hacia <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Antes de reportar errores, lee las <a href='http://hyperdock.bahoom.de/faq.html'>Preguntas Frecuentes</a> (en inglés).";
+"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "Haz clic en \";
 
 /* No comment provided by engineer. */
 "Close" = "Cerrar";
@@ -149,6 +149,9 @@
 "Toggle mute" = "Mute";
 
 /* No comment provided by engineer. */
+"Tomorrow" = "Tomorrow";
+
+/* No comment provided by engineer. */
 "Uninstall" = "Desinstalar";
 
 /* No comment provided by engineer. */
@@ -162,4 +165,3 @@
 
 /* generic new tab action */
 "⌘ + T (New Tab)" = "⌘ + T (Nueva Pestaña)";
-
