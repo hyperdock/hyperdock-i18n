@@ -24,7 +24,7 @@
 "119.label" = "視窗管理";
 
 /* Class = "NSButtonCell"; title = "Move windows when holding down"; ObjectID = "224"; */
-"224.title" = "移動視窗當我按住";
+"224.title" = "移動視窗當我按著";
 
 /* Class = "NSButtonCell"; title = "^"; ObjectID = "555"; */
 "555.title" = "^";
@@ -42,7 +42,7 @@
 "676.title" = "回復預設值 ...";
 
 /* Class = "NSButtonCell"; title = "Resize windows when holding down"; ObjectID = "707"; */
-"707.title" = "調整視窗大小當我按住";
+"707.title" = "調整視窗大小當我按著";
 
 /* Class = "NSButtonCell"; title = "⇧"; ObjectID = "715"; */
 "715.title" = "⇧";
@@ -195,10 +195,10 @@
 "1996.title" = "大";
 
 /* Class = "NSTextFieldCell"; title = "Elements:"; ObjectID = "2013"; */
-"2013.title" = "Elements:";
+"2013.title" = "元素:";
 
 /* Class = "NSButtonCell"; title = "Minimized indicator / space number"; ObjectID = "2018"; */
-"2018.title" = "最小化指示 / space 號碼";
+"2018.title" = "最小化指示 / space 編號";
 
 /* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "2062"; */
 "2062.label" = "進階";
@@ -333,10 +333,10 @@
 "2833.title" = "在 iTunes 圖示上捲動來調整音量";
 
 /* Class = "NSMenuItem"; title = "Creation time"; ObjectID = "2859"; */
-"2859.title" = "製作日期";
+"2859.title" = "建立時間";
 
 /* Class = "NSButtonCell"; title = "Order current space windows to front"; ObjectID = "2861"; */
-"2861.title" = "Order current space windows to front";
+"2861.title" = "目前 space 的視窗排在前面";
 
 /* Class = "NSTextFieldCell"; title = "This list allows you to exclude windows from HyperDock. A single wildcard (*) excludes all windows."; ObjectID = "2888"; */
 "2888.title" = "這個清單讓你排除不想使用 HyperDock 的視窗。一個萬用字元 (*) 將會排除所有視窗。";
@@ -459,10 +459,10 @@
 "3326.title" = "OtherViews";
 
 /* Class = "NSMenuItem"; title = "Snap in"; ObjectID = "3327"; */
-"3327.title" = "Snap 於";
+"3327.title" = "Snap";
 
 /* Class = "NSMenuItem"; title = "Fade in"; ObjectID = "3328"; */
-"3328.title" = "Fade 於";
+"3328.title" = "淡入淡出";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "3329"; */
 "3329.title" = "無";
