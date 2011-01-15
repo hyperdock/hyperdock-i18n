@@ -1,8 +1,8 @@
 /* No comment provided by engineer. */
-"Activate App" = "Activer l'App";
+"Activate App" = "Activer l'appli";
 
 /* all-day string on ical preview */
-"all-day" = "toute la journée";
+"all-day" = "jour entier";
 
 /* No comment provided by engineer. */
 "Button" = "Bouton";
@@ -11,85 +11,85 @@
 "Cancel" = "Annuler";
 
 /* No comment provided by engineer. */
-"caps lock" = "majuscule";
+"caps lock" = "Verr. maj.";
 
 /* message in the send feedback dialog */
-"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "Cliquez sur \";
+"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "Cliquer « Ouvrir avec Mail… » pour créer un courriel à <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Avant de soumettre un bug, veuillez lire la section « Known Bugs » de la <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>.";
 
 /* No comment provided by engineer. */
 "Close" = "Fermer";
 
 /* No comment provided by engineer. */
-"Create new mail" = "Créer un nouveau message";
+"Create new mail" = "Créer un nouveau courriel";
 
 /* No comment provided by engineer. */
-"Do you really want to uninstall HyperDock?" = "Voulez-vous vraiment désinstaller HyperDock ?";
+"Do you really want to uninstall HyperDock?" = "Voulez-vous vraiment désinstaller HyperDock ?";
 
 /* No comment provided by engineer. */
-"Execute AppleScript" = "Exécuter l'AppleScript";
+"Execute AppleScript" = "Exécuter un AppleScript";
 
 /* No comment provided by engineer. */
 "Exposé" = "Exposé";
 
 /* No comment provided by engineer. */
-"Focus Next Window" = "Passer à la Fenêtre Suivante";
+"Focus Next Window" = "Activer la fenêtre suivante";
 
 /* No comment provided by engineer. */
-"Focus Previous Window" = "Passer à la Fenêtre Précédente";
+"Focus Previous Window" = "Activer la fenêtre précédente";
 
 /* No comment provided by engineer. */
 "help" = "aide";
 
 /* No comment provided by engineer. */
-"Hide App" = "Cacher l'App";
+"Hide App" = "Masquer l'appli";
 
 /* No comment provided by engineer. */
-"Hide other apps" = "Cacher les autres apps";
+"Hide other apps" = "Masquer les autres applis";
 
 /* No comment provided by engineer. */
-"Kill App" = "Tuer l'App";
+"Kill App" = "Tuer l'appli";
 
 /* No comment provided by engineer. */
-"Left Click" = "Clic Gauche";
+"Left Click" = "Clic gauche";
 
 /* No comment provided by engineer. */
-"Left Edge" = "Coin Gauche";
+"Left Edge" = "Coin gauche";
 
 /* No comment provided by engineer. */
 "Maximize" = "Maximiser";
 
 /* No comment provided by engineer. */
-"Middle Click" = "Clic Milieu";
+"Middle Click" = "Clic milieu";
 
 /* No comment provided by engineer. */
-"Minimize" = "Minimiser";
+"Minimize" = "Placer dans le Dock";
 
 /* No comment provided by engineer. */
-"New Tab" = "Nouvel Onglet";
+"New Tab" = "Nouvel onglet";
 
 /* No comment provided by engineer. */
-"New Window" = "Nouvelle Fenêtre";
+"New Window" = "Nouvelle fenêtre";
 
 /* No comment provided by engineer. */
 "Next" = "Suivant";
 
 /* No comment provided by engineer. */
-"Next track" = "Piste suivante";
+"Next track" = "Morceau suivant";
 
 /* No comment provided by engineer. */
 "Next window" = "Fenêtre suivante";
 
 /* No comment provided by engineer. */
-"No Action" = "Pas d'action";
+"No Action" = "Aucune action";
 
 /* No comment provided by engineer. */
-"No Events!" = "Pas d'évênements!";
+"No Events!" = "Aucun événement !";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
 
 /* No comment provided by engineer. */
-"Open Location" = "Ouvrir l'Emplacement";
+"Open Location" = "Ouvrir l'emplacement";
 
 /* No comment provided by engineer. */
 "Play/Pause" = "Lecture/Pause";
@@ -98,31 +98,31 @@
 "Previous" = "Précédent";
 
 /* No comment provided by engineer. */
-"Previous track" = "Piste précédente";
+"Previous track" = "Morceau précédent";
 
 /* No comment provided by engineer. */
 "Previous window" = "Fenêtre précédente";
 
 /* No comment provided by engineer. */
-"Quit App" = "Quitter l'App";
+"Quit App" = "Quitter l'appli";
 
 /* No comment provided by engineer. */
-"Restart App" = "Redémarrer l'App";
+"Restart App" = "Redémarrer l'appli";
 
 /* No comment provided by engineer. */
-"Restart Safari to see the tab previews in HyperDock." = "Redémarrez Safari pour voir les aperçus d'onglets dans HyperDock.";
+"Restart Safari to see the tab previews in HyperDock." = "Redémarrer Safari pour voir les aperçus d'onglets dans HyperDock.";
 
 /* No comment provided by engineer. */
-"Reveal App in Finder" = "Montrer l'App dans le Finder";
+"Reveal App in Finder" = "Afficher l'appli dans le Finder";
 
 /* No comment provided by engineer. */
-"Right Click" = "Clic Droit";
+"Right Click" = "Clic droit";
 
 /* No comment provided by engineer. */
-"Right Edge" = "Coin Droit";
+"Right Edge" = "Coin droit";
 
 /* No comment provided by engineer. */
-"Safari Plugin installed!" = "Plugin Safari installé!";
+"Safari Plugin installed!" = "Module Safari installé !";
 
 /* No comment provided by engineer. */
 "Scroll down" = "Scroller vers le bas";
@@ -137,7 +137,7 @@
 "Scroll up" = "Scroller vers le haut";
 
 /* No comment provided by engineer. */
-"Send to Space" = "Envoyer vers l'Espace";
+"Send to Space" = "Envoyer vers l'espace";
 
 /* No comment provided by engineer. */
 "Stop" = "Stop";
@@ -146,7 +146,10 @@
 "Today" = "Aujourd'hui";
 
 /* No comment provided by engineer. */
-"Toggle mute" = "Muet";
+"Toggle mute" = "Activer/Désactiver le silence";
+
+/* No comment provided by engineer. */
+"Tomorrow" = "Tomorrow";
 
 /* No comment provided by engineer. */
 "Uninstall" = "Désinstaller";
@@ -158,7 +161,7 @@
 "Volume Up" = "Volume +";
 
 /* generic new window action */
-"⌘ + N (New Window)" = "⌘ + N (Nouvelle Fenêtre)";
+"⌘ + N (New Window)" = "⌘ + N (Nouvelle fenêtre)";
 
 /* generic new tab action */
-"⌘ + T (New Tab)" = "⌘ + T (Nouvel Onglet)";
+"⌘ + T (New Tab)" = "⌘ + T (Nouvel onglet)";

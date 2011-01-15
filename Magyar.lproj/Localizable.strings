@@ -1,167 +1,167 @@
 /* No comment provided by engineer. */
-"Activate App" = "Programm anzeigen";
+"Activate App" = "Alkalmazás aktiválása";
 
 /* all-day string on ical preview */
-"all-day" = "Ganztägig";
+"all-day" = "egész nap";
 
 /* No comment provided by engineer. */
-"Button" = "Button";
+"Button" = "Gomb";
 
 /* No comment provided by engineer. */
-"Cancel" = "Cancel";
+"Cancel" = "Mégsem";
 
 /* No comment provided by engineer. */
 "caps lock" = "caps lock";
 
 /* message in the send feedback dialog */
-"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "Click \";
+"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "Kattintson a \";
 
 /* No comment provided by engineer. */
-"Close" = "Schließen";
+"Close" = "Bezár";
 
 /* No comment provided by engineer. */
-"Create new mail" = "Neue Mail";
+"Create new mail" = "Levélírás";
 
 /* No comment provided by engineer. */
-"Do you really want to uninstall HyperDock?" = "Do you really want to uninstall HyperDock?";
+"Do you really want to uninstall HyperDock?" = "Valóban el akarja távolítani a HyperDock-ot?";
 
 /* No comment provided by engineer. */
-"Execute AppleScript" = "AppleScript ausführen ...";
+"Execute AppleScript" = "AppleScript futtatása";
 
 /* No comment provided by engineer. */
 "Exposé" = "Exposé";
 
 /* No comment provided by engineer. */
-"Focus Next Window" = "Nächstes Fenster";
+"Focus Next Window" = "Fókusz a következő ablakra";
 
 /* No comment provided by engineer. */
-"Focus Previous Window" = "Vorheriges Fenster";
+"Focus Previous Window" = "Fókusz az előző ablakra";
 
 /* No comment provided by engineer. */
-"help" = "Hilfe";
+"help" = "Segítség";
 
 /* No comment provided by engineer. */
-"Hide App" = "Programm verstecken";
+"Hide App" = "Alkalmazás elrejtése";
 
 /* No comment provided by engineer. */
-"Hide other apps" = "Andere Programme verstecken";
+"Hide other apps" = "Többi alkalmazás elrejtése";
 
 /* No comment provided by engineer. */
-"Kill App" = "Programm sofort beenden";
+"Kill App" = "Alkalmazás megölése";
 
 /* No comment provided by engineer. */
-"Left Click" = "Linksklick";
+"Left Click" = "Bal kattintás";
 
 /* No comment provided by engineer. */
-"Left Edge" = "Linke Bildschirmhälfte";
+"Left Edge" = "Balszél";
 
 /* No comment provided by engineer. */
-"Maximize" = "Maximieren";
+"Maximize" = "Maximalizálás";
 
 /* No comment provided by engineer. */
-"Middle Click" = "Mittelklick";
+"Middle Click" = "Középső kattintás";
 
 /* No comment provided by engineer. */
-"Minimize" = "Minimieren";
+"Minimize" = "Minimalizálás";
 
 /* No comment provided by engineer. */
-"New Tab" = "Neuer Tab";
+"New Tab" = "Új fül";
 
 /* No comment provided by engineer. */
-"New Window" = "Neues Fenster";
+"New Window" = "Új ablak";
 
 /* No comment provided by engineer. */
-"Next" = "Weiter";
+"Next" = "Következő";
 
 /* No comment provided by engineer. */
-"Next track" = "Nächstes Lied";
+"Next track" = "Következő szám";
 
 /* No comment provided by engineer. */
-"Next window" = "Next window";
+"Next window" = "Következő ablak";
 
 /* No comment provided by engineer. */
-"No Action" = "No Action";
+"No Action" = "Semmi tennivaló";
 
 /* No comment provided by engineer. */
-"No Events!" = "Keine Ereignisse!";
+"No Events!" = "Nincsenek események!";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
 
 /* No comment provided by engineer. */
-"Open Location" = "Ort öffnen ...";
+"Open Location" = "Hely megnyitása";
 
 /* No comment provided by engineer. */
-"Play/Pause" = "Wiedergabe/Pause";
+"Play/Pause" = "Lejátszás/Szünet";
 
 /* No comment provided by engineer. */
-"Previous" = "Zurück";
+"Previous" = "Előző";
 
 /* No comment provided by engineer. */
-"Previous track" = "Previous track";
+"Previous track" = "Előző szám";
 
 /* No comment provided by engineer. */
-"Previous window" = "Previous window";
+"Previous window" = "Előző ablak";
 
 /* No comment provided by engineer. */
-"Quit App" = "Programm beenden";
+"Quit App" = "Kilépés";
 
 /* No comment provided by engineer. */
-"Restart App" = "Restart App";
+"Restart App" = "Alkalmazás újraindítása";
 
 /* No comment provided by engineer. */
-"Restart Safari to see the tab previews in HyperDock." = "Restart Safari to see the tab previews in HyperDock.";
+"Restart Safari to see the tab previews in HyperDock." = "Indítsa újra a Safari-t a HyperDock előtti fül megtekintéséhez.";
 
 /* No comment provided by engineer. */
-"Reveal App in Finder" = "Programm in Finder anzeigen";
+"Reveal App in Finder" = "Alkalmazás megtekintése a Finder-ben";
 
 /* No comment provided by engineer. */
-"Right Click" = "Rechtsklick";
+"Right Click" = "Jobb kattintás";
 
 /* No comment provided by engineer. */
-"Right Edge" = "Rechte Bildschirmhälfte";
+"Right Edge" = "Jobbszél";
 
 /* No comment provided by engineer. */
-"Safari Plugin installed!" = "Safari Plugin installed!";
+"Safari Plugin installed!" = "Safari kiegészítő telepítve!";
 
 /* No comment provided by engineer. */
-"Scroll down" = "Herunterscrollen";
+"Scroll down" = "Görgessen lefelé";
 
 /* No comment provided by engineer. */
-"Scroll left" = "Hochscrollen";
+"Scroll left" = "Görgessen balra";
 
 /* No comment provided by engineer. */
-"Scroll right" = "Scroll right";
+"Scroll right" = "Görgessen jobbra";
 
 /* No comment provided by engineer. */
-"Scroll up" = "Scroll up";
+"Scroll up" = "Görgessen felfelé";
 
 /* No comment provided by engineer. */
-"Send to Space" = "Space";
+"Send to Space" = "Küldés a következőre:";
 
 /* No comment provided by engineer. */
 "Stop" = "Stop";
 
 /* String for current day */
-"Today" = "Heute";
+"Today" = "Ma";
 
 /* No comment provided by engineer. */
-"Toggle mute" = "Toggle mute";
+"Toggle mute" = "Némítás";
 
 /* No comment provided by engineer. */
 "Tomorrow" = "Tomorrow";
 
 /* No comment provided by engineer. */
-"Uninstall" = "Uninstall";
+"Uninstall" = "Eltávolítás";
 
 /* No comment provided by engineer. */
-"Volume Down" = "Lauter";
+"Volume Down" = "Hangerő csökkentése";
 
 /* No comment provided by engineer. */
-"Volume Up" = "Leiser";
+"Volume Up" = "Hangerő emelése";
 
 /* generic new window action */
-"⌘ + N (New Window)" = "⌘ + N (New Window)";
+"⌘ + N (New Window)" = "⌘ + N (Új Ablak)";
 
 /* generic new tab action */
-"⌘ + T (New Tab)" = "⌘ + T (New Tab)";
+"⌘ + T (New Tab)" = "⌘ + T (Új Fül)";

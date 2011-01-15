@@ -1,164 +1,164 @@
 /* No comment provided by engineer. */
-"Activate App" = "Programm anzeigen";
+"Activate App" = "Aktivera Applikation";
 
 /* all-day string on ical preview */
-"all-day" = "Ganztägig";
+"all-day" = "hela dagen";
 
 /* No comment provided by engineer. */
-"Button" = "Button";
+"Button" = "Knapp";
 
 /* No comment provided by engineer. */
-"Cancel" = "Cancel";
+"Cancel" = "Avbryt";
 
 /* No comment provided by engineer. */
 "caps lock" = "caps lock";
 
 /* message in the send feedback dialog */
-"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "Click \";
+"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "Tryck \";
 
 /* No comment provided by engineer. */
-"Close" = "Schließen";
+"Close" = "Stäng";
 
 /* No comment provided by engineer. */
-"Create new mail" = "Neue Mail";
+"Create new mail" = "Skapa nytt brev";
 
 /* No comment provided by engineer. */
-"Do you really want to uninstall HyperDock?" = "Do you really want to uninstall HyperDock?";
+"Do you really want to uninstall HyperDock?" = "Vill du verkligen avinstallera HyperDock?";
 
 /* No comment provided by engineer. */
-"Execute AppleScript" = "AppleScript ausführen ...";
+"Execute AppleScript" = "Kör AppleScript";
 
 /* No comment provided by engineer. */
 "Exposé" = "Exposé";
 
 /* No comment provided by engineer. */
-"Focus Next Window" = "Nächstes Fenster";
+"Focus Next Window" = "Fokusera på Nästa Fönster";
 
 /* No comment provided by engineer. */
-"Focus Previous Window" = "Vorheriges Fenster";
+"Focus Previous Window" = "Fokusera på Föregående Fönster";
 
 /* No comment provided by engineer. */
-"help" = "Hilfe";
+"help" = "hjälp";
 
 /* No comment provided by engineer. */
-"Hide App" = "Programm verstecken";
+"Hide App" = "Göm Applikation";
 
 /* No comment provided by engineer. */
-"Hide other apps" = "Andere Programme verstecken";
+"Hide other apps" = "Göm alla andra applikationer";
 
 /* No comment provided by engineer. */
-"Kill App" = "Programm sofort beenden";
+"Kill App" = "Tvångsavsluta Applikation";
 
 /* No comment provided by engineer. */
-"Left Click" = "Linksklick";
+"Left Click" = "Vänsterklick";
 
 /* No comment provided by engineer. */
-"Left Edge" = "Linke Bildschirmhälfte";
+"Left Edge" = "Vänster kant";
 
 /* No comment provided by engineer. */
-"Maximize" = "Maximieren";
+"Maximize" = "Maximera";
 
 /* No comment provided by engineer. */
-"Middle Click" = "Mittelklick";
+"Middle Click" = "Mittenklick";
 
 /* No comment provided by engineer. */
-"Minimize" = "Minimieren";
+"Minimize" = "Minimera";
 
 /* No comment provided by engineer. */
-"New Tab" = "Neuer Tab";
+"New Tab" = "Ny flik";
 
 /* No comment provided by engineer. */
-"New Window" = "Neues Fenster";
+"New Window" = "Nytt fönster";
 
 /* No comment provided by engineer. */
-"Next" = "Weiter";
+"Next" = "Nästa";
 
 /* No comment provided by engineer. */
-"Next track" = "Nächstes Lied";
+"Next track" = "Nästa låt";
 
 /* No comment provided by engineer. */
-"Next window" = "Next window";
+"Next window" = "Nästa fönster";
 
 /* No comment provided by engineer. */
-"No Action" = "No Action";
+"No Action" = "Ingen händelse";
 
 /* No comment provided by engineer. */
-"No Events!" = "Keine Ereignisse!";
+"No Events!" = "Inga event!";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
 
 /* No comment provided by engineer. */
-"Open Location" = "Ort öffnen ...";
+"Open Location" = "Öppna Plats";
 
 /* No comment provided by engineer. */
-"Play/Pause" = "Wiedergabe/Pause";
+"Play/Pause" = "Spela/Pausa";
 
 /* No comment provided by engineer. */
-"Previous" = "Zurück";
+"Previous" = "Föregående";
 
 /* No comment provided by engineer. */
-"Previous track" = "Previous track";
+"Previous track" = "Föregående låt";
 
 /* No comment provided by engineer. */
-"Previous window" = "Previous window";
+"Previous window" = "Föregående fönster";
 
 /* No comment provided by engineer. */
-"Quit App" = "Programm beenden";
+"Quit App" = "Avsluta Applikation";
 
 /* No comment provided by engineer. */
-"Restart App" = "Restart App";
+"Restart App" = "Starta om Applikation";
 
 /* No comment provided by engineer. */
-"Restart Safari to see the tab previews in HyperDock." = "Restart Safari to see the tab previews in HyperDock.";
+"Restart Safari to see the tab previews in HyperDock." = "Starta om Safari för att se förhandsvisningen av flikarna i HyperDock.";
 
 /* No comment provided by engineer. */
-"Reveal App in Finder" = "Programm in Finder anzeigen";
+"Reveal App in Finder" = "Öppna Applikation i Finder";
 
 /* No comment provided by engineer. */
-"Right Click" = "Rechtsklick";
+"Right Click" = "Högerklick";
 
 /* No comment provided by engineer. */
-"Right Edge" = "Rechte Bildschirmhälfte";
+"Right Edge" = "Högerkant";
 
 /* No comment provided by engineer. */
-"Safari Plugin installed!" = "Safari Plugin installed!";
+"Safari Plugin installed!" = "Safari-tillägg installerat!";
 
 /* No comment provided by engineer. */
-"Scroll down" = "Herunterscrollen";
+"Scroll down" = "Scrolla ner";
 
 /* No comment provided by engineer. */
-"Scroll left" = "Hochscrollen";
+"Scroll left" = "Scrolla vänster";
 
 /* No comment provided by engineer. */
-"Scroll right" = "Scroll right";
+"Scroll right" = "Scrolla huge";
 
 /* No comment provided by engineer. */
-"Scroll up" = "Scroll up";
+"Scroll up" = "Scrolla pup";
 
 /* No comment provided by engineer. */
-"Send to Space" = "Space";
+"Send to Space" = "Skicka till Rymden";
 
 /* No comment provided by engineer. */
-"Stop" = "Stop";
+"Stop" = "Stopp";
 
 /* String for current day */
-"Today" = "Heute";
+"Today" = "Idag";
 
 /* No comment provided by engineer. */
-"Toggle mute" = "Toggle mute";
+"Toggle mute" = "Stäng av/på ljudet";
 
 /* No comment provided by engineer. */
 "Tomorrow" = "Tomorrow";
 
 /* No comment provided by engineer. */
-"Uninstall" = "Uninstall";
+"Uninstall" = "Avinstallera";
 
 /* No comment provided by engineer. */
-"Volume Down" = "Lauter";
+"Volume Down" = "Sänk Volymen";
 
 /* No comment provided by engineer. */
-"Volume Up" = "Leiser";
+"Volume Up" = "Höj Volymen";
 
 /* generic new window action */
 "⌘ + N (New Window)" = "⌘ + N (New Window)";
