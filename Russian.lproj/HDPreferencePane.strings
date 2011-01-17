@@ -1,4 +1,4 @@
-
+﻿
 /* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
 "1.title" = "Окно";
 
@@ -38,7 +38,7 @@
 /* Class = "NSButtonCell"; title = "⇧"; ObjectID = "561"; */
 "561.title" = "⇧";
 
-/* Class = "NSButtonCell"; title = "Restore Defaults ..."; ObjectID = "676"; */
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "676"; */
 "676.title" = "Настройки по умолчаниию";
 
 /* Class = "NSButtonCell"; title = "Resize windows when holding down"; ObjectID = "707"; */
@@ -71,7 +71,7 @@
 /* Class = "NSButtonCell"; title = "Send Feedback ..."; ObjectID = "1138"; */
 "1138.title" = "Связаться с нами";
 
-/* Class = "NSButtonCell"; title = "Visit Homepage ..."; ObjectID = "1141"; */
+/* Class = "NSButtonCell"; title = "Visit Homepage"; ObjectID = "1141"; */
 "1141.title" = "Посетить сайт проекта";
 
 /* Class = "NSTextFieldCell"; title = "Version XXX"; ObjectID = "1144"; */
@@ -395,9 +395,6 @@
 /* Class = "NSButtonCell"; title = "View Log"; ObjectID = "3270"; */
 "3270.title" = "Показать журнал";
 
-/* Class = "NSTextFieldCell"; title = "1,000"; ObjectID = "3276"; */
-"3276.title" = "1,000";
-
 /* Class = "NSTextFieldCell"; title = "ms"; ObjectID = "3278"; */
 "3278.title" = "mc";
 
@@ -452,7 +449,7 @@
 /* Class = "NSTextFieldCell"; title = "s"; ObjectID = "3457"; */
 "3457.title" = "с";
 
-/* Class = "NSButtonCell"; title = "Purchase ..."; ObjectID = "3471"; */
+/* Class = "NSButtonCell"; title = "Buy now ..."; ObjectID = "3471"; */
 "3471.title" = "Купить...";
 
 /* Class = "NSButtonCell"; title = "Indicate the front window"; ObjectID = "3474"; */
@@ -539,7 +536,7 @@
 /* Class = "NSTextFieldCell"; title = "+ Arrow/Numpad Keys"; ObjectID = "3610"; */
 "3610.title" = "+ Arrow/Numpad Keys";
 
-/* Class = "NSTextFieldCell"; title = "You can evaluate HyperDock for 15 days from now on.\n\nHyperDock is installed as a Mac OS Preference Pane in your System Preferences.\n"; ObjectID = "3623"; */
+/* Class = "NSTextFieldCell"; title = "You can try HyperDock for 15 days from now on.\n\nHave fun!"; ObjectID = "3623"; */
 "3623.title" = "You can evaluate HyperDock for 15 days from now on.\n\nHyperDock is installed as a Mac OS Preference Pane in your System Preferences.\n";
 
 /* Class = "NSTextFieldCell"; title = "Note: This will install an unofficial Safari extension. "; ObjectID = "3633"; */
@@ -547,3 +544,6 @@
 
 /* Class = "NSButtonCell"; title = "Learn more ..."; ObjectID = "3639"; */
 "3639.title" = "Learn more ...";
+
+/* Class = "NSButtonCell"; title = "Translate ..."; ObjectID = "3642"; */
+"3642.title" = "Translate ...";

@@ -1,4 +1,4 @@
-
+﻿
 /* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
 "1.title" = "Fenster";
 
@@ -38,7 +38,7 @@
 /* Class = "NSButtonCell"; title = "⇧"; ObjectID = "561"; */
 "561.title" = "⇧";
 
-/* Class = "NSButtonCell"; title = "Restore Defaults ..."; ObjectID = "676"; */
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "676"; */
 "676.title" = "Einstellungen zurücksetzen  ...";
 
 /* Class = "NSButtonCell"; title = "Resize windows when holding down"; ObjectID = "707"; */
@@ -71,7 +71,7 @@
 /* Class = "NSButtonCell"; title = "Send Feedback ..."; ObjectID = "1138"; */
 "1138.title" = "Feedback ...";
 
-/* Class = "NSButtonCell"; title = "Visit Homepage ..."; ObjectID = "1141"; */
+/* Class = "NSButtonCell"; title = "Visit Homepage"; ObjectID = "1141"; */
 "1141.title" = "Homepage besuchen ...";
 
 /* Class = "NSTextFieldCell"; title = "Version XXX"; ObjectID = "1144"; */
@@ -102,7 +102,7 @@
 "1602.title" = "Save Default Examples";
 
 /* Class = "NSButtonCell"; title = "Apply Config"; ObjectID = "1605"; */
-"1605.title" = "Apply Config";
+"1605.title" = "Konfiguration übernehmen";
 
 /* Class = "NSButtonCell"; title = "Hide when a preview is clicked"; ObjectID = "1701"; */
 "1701.title" = "Ausblenden, wenn eine Vorschau angeklickt wird";
@@ -279,7 +279,7 @@
 "2686.title" = "HyperDock deaktivieren";
 
 /* Class = "NSTextFieldCell"; title = "Enable this option if you experience problems like a stuttering Dock."; ObjectID = "2687"; */
-"2687.title" = "Aktiviere diese Option, wenn Probleme mit dem Dock auftreten.";
+"2687.title" = "Aktiviere diese Option, wenn Probleme mit dem Dock auftreten (z.B. Stottern).";
 
 /* Class = "NSButtonCell"; title = "Don't block Dock's autohide / magnification"; ObjectID = "2688"; */
 "2688.title" = "Ein- und Ausblenden des Docks nicht blockieren";
@@ -330,7 +330,7 @@
 "2934.label" = "Vorschau-Optionen";
 
 /* Class = "NSButtonCell"; title = "Enable Busycal events preview"; ObjectID = "2946"; */
-"2946.title" = "Enable Busycal events preview";
+"2946.title" = "BusyCal Kalendervorschau aktivieren";
 
 /* Class = "NSTextFieldCell"; title = "Limit to:"; ObjectID = "2947"; */
 "2947.title" = "Limitieren auf:";
@@ -375,7 +375,7 @@
 "3137.title" = "Limitieren auf:";
 
 /* Class = "NSButtonCell"; title = "Enable iCal events preview"; ObjectID = "3138"; */
-"3138.title" = "iCal-Vorschau aktivieren";
+"3138.title" = "iCal Kalendervorschau aktivieren";
 
 /* Class = "NSTextFieldCell"; title = "events"; ObjectID = "3139"; */
 "3139.title" = "Ereignisse";
@@ -394,9 +394,6 @@
 
 /* Class = "NSButtonCell"; title = "View Log"; ObjectID = "3270"; */
 "3270.title" = "Log ansehen";
-
-/* Class = "NSTextFieldCell"; title = "1,000"; ObjectID = "3276"; */
-"3276.title" = "1,000";
 
 /* Class = "NSTextFieldCell"; title = "ms"; ObjectID = "3278"; */
 "3278.title" = "ms";
@@ -452,8 +449,8 @@
 /* Class = "NSTextFieldCell"; title = "s"; ObjectID = "3457"; */
 "3457.title" = "s";
 
-/* Class = "NSButtonCell"; title = "Purchase ..."; ObjectID = "3471"; */
-"3471.title" = "Purchase ...";
+/* Class = "NSButtonCell"; title = "Buy now ..."; ObjectID = "3471"; */
+"3471.title" = "Kaufen ...";
 
 /* Class = "NSButtonCell"; title = "Indicate the front window"; ObjectID = "3474"; */
 "3474.title" = "Vorderstes Fenster hervorheben";
@@ -462,7 +459,7 @@
 "3481.title" = "Willkommen";
 
 /* Class = "NSTextFieldCell"; title = "Welcome to HyperDock!"; ObjectID = "3484"; */
-"3484.title" = "Willkommen zu HyperDock!";
+"3484.title" = "Willkommen bei HyperDock!";
 
 /* Class = "NSTabViewItem"; label = "1"; ObjectID = "3486"; */
 "3486.label" = "1";
@@ -501,7 +498,7 @@
 "3539.gToolTip" = "When enabled, pressing arrow/number keys directly switches spaces";
 
 /* Class = "NSButtonCell"; title = "Upgrade to unstable versions"; ObjectID = "3540"; */
-"3540.title" = "Update auf Dev-Version";
+"3540.title" = "Auf unstabile Versionen aktualisieren";
 
 /* Class = "NSTextFieldCell"; title = "Preview Rendering"; ObjectID = "3548"; */
 "3548.title" = "Vorschauoptionen";
@@ -539,11 +536,14 @@
 /* Class = "NSTextFieldCell"; title = "+ Arrow/Numpad Keys"; ObjectID = "3610"; */
 "3610.title" = "+ Pfeil-/Nummerntasten";
 
-/* Class = "NSTextFieldCell"; title = "You can evaluate HyperDock for 15 days from now on.\n\nHyperDock is installed as a Mac OS Preference Pane in your System Preferences.\n"; ObjectID = "3623"; */
-"3623.title" = "You can evaluate HyperDock for 15 days from now on.\n\nHyperDock is installed as a Mac OS Preference Pane in your System Preferences.\n";
+/* Class = "NSTextFieldCell"; title = "You can try HyperDock for 15 days from now on.\n\nHave fun!"; ObjectID = "3623"; */
+"3623.title" = "Du kannst HyperDock für 15 Tage testen.\nViel Spaß dabei!";
 
 /* Class = "NSTextFieldCell"; title = "Note: This will install an unofficial Safari extension. "; ObjectID = "3633"; */
 "3633.title" = "Hinweis: Diese Option installiert ein nicht offizielles Safari Plugin. ";
 
 /* Class = "NSButtonCell"; title = "Learn more ..."; ObjectID = "3639"; */
-"3639.title" = "Mehr ...";
+"3639.title" = "Mehr erfahren ...";
+
+/* Class = "NSButtonCell"; title = "Translate ..."; ObjectID = "3642"; */
+"3642.title" = "Übersetzen ...";

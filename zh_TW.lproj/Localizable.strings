@@ -1,11 +1,20 @@
-/* No comment provided by engineer. */
+﻿/* No comment provided by engineer. */
 "Activate App" = "顯示程式";
 
 /* all-day string on ical preview */
 "all-day" = "整日";
 
 /* No comment provided by engineer. */
+"Any Dock Item" = "Any Dock Item";
+
+/* No comment provided by engineer. */
+"Assistive Device Support Disabled." = "Assistive Device Support Disabled.";
+
+/* a mouse button */
 "Button" = "按鈕";
+
+/* No comment provided by engineer. */
+"Buy" = "Buy";
 
 /* No comment provided by engineer. */
 "Cancel" = "取消";
@@ -13,14 +22,14 @@
 /* No comment provided by engineer. */
 "caps lock" = "caps lock";
 
-/* message in the send feedback dialog */
-"Click \"Open with Mail...\" to generate a mail to <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>.<br/><br/>Before reporting bugs, you might want to read the Known Bugs section of the <a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>." = "按下 \"開啟 Mail...\" 以產生一封信寄到 <a href='mailto:hyperdock@bahoom.de'>hyperdock@bahoom.de</a>。<br/><br/>在回報錯誤之前，你也許想要看一看<a href='http://hyperdock.bahoom.de/faq.html'>FAQ</a>當中的 Known Bugs。";
-
 /* No comment provided by engineer. */
 "Close" = "關閉";
 
 /* No comment provided by engineer. */
 "Create new mail" = "建立新信件";
+
+/* No comment provided by engineer. */
+"Decide Later" = "Decide Later";
 
 /* No comment provided by engineer. */
 "Do you really want to uninstall HyperDock?" = "你確定要移除 HyperDock?";
@@ -47,6 +56,18 @@
 "Hide other apps" = "隱藏其他程式";
 
 /* No comment provided by engineer. */
+"Hope you enjoyed it!\n\nIf you want to buy an unlimited license for HyperDock, press \"Buy\"." = "Hope you enjoyed it!\n\nIf you want to buy an unlimited license for HyperDock, press \"Buy\".";
+
+/* No comment provided by engineer. */
+"HyperDock needs assistive devices support to operate.\n\nPlease enable \"Access for Assistive Devices\" in the Universal Access pane of System Preferences." = "HyperDock needs assistive devices support to operate.\n\nPlease enable \"Access for Assistive Devices\" in the Universal Access pane of System Preferences.";
+
+/* No comment provided by engineer. */
+"HyperDock Trial expired" = "HyperDock Trial expired";
+
+/* No comment provided by engineer. */
+"Invalid License" = "Invalid License";
+
+/* No comment provided by engineer. */
 "Kill App" = "強制結束程式";
 
 /* No comment provided by engineer. */
@@ -54,6 +75,9 @@
 
 /* No comment provided by engineer. */
 "Left Edge" = "左邊緣";
+
+/* e.g. Licensed for tom@gmail.com */
+"Licensed for " = "Licensed for ";
 
 /* No comment provided by engineer. */
 "Maximize" = "最大化";
@@ -87,6 +111,9 @@
 
 /* No comment provided by engineer. */
 "OK" = "確定";
+
+/* No comment provided by engineer. */
+"Open License ..." = "Open License ...";
 
 /* No comment provided by engineer. */
 "Open Location" = "開啟位置";
@@ -141,6 +168,9 @@
 
 /* No comment provided by engineer. */
 "Stop" = "停止";
+
+/* No comment provided by engineer. */
+"Support" = "Support";
 
 /* String for current day */
 "Today" = "今天";
