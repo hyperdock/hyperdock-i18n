@@ -5,16 +5,16 @@
 "all-day" = "整日";
 
 /* No comment provided by engineer. */
-"Any Dock Item" = "Any Dock Item";
+"Any Dock Item" = "任何 Dock 項目";
 
 /* No comment provided by engineer. */
-"Assistive Device Support Disabled." = "Assistive Device Support Disabled.";
+"Assistive Device Support Disabled." = "輔助設備支援已停用。";
 
 /* a mouse button */
 "Button" = "按鈕";
 
 /* No comment provided by engineer. */
-"Buy" = "Buy";
+"Buy" = "購買";
 
 /* No comment provided by engineer. */
 "Cancel" = "取消";
@@ -29,7 +29,7 @@
 "Create new mail" = "建立新信件";
 
 /* No comment provided by engineer. */
-"Decide Later" = "Decide Later";
+"Decide Later" = "稍後決定";
 
 /* No comment provided by engineer. */
 "Do you really want to uninstall HyperDock?" = "你確定要移除 HyperDock?";
@@ -56,16 +56,16 @@
 "Hide other apps" = "隱藏其他程式";
 
 /* No comment provided by engineer. */
-"Hope you enjoyed it!\n\nIf you want to buy an unlimited license for HyperDock, press \"Buy\"." = "Hope you enjoyed it!\n\nIf you want to buy an unlimited license for HyperDock, press \"Buy\".";
+"Hope you enjoyed it!\n\nIf you want to buy an unlimited license for HyperDock, press \"Buy\"." = "希望你喜歡它!\n\n如果你想要購買一份 HyperDock 的無限制授權，請點選 \"購買\"。";
 
 /* No comment provided by engineer. */
-"HyperDock needs assistive devices support to operate.\n\nPlease enable \"Access for Assistive Devices\" in the Universal Access pane of System Preferences." = "HyperDock needs assistive devices support to operate.\n\nPlease enable \"Access for Assistive Devices\" in the Universal Access pane of System Preferences.";
+"HyperDock needs assistive devices support to operate.\n\nPlease enable \"Access for Assistive Devices\" in the Universal Access pane of System Preferences." = "HyperDock 需要輔助設備支援。\n\n請到系統偏好設定中的輔助使用啟用 \"允許使用輔助設備\"。";
 
 /* No comment provided by engineer. */
-"HyperDock Trial expired" = "HyperDock Trial expired";
+"HyperDock Trial expired" = "HyperDock 試用期結束";
 
 /* No comment provided by engineer. */
-"Invalid License" = "Invalid License";
+"Invalid License" = "無效授權";
 
 /* No comment provided by engineer. */
 "Kill App" = "強制結束程式";
@@ -77,7 +77,7 @@
 "Left Edge" = "左邊緣";
 
 /* e.g. Licensed for tom@gmail.com */
-"Licensed for " = "Licensed for ";
+"Licensed for " = "授權給 ";
 
 /* No comment provided by engineer. */
 "Maximize" = "最大化";
@@ -113,7 +113,7 @@
 "OK" = "確定";
 
 /* No comment provided by engineer. */
-"Open License ..." = "Open License ...";
+"Open License ..." = "開啟授權...";
 
 /* No comment provided by engineer. */
 "Open Location" = "開啟位置";
@@ -170,7 +170,7 @@
 "Stop" = "停止";
 
 /* No comment provided by engineer. */
-"Support" = "Support";
+"Support" = "支援";
 
 /* String for current day */
 "Today" = "今天";
