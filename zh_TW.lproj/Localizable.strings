@@ -89,10 +89,10 @@
 "Minimize" = "最小化";
 
 /* No comment provided by engineer. */
-"Mouse Entered" = "Mouse Entered";
+"Mouse Entered" = "滑鼠進入";
 
 /* No comment provided by engineer. */
-"Mouse Hovered" = "Mouse Hovered";
+"Mouse Hovered" = "滑鼠經過";
 
 /* No comment provided by engineer. */
 "New Tab" = "新分頁";
@@ -125,13 +125,13 @@
 "Open Location" = "開啟位置";
 
 /* No comment provided by engineer. */
-"Other Buttons/Keys ..." = "Other Buttons/Keys ...";
+"Other Buttons/Keys ..." = "其他按鈕/按鍵...";
 
 /* No comment provided by engineer. */
 "Play/Pause" = "播放/暫停";
 
 /* No comment provided by engineer. */
-"Play/pause" = "Play/pause";
+"Play/pause" = "播放/暫停";
 
 /* No comment provided by engineer. */
 "Previous" = "上一個";
