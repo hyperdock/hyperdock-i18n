@@ -1465,7 +1465,7 @@
 								<object class="NSTabViewItem" id="869482068">
 									<string key="NSIdentifier">1</string>
 									<object class="NSView" key="NSView" id="623248314">
-										<nil key="NSNextResponder"/>
+										<reference key="NSNextResponder" ref="911337022"/>
 										<int key="NSvFlags">256</int>
 										<object class="NSMutableArray" key="NSSubviews">
 											<bool key="EncodedWithXMLCoder">YES</bool>
@@ -1663,7 +1663,7 @@
 													<object class="NSTabViewItem" id="240294130">
 														<string key="NSIdentifier">shortcuts</string>
 														<object class="NSView" key="NSView" id="689334298">
-															<nil key="NSNextResponder"/>
+															<reference key="NSNextResponder" ref="482967063"/>
 															<int key="NSvFlags">256</int>
 															<object class="NSMutableArray" key="NSSubviews">
 																<bool key="EncodedWithXMLCoder">YES</bool>
@@ -1734,7 +1734,7 @@
 																							<bool key="NSHidden">YES</bool>
 																						</object>
 																						<object class="NSTableColumn" id="108088043">
-																							<double key="NSWidth">162</double>
+																							<double key="NSWidth">190</double>
 																							<double key="NSMinWidth">40</double>
 																							<double key="NSMaxWidth">1000</double>
 																							<object class="NSTableHeaderCell" key="NSHeaderCell">
@@ -1780,7 +1780,7 @@
 																							<reference key="NSTableView" ref="152518792"/>
 																						</object>
 																						<object class="NSTableColumn" id="959655118">
-																							<double key="NSWidth">209</double>
+																							<double key="NSWidth">181</double>
 																							<double key="NSMinWidth">40</double>
 																							<double key="NSMaxWidth">1000</double>
 																							<object class="NSTableHeaderCell" key="NSHeaderCell">
@@ -1976,18 +1976,18 @@
 																			<int key="NSViewLayerContentsRedrawPolicy">2</int>
 																			<reference key="NSTarget" ref="857004209"/>
 																			<string key="NSAction">_doScroller:</string>
-																			<double key="NSPercent">0.88970588235294112</double>
+																			<double key="NSPercent">0.94423791821561343</double>
 																		</object>
 																		<object class="NSScroller" id="1000659016">
 																			<reference key="NSNextResponder" ref="857004209"/>
 																			<int key="NSvFlags">-2147483392</int>
-																			<string key="NSFrame">{{1, 323}, {196, 15}}</string>
+																			<string key="NSFrame">{{1, 271}, {377, 15}}</string>
 																			<reference key="NSSuperview" ref="857004209"/>
 																			<int key="NSViewLayerContentsRedrawPolicy">2</int>
 																			<int key="NSsFlags">1</int>
 																			<reference key="NSTarget" ref="857004209"/>
 																			<string key="NSAction">_doScroller:</string>
-																			<double key="NSPercent">0.9974811083123426</double>
+																			<double key="NSPercent">0.99735449735449733</double>
 																		</object>
 																		<object class="NSClipView" id="94030764">
 																			<reference key="NSNextResponder" ref="857004209"/>
@@ -2064,6 +2064,7 @@
 																</object>
 															</object>
 															<string key="NSFrame">{{10, 25}, {413, 332}}</string>
+															<reference key="NSSuperview" ref="482967063"/>
 														</object>
 														<string key="NSLabel">Genvägar</string>
 														<reference key="NSColor" ref="1059416748"/>
@@ -2072,7 +2073,7 @@
 													<object class="NSTabViewItem" id="102073803">
 														<string key="NSIdentifier">hyperdock.anyapp</string>
 														<object class="NSView" key="NSView" id="607790556">
-															<reference key="NSNextResponder" ref="482967063"/>
+															<nil key="NSNextResponder"/>
 															<int key="NSvFlags">256</int>
 															<object class="NSMutableArray" key="NSSubviews">
 																<bool key="EncodedWithXMLCoder">YES</bool>
@@ -2268,25 +2269,25 @@
 																</object>
 															</object>
 															<string key="NSFrame">{{10, 25}, {413, 332}}</string>
-															<reference key="NSSuperview" ref="482967063"/>
 														</object>
 														<string key="NSLabel">Fönsterfilter</string>
 														<reference key="NSColor" ref="1059416748"/>
 														<reference key="NSTabView" ref="482967063"/>
 													</object>
 												</object>
-												<reference key="NSSelectedTabViewItem" ref="102073803"/>
+												<reference key="NSSelectedTabViewItem" ref="240294130"/>
 												<reference key="NSFont" ref="26"/>
 												<int key="NSTvFlags">134217728</int>
 												<bool key="NSAllowTruncatedLabels">YES</bool>
 												<bool key="NSDrawsBackground">YES</bool>
 												<object class="NSMutableArray" key="NSSubviews">
 													<bool key="EncodedWithXMLCoder">YES</bool>
-													<reference ref="607790556"/>
+													<reference ref="689334298"/>
 												</object>
 											</object>
 										</object>
 										<string key="NSFrame">{{10, 33}, {618, 370}}</string>
+										<reference key="NSSuperview" ref="911337022"/>
 										<int key="NSViewLayerContentsRedrawPolicy">2</int>
 									</object>
 									<string key="NSLabel">Dockföremål</string>
@@ -4043,7 +4044,7 @@
 								<object class="NSTabViewItem" id="940896858">
 									<string key="NSIdentifier">Item 2</string>
 									<object class="NSView" key="NSView" id="275206134">
-										<reference key="NSNextResponder" ref="911337022"/>
+										<nil key="NSNextResponder"/>
 										<int key="NSvFlags">256</int>
 										<object class="NSMutableArray" key="NSSubviews">
 											<bool key="EncodedWithXMLCoder">YES</bool>
@@ -4738,20 +4739,19 @@ YW55Cmh5cGVyZG9ja0BiYWhvb20uZGUKaHR0cDovL2h5cGVyZG9jay5iYWhvb20uZGU</bytes>
 											</object>
 										</object>
 										<string key="NSFrame">{{10, 33}, {618, 370}}</string>
-										<reference key="NSSuperview" ref="911337022"/>
 									</object>
 									<string key="NSLabel">Om</string>
 									<reference key="NSColor" ref="1059416748"/>
 									<reference key="NSTabView" ref="911337022"/>
 								</object>
 							</object>
-							<reference key="NSSelectedTabViewItem" ref="940896858"/>
+							<reference key="NSSelectedTabViewItem" ref="869482068"/>
 							<reference key="NSFont" ref="792694913"/>
 							<int key="NSTvFlags">0</int>
 							<bool key="NSDrawsBackground">YES</bool>
 							<object class="NSMutableArray" key="NSSubviews">
 								<bool key="EncodedWithXMLCoder">YES</bool>
-								<reference ref="275206134"/>
+								<reference ref="623248314"/>
 							</object>
 						</object>
 					</object>
@@ -4780,7 +4780,6 @@ YW55Cmh5cGVyZG9ja0BiYWhvb20uZGUKaHR0cDovL2h5cGVyZG9jay5iYWhvb20uZGU</bytes>
 							<int key="NSvFlags">18</int>
 							<string key="NSFrame">{{-7, 0}, {441, 165}}</string>
 							<reference key="NSSuperview" ref="871581046"/>
-							<bool key="NSViewIsLayerTreeHost">YES</bool>
 							<int key="NSViewLayerContentsRedrawPolicy">2</int>
 							<object class="NSMutableArray" key="NSTabViewItems">
 								<bool key="EncodedWithXMLCoder">YES</bool>
@@ -4882,7 +4881,6 @@ cmVmZXJlbmNlcy4KA</string>
 										</object>
 										<string key="NSFrameSize">{441, 165}</string>
 										<reference key="NSSuperview" ref="811099454"/>
-										<bool key="NSViewIsLayerTreeHost">YES</bool>
 										<int key="NSViewLayerContentsRedrawPolicy">2</int>
 									</object>
 									<string key="NSLabel">1</string>
@@ -4911,7 +4909,6 @@ cmVmZXJlbmNlcy4KA</string>
 																<int key="NSvFlags">2322</int>
 																<string key="NSFrame">{{0, 598}, {387, 1162}}</string>
 																<reference key="NSSuperview" ref="264294963"/>
-																<bool key="NSViewIsLayerTreeHost">YES</bool>
 																<int key="NSViewLayerContentsRedrawPolicy">2</int>
 																<object class="NSTextContainer" key="NSTextContainer" id="451657018">
 																	<object class="NSLayoutManager" key="NSLayoutManager">
@@ -5156,7 +5153,6 @@ ZGUKaHR0cDovL2h5cGVyZG9jay5iYWhvb20uZGU</bytes>
 												<string key="NSFrame">{{33, 60}, {404, 124}}</string>
 												<reference key="NSSuperview" ref="443084028"/>
 												<reference key="NSNextKeyView" ref="264294963"/>
-												<bool key="NSViewIsLayerTreeHost">YES</bool>
 												<int key="NSViewLayerContentsRedrawPolicy">2</int>
 												<int key="NSsFlags">82</int>
 												<reference key="NSVScroller" ref="798150605"/>
@@ -5168,7 +5164,6 @@ ZGUKaHR0cDovL2h5cGVyZG9jay5iYWhvb20uZGU</bytes>
 												<int key="NSvFlags">289</int>
 												<string key="NSFrame">{{330, 12}, {110, 32}}</string>
 												<reference key="NSSuperview" ref="443084028"/>
-												<bool key="NSViewIsLayerTreeHost">YES</bool>
 												<int key="NSViewLayerContentsRedrawPolicy">2</int>
 												<bool key="NSEnabled">YES</bool>
 												<object class="NSButtonCell" key="NSCell" id="811556111">
@@ -5190,7 +5185,6 @@ ZGUKaHR0cDovL2h5cGVyZG9jay5iYWhvb20uZGU</bytes>
 												<int key="NSvFlags">292</int>
 												<string key="NSFrame">{{27, 12}, {110, 32}}</string>
 												<reference key="NSSuperview" ref="443084028"/>
-												<bool key="NSViewIsLayerTreeHost">YES</bool>
 												<int key="NSViewLayerContentsRedrawPolicy">2</int>
 												<bool key="NSEnabled">YES</bool>
 												<object class="NSButtonCell" key="NSCell" id="940211695">
@@ -5226,7 +5220,6 @@ ZGUKaHR0cDovL2h5cGVyZG9jay5iYWhvb20uZGU</bytes>
 											</object>
 										</object>
 										<string key="NSFrameSize">{454, 229}</string>
-										<bool key="NSViewIsLayerTreeHost">YES</bool>
 										<int key="NSViewLayerContentsRedrawPolicy">2</int>
 									</object>
 									<string key="NSLabel">2</string>
@@ -5245,7 +5238,6 @@ ZGUKaHR0cDovL2h5cGVyZG9jay5iYWhvb20uZGU</bytes>
 						</object>
 					</object>
 					<string key="NSFrameSize">{434, 161}</string>
-					<bool key="NSViewIsLayerTreeHost">YES</bool>
 					<int key="NSViewLayerContentsRedrawPolicy">2</int>
 				</object>
 				<string key="NSScreenRect">{{0, 0}, {1680, 1028}}</string>

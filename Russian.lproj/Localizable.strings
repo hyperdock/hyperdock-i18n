@@ -89,6 +89,12 @@
 "Minimize" = "Минимизировать";
 
 /* No comment provided by engineer. */
+"Mouse Entered" = "Mouse Entered";
+
+/* No comment provided by engineer. */
+"Mouse Hovered" = "Mouse Hovered";
+
+/* No comment provided by engineer. */
 "New Tab" = "Новая вкладка";
 
 /* No comment provided by engineer. */
@@ -119,7 +125,13 @@
 "Open Location" = "Открыть расположение";
 
 /* No comment provided by engineer. */
+"Other Buttons/Keys ..." = "Other Buttons/Keys ...";
+
+/* No comment provided by engineer. */
 "Play/Pause" = "Воспроизведение/пауза";
+
+/* No comment provided by engineer. */
+"Play/pause" = "Play/pause";
 
 /* No comment provided by engineer. */
 "Previous" = "Предыдущий";
