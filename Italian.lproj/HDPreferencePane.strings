@@ -84,7 +84,7 @@
 "1424.title" = "Mostra anteprima a tutto schermo quando ci passi sopra";
 
 /* Class = "NSButtonCell"; title = "Windows from all spaces"; ObjectID = "1428"; */
-"1428.title" = "Finestre da tutti gli spazi";
+"1428.title" = "Finestre da tutti gli space";
 
 /* Class = "NSButtonCell"; title = "Snap windows when dragging to screen edges"; ObjectID = "1488"; */
 "1488.title" = "Abilita Ridimensionamento Finestre";
@@ -93,7 +93,7 @@
 "1505.title" = "Beta";
 
 /* Class = "NSButtonCell"; title = "Minimized/hidden windows"; ObjectID = "1511"; */
-"1511.title" = "Finestre minimizzate / nascoste";
+"1511.title" = "Finestre minimizzate/nascoste";
 
 /* Class = "NSWindow"; title = "DEBUG "; ObjectID = "1559"; */
 "1559.title" = "DEBUG";
@@ -108,7 +108,7 @@
 "1701.title" = "Nascondi quando una anteprima viene cliccata";
 
 /* Class = "NSButtonCell"; title = "Don't show if there is only one app window"; ObjectID = "1718"; */
-"1718.title" = "Non  mostrare se l'App ha una sola finestra";
+"1718.title" = "Non  mostrare se l'applicazione ha una sola finestra";
 
 /* Class = "NSTabViewItem"; label = "Appearance"; ObjectID = "1813"; */
 "1813.label" = "Aspetto";
@@ -117,7 +117,7 @@
 "1823.title" = "Pulsante Chiudi";
 
 /* Class = "NSButtonCell"; title = "Application name"; ObjectID = "1824"; */
-"1824.title" = "Nome Applicazione";
+"1824.title" = "Nome applicazione";
 
 /* Class = "NSTextFieldCell"; title = "Bubble size:"; ObjectID = "1829"; */
 "1829.title" = "Dimensioni anteprima";
@@ -240,10 +240,10 @@
 "2534.title" = "Ritardo (bordo esatto dello schermo)";
 
 /* Class = "NSTextFieldCell"; title = "When you hold these modifier keys, you can move&resize windows from anywhere - not just the titlebar."; ObjectID = "2539"; */
-"2539.title" = "Quando tieni premuti questi tasti modificatori, puoi muovere e ridimensionare le finestre da qualsiasi punto - non solo dalla bara del titolo.";
+"2539.title" = "Quando tieni premuti questi tasti puoi muovere e ridimensionare le finestre da qualsiasi punto, non solo dalla barra del titolo.";
 
 /* Class = "NSButton"; gToolTip = "When enabled, pressing arrow/number keys directly switches spaces"; ObjectID = "2550"; */
-"2550.gToolTip" = "Quando abilitato, premendo le freccie/numero vai direttamente allo spazio";
+"2550.gToolTip" = "Quando abilitato, premendo le frecce o i tasti numerici vai direttamente allo space";
 
 /* Class = "NSButtonCell"; title = "Blur bubble background"; ObjectID = "2551"; */
 "2551.title" = "Sfuma sfondo anteprima";
@@ -282,7 +282,7 @@
 "2687.title" = "Abilita questa opzione se hai problemi tipo tremolio del Dock";
 
 /* Class = "NSButtonCell"; title = "Don't block Dock's autohide / magnification"; ObjectID = "2688"; */
-"2688.title" = "Non bloccare Nascondi / Ingrandisci Dock";
+"2688.title" = "Non bloccare la scomparsa automatica o l'ingrandimento del Dock";
 
 /* Class = "NSTabViewItem"; label = "Shortcuts"; ObjectID = "2708"; */
 "2708.label" = "Scorciatoie";
@@ -309,7 +309,7 @@
 "2833.title" = "Scorrere sull'icona di iTunes regola il volume";
 
 /* Class = "NSMenuItem"; title = "Creation time"; ObjectID = "2859"; */
-"2859.title" = "Tempo Creazione";
+"2859.title" = "Data di creazione";
 
 /* Class = "NSButtonCell"; title = "Order current space windows to front"; ObjectID = "2861"; */
 "2861.title" = "Ordina lo space attuale in avanti";
@@ -318,7 +318,7 @@
 "2888.title" = "Questo ti permette di escludere le finestre da HyperDock. Un singolo asterisco (*) le esclude tutte.";
 
 /* Class = "NSTableColumn"; headerCell.title = "Window title filter"; ObjectID = "2898"; */
-"2898.headerCell.title" = "Filtro titolo Finestra";
+"2898.headerCell.title" = "Filtra per titolo finestra";
 
 /* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "2904"; */
 "2904.title" = "Testo";
@@ -387,7 +387,7 @@
 "3164.title" = "Mostra";
 
 /* Class = "NSButton"; gToolTip = "When enabled, pressing arrow/number keys directly switches spaces"; ObjectID = "3257"; */
-"3257.gToolTip" = "Quando abilitato, premendo le freccie/numero vai direttamente allo spazio";
+"3257.gToolTip" = "Quando abilitato, premendo le frecce/tasti numerici vai direttamente allo space";
 
 /* Class = "NSButtonCell"; title = "Enable logging"; ObjectID = "3258"; */
 "3258.title" = "Abilita logging";
@@ -402,10 +402,10 @@
 "3279.title" = "Ritardo Attivazione";
 
 /* Class = "NSButtonCell"; title = "Left mouse button"; ObjectID = "3285"; */
-"3285.title" = "Pulsante sinistro mouse";
+"3285.title" = "Pulsante sinistro del mouse";
 
 /* Class = "NSButtonCell"; title = "Left mouse button"; ObjectID = "3287"; */
-"3287.title" = "Pulsante sinistro mouse";
+"3287.title" = "Pulsante sinistro del mouse";
 
 /* Class = "NSTextFieldCell"; title = "Thumbnail interpolation quality:"; ObjectID = "3302"; */
 "3302.title" = "Qualità interpolazione miniature:";
@@ -423,16 +423,16 @@
 "3308.title" = "Alto";
 
 /* Class = "NSTextFieldCell"; title = "Popup animation:"; ObjectID = "3323"; */
-"3323.title" = "Animazione PopUp";
+"3323.title" = "Animazione Popup";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "3326"; */
 "3326.title" = "Altre viste";
 
 /* Class = "NSMenuItem"; title = "Snap in"; ObjectID = "3327"; */
-"3327.title" = "Vai dentro";
+"3327.title" = "Ingresso veloce";
 
 /* Class = "NSMenuItem"; title = "Fade in"; ObjectID = "3328"; */
-"3328.title" = "Sfuma ingresso";
+"3328.title" = "Ingresso sfumato";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "3329"; */
 "3329.title" = "Nessuno";
@@ -450,7 +450,7 @@
 "3457.title" = "s";
 
 /* Class = "NSButtonCell"; title = "Buy now ..."; ObjectID = "3471"; */
-"3471.title" = "Acquista....";
+"3471.title" = "Acquista ...";
 
 /* Class = "NSButtonCell"; title = "Indicate the front window"; ObjectID = "3474"; */
 "3474.title" = "Indicare la finestra avanti";
@@ -471,7 +471,7 @@
 "3499.title" = "Accetta";
 
 /* Class = "NSTextFieldCell"; title = "License Agreement"; ObjectID = "3503"; */
-"3503.title" = "Accordo do Licenza";
+"3503.title" = "Accordo di Licenza";
 
 /* Class = "NSButtonCell"; title = "Decline"; ObjectID = "3505"; */
 "3505.title" = "Rinuncia";
@@ -480,43 +480,43 @@
 "3514.title" = "Continua";
 
 /* Class = "NSButtonCell"; title = "Check now"; ObjectID = "3529"; */
-"3529.title" = "Check now";
+"3529.title" = "Controlla ora";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "3531"; */
-"3531.title" = "OtherViews";
+"3531.title" = "Altre viste";
 
 /* Class = "NSMenuItem"; title = "Hourly"; ObjectID = "3532"; */
-"3532.title" = "Hourly";
+"3532.title" = "Ogni ora";
 
 /* Class = "NSMenuItem"; title = "Weekly"; ObjectID = "3533"; */
-"3533.title" = "Weekly";
+"3533.title" = "Settimanalmente";
 
 /* Class = "NSButtonCell"; title = "Check for Updates:"; ObjectID = "3534"; */
-"3534.title" = "Check for Updates:";
+"3534.title" = "Controlla aggiornamenti:";
 
 /* Class = "NSButton"; gToolTip = "When enabled, pressing arrow/number keys directly switches spaces"; ObjectID = "3539"; */
-"3539.gToolTip" = "When enabled, pressing arrow/number keys directly switches spaces";
+"3539.gToolTip" = "Quando abilitato, premendo le frecce/tasti numerici vai direttamente allo space";
 
 /* Class = "NSButtonCell"; title = "Upgrade to unstable versions"; ObjectID = "3540"; */
-"3540.title" = "Upgrade to unstable versions";
+"3540.title" = "Aggiorna a versioni non stabili";
 
 /* Class = "NSTextFieldCell"; title = "Preview Rendering"; ObjectID = "3548"; */
-"3548.title" = "Preview Rendering";
+"3548.title" = "Mostra anteprima";
 
 /* Class = "NSTextFieldCell"; title = "Software Updates"; ObjectID = "3570"; */
-"3570.title" = "Software Updates";
+"3570.title" = "Aggiornamenti Software";
 
 /* Class = "NSTextFieldCell"; title = "Delays"; ObjectID = "3572"; */
-"3572.title" = "Delays";
+"3572.title" = "Ritardo";
 
 /* Class = "NSMenuItem"; title = "Daily"; ObjectID = "3578"; */
-"3578.title" = "Daily";
+"3578.title" = "Giornalmente";
 
 /* Class = "NSTextFieldCell"; title = "Window Snapping"; ObjectID = "3583"; */
-"3583.title" = "Window Snapping";
+"3583.title" = "Chiusura della finestra";
 
 /* Class = "NSTextFieldCell"; title = "Window Dragging"; ObjectID = "3585"; */
-"3585.title" = "Window Dragging";
+"3585.title" = "Trascinamento della finestra";
 
 /* Class = "NSButtonCell"; title = "^"; ObjectID = "3593"; */
 "3593.title" = "^";
@@ -525,7 +525,7 @@
 "3594.title" = "⌥";
 
 /* Class = "NSButtonCell"; title = "Snap windows when pressing"; ObjectID = "3595"; */
-"3595.title" = "Snap windows when pressing";
+"3595.title" = "Chiudi le finestre quando vengono cliccate";
 
 /* Class = "NSButtonCell"; title = "⇧"; ObjectID = "3596"; */
 "3596.title" = "⇧";
@@ -534,16 +534,16 @@
 "3597.title" = "⌘";
 
 /* Class = "NSTextFieldCell"; title = "+ Arrow/Numpad Keys"; ObjectID = "3610"; */
-"3610.title" = "+ Arrow/Numpad Keys";
+"3610.title" = "+ Frecce/Tasti Numerici";
 
 /* Class = "NSTextFieldCell"; title = "You can try HyperDock for 15 days from now on.\n\nHave fun!"; ObjectID = "3623"; */
-"3623.title" = "You can try HyperDock for 15 days from now on.\n\nHave fun!";
+"3623.title" = "Da oggi puoi provare HyperDock per altri 15 giorni.\n\nDivertiti!";
 
 /* Class = "NSTextFieldCell"; title = "Note: This will install an unofficial Safari extension. "; ObjectID = "3633"; */
-"3633.title" = "Note: This will install an unofficial Safari extension. ";
+"3633.title" = "Nota: Verrà installata una estensione di Safari non ufficiale. ";
 
 /* Class = "NSButtonCell"; title = "Learn more ..."; ObjectID = "3639"; */
-"3639.title" = "Learn more ...";
+"3639.title" = "Scopri di più ...";
 
 /* Class = "NSButtonCell"; title = "Translate ..."; ObjectID = "3642"; */
-"3642.title" = "Translate ...";
+"3642.title" = "Traduci ...";
