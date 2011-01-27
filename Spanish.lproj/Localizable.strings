@@ -5,16 +5,16 @@
 "all-day" = "todo el día";
 
 /* No comment provided by engineer. */
-"Any Dock Item" = "Any Dock Item";
+"Any Dock Item" = "Cualquier ítem del Dock";
 
 /* No comment provided by engineer. */
-"Assistive Device Support Disabled." = "Assistive Device Support Disabled.";
+"Assistive Device Support Disabled." = "Soporte para Instrumentos Asistivos Desactivado.";
 
 /* a mouse button */
 "Button" = "Botón";
 
 /* No comment provided by engineer. */
-"Buy" = "Buy";
+"Buy" = "Comprar";
 
 /* No comment provided by engineer. */
 "Cancel" = "Cancelar";
@@ -29,7 +29,7 @@
 "Create new mail" = "Crear nuevo correo";
 
 /* No comment provided by engineer. */
-"Decide Later" = "Decide Later";
+"Decide Later" = "Decidir Después";
 
 /* No comment provided by engineer. */
 "Do you really want to uninstall HyperDock?" = "¿En realidad desea desinstalar HyperDock?";
@@ -56,19 +56,19 @@
 "Hide other apps" = "Esconder otras apps";
 
 /* No comment provided by engineer. */
-"Hope you enjoyed it!\n\nIf you want to buy an unlimited license for HyperDock, press \"Buy\"." = "Hope you enjoyed it!\n\nIf you want to buy an unlimited license for HyperDock, press \"Buy\".";
+"Hope you enjoyed it!\n\nIf you want to buy an unlimited license for HyperDock, press \"Buy\"." = "Esperamos que lo hayas disfrutado!\n\nSi quieres una licencia ilimitada para HyperDock, presiona \"Comprar\".";
 
 /* No comment provided by engineer. */
-"HyperDock needs assistive devices support to operate.\n\nPlease enable \"Access for Assistive Devices\" in the Universal Access pane of System Preferences." = "HyperDock needs assistive devices support to operate.\n\nPlease enable \"Access for Assistive Devices\" in the Universal Access pane of System Preferences.";
+"HyperDock needs assistive devices support to operate.\n\nPlease enable \"Access for Assistive Devices\" in the Universal Access pane of System Preferences." = "HyperDock necesita que esté activado el soporte para instrumentos asistivos.\n\nPor favor active \"Acceso para Instrumentos Asistivos\" en el Panel de Acceso Universal en las Preferencias del Sistema.";
 
 /* No comment provided by engineer. */
-"HyperDock Trial expired" = "HyperDock Trial expired";
+"HyperDock Trial expired" = "La Versión de Prueba de HyperDock ha expirado";
 
 /* No comment provided by engineer. */
-"Invalid License" = "Invalid License";
+"Invalid License" = "Licencia Inválida";
 
 /* No comment provided by engineer. */
-"Kill App" = "Cerrar Forzosamente elu App";
+"Kill App" = "Cerrar Forzosamente el App";
 
 /* No comment provided by engineer. */
 "Left Click" = "Click Izquierdo";
@@ -77,7 +77,7 @@
 "Left Edge" = "Borde Izquierdo";
 
 /* e.g. Licensed for tom@gmail.com */
-"Licensed for " = "Licensed for ";
+"Licensed for " = "Licenciado a ";
 
 /* No comment provided by engineer. */
 "Maximize" = "Maximizar";
@@ -89,10 +89,10 @@
 "Minimize" = "Minimizar";
 
 /* No comment provided by engineer. */
-"Mouse Entered" = "Mouse Entered";
+"Mouse Entered" = "Mouse Entró";
 
 /* No comment provided by engineer. */
-"Mouse Hovered" = "Mouse Hovered";
+"Mouse Hovered" = "Mouse Flotó";
 
 /* No comment provided by engineer. */
 "New Tab" = "Nueva Pestaña";
@@ -119,19 +119,19 @@
 "OK" = "OK";
 
 /* No comment provided by engineer. */
-"Open License ..." = "Open License ...";
+"Open License ..." = "Abrir Licencia ...";
 
 /* No comment provided by engineer. */
 "Open Location" = "Abrir Lugar";
 
 /* No comment provided by engineer. */
-"Other Buttons/Keys ..." = "Other Buttons/Keys ...";
+"Other Buttons/Keys ..." = "Otros Botones/Teclas ...";
 
 /* No comment provided by engineer. */
 "Play/Pause" = "Reproducir/Pausa";
 
 /* No comment provided by engineer. */
-"Play/pause" = "Play/pause";
+"Play/pause" = "Reproducir/pausa";
 
 /* No comment provided by engineer. */
 "Previous" = "Previo";
@@ -182,7 +182,7 @@
 "Stop" = "Detener";
 
 /* No comment provided by engineer. */
-"Support" = "Support";
+"Support" = "Soporte";
 
 /* String for current day */
 "Today" = "Hoy";
@@ -191,7 +191,7 @@
 "Toggle mute" = "Mute";
 
 /* No comment provided by engineer. */
-"Tomorrow" = "Tomorrow";
+"Tomorrow" = "Mañana";
 
 /* No comment provided by engineer. */
 "Uninstall" = "Desinstalar";
