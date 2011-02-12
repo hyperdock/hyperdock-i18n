@@ -1,0 +1,549 @@
+﻿
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "창";
+
+/* Class = "NSTableColumn"; headerCell.title = "Dock Items"; ObjectID = "13"; */
+"13.headerCell.title" = "독(Dock) 메니지먼트";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "16"; */
+"16.title" = "Text Cell";
+
+/* Class = "NSTabViewItem"; label = "Dock Items"; ObjectID = "71"; */
+"71.label" = "독 아이템";
+
+/* Class = "NSTabViewItem"; label = "About"; ObjectID = "75"; */
+"75.label" = "About";
+
+/* Class = "NSTextFieldCell"; title = "HyperDock"; ObjectID = "100"; */
+"100.title" = "HyperDock";
+
+/* Class = "NSButtonCell"; title = "Uninstall ..."; ObjectID = "106"; */
+"106.title" = "언인스톨";
+
+/* Class = "NSTabViewItem"; label = "Window Management"; ObjectID = "119"; */
+"119.label" = "창(Window) 관리";
+
+/* Class = "NSButtonCell"; title = "Move windows when holding down"; ObjectID = "224"; */
+"224.title" = "누른채로 창 이동";
+
+/* Class = "NSButtonCell"; title = "^"; ObjectID = "555"; */
+"555.title" = "^";
+
+/* Class = "NSButtonCell"; title = "⌥"; ObjectID = "557"; */
+"557.title" = "⌥";
+
+/* Class = "NSButtonCell"; title = "⌘"; ObjectID = "559"; */
+"559.title" = "⌘";
+
+/* Class = "NSButtonCell"; title = "⇧"; ObjectID = "561"; */
+"561.title" = "⇧";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "676"; */
+"676.title" = "모든 설정값을 초기화";
+
+/* Class = "NSButtonCell"; title = "Resize windows when holding down"; ObjectID = "707"; */
+"707.title" = "창 크기 조절 단축키";
+
+/* Class = "NSButtonCell"; title = "⇧"; ObjectID = "715"; */
+"715.title" = "⇧";
+
+/* Class = "NSButtonCell"; title = "⌘"; ObjectID = "716"; */
+"716.title" = "⌘";
+
+/* Class = "NSButtonCell"; title = "⌥"; ObjectID = "717"; */
+"717.title" = "⌥";
+
+/* Class = "NSButtonCell"; title = "^"; ObjectID = "718"; */
+"718.title" = "^";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "1086"; */
+"1086.label" = "일반";
+
+/* Class = "NSPanel"; title = "Window"; ObjectID = "1117"; */
+"1117.title" = "창";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "1122"; */
+"1122.title" = "승인";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1124"; */
+"1124.title" = "취소";
+
+/* Class = "NSButtonCell"; title = "Send Feedback ..."; ObjectID = "1138"; */
+"1138.title" = "개발자에게 피드백 보내기";
+
+/* Class = "NSButtonCell"; title = "Visit Homepage"; ObjectID = "1141"; */
+"1141.title" = "홈페이지 방문";
+
+/* Class = "NSTextFieldCell"; title = "Version XXX"; ObjectID = "1144"; */
+"1144.title" = "Version XXX";
+
+/* Class = "NSButtonCell"; title = "Enable window previews"; ObjectID = "1158"; */
+"1158.title" = "미리보기 활성화";
+
+/* Class = "NSButtonCell"; title = "Show full size preview on hover"; ObjectID = "1424"; */
+"1424.title" = "마우스 커서를 올려두면 풀사이즈 미리보기 나타나기";
+
+/* Class = "NSButtonCell"; title = "Windows from all spaces"; ObjectID = "1428"; */
+"1428.title" = "스페이스에 흩어져 있는 창을 모두 표시";
+
+/* Class = "NSButtonCell"; title = "Snap windows when dragging to screen edges"; ObjectID = "1488"; */
+"1488.title" = "창을 화면 가장자리로 끌고가면 스냅을 활성";
+
+/* Class = "NSTextFieldCell"; title = "Beta"; ObjectID = "1505"; */
+"1505.title" = "BETA";
+
+/* Class = "NSButtonCell"; title = "Minimized/hidden windows"; ObjectID = "1511"; */
+"1511.title" = "최소화 되었거나 숨겨진 창도 표시";
+
+/* Class = "NSWindow"; title = "DEBUG "; ObjectID = "1559"; */
+"1559.title" = "디버그 ";
+
+/* Class = "NSButtonCell"; title = "Save Default Examples"; ObjectID = "1602"; */
+"1602.title" = "기본 예제 저장";
+
+/* Class = "NSButtonCell"; title = "Apply Config"; ObjectID = "1605"; */
+"1605.title" = "설정 적용";
+
+/* Class = "NSButtonCell"; title = "Hide when a preview is clicked"; ObjectID = "1701"; */
+"1701.title" = "미리보기창을 클릭하면 다시 감추기";
+
+/* Class = "NSButtonCell"; title = "Don't show if there is only one app window"; ObjectID = "1718"; */
+"1718.title" = "창이 하나인 어플은 미리보기창을 표시하지 않기";
+
+/* Class = "NSTabViewItem"; label = "Appearance"; ObjectID = "1813"; */
+"1813.label" = "레이아웃";
+
+/* Class = "NSButtonCell"; title = "Close button"; ObjectID = "1823"; */
+"1823.title" = "창 닫기 버튼";
+
+/* Class = "NSButtonCell"; title = "Application name"; ObjectID = "1824"; */
+"1824.title" = "어플리케이션 이름";
+
+/* Class = "NSTextFieldCell"; title = "Bubble size:"; ObjectID = "1829"; */
+"1829.title" = "미리보기창 사이즈:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Event"; ObjectID = "1856"; */
+"1856.headerCell.title" = "이벤트";
+
+/* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "1858"; */
+"1858.headerCell.title" = "행동";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1860"; */
+"1860.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1870"; */
+"1870.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Right Click"; ObjectID = "1871"; */
+"1871.title" = "마우스 우클릭";
+
+/* Class = "NSMenuItem"; title = "Other Buttons/Keys ..."; ObjectID = "1872"; */
+"1872.title" = "임의의 키 입력";
+
+/* Class = "NSMenuItem"; title = "Left Click"; ObjectID = "1873"; */
+"1873.title" = "마우스 좌클릭";
+
+/* Class = "NSMenuItem"; title = "Mouse Entered"; ObjectID = "1875"; */
+"1875.title" = "마우스 입력";
+
+/* Class = "NSMenuItem"; title = "Mouse Hovered"; ObjectID = "1876"; */
+"1876.title" = "마우스 호버";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "1879"; */
+"1879.title" = "위로 스크롤";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "1880"; */
+"1880.title" = "아래로 스크롤";
+
+/* Class = "NSMenuItem"; title = "Middle Click"; ObjectID = "1881"; */
+"1881.title" = "마우스 휠버튼 클릭";
+
+/* Class = "IBBindingConnection"; designableIsNilPlaceholder = "none"; ObjectID = "1886"; */
+"1886.designableIsNilPlaceholder" = "없음";
+
+/* Class = "IBBindingConnection"; designableNotApplicablePlaceholder = "none"; ObjectID = "1886"; */
+"1886.designableNotApplicablePlaceholder" = "없음";
+
+/* Class = "IBBindingConnection"; designableIsNilPlaceholder = "null"; ObjectID = "1887"; */
+"1887.designableIsNilPlaceholder" = "null";
+
+/* Class = "IBBindingConnection"; designableNoSelectionPlaceholder = "Select Event1"; ObjectID = "1887"; */
+"1887.designableNoSelectionPlaceholder" = "이벤트1 선택";
+
+/* Class = "IBBindingConnection"; designableNotApplicablePlaceholder = "Select 2"; ObjectID = "1887"; */
+"1887.designableNotApplicablePlaceholder" = "이벤트2 선택";
+
+/* Class = "NSTextFieldCell"; title = "Include:"; ObjectID = "1894"; */
+"1894.title" = "다음을 포함:";
+
+/* Class = "NSTextFieldCell"; title = "Order by:"; ObjectID = "1899"; */
+"1899.title" = "미리보기 순서:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1902"; */
+"1902.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Recent usage"; ObjectID = "1904"; */
+"1904.title" = "최근 사용순으로";
+
+/* Class = "NSTextFieldCell"; title = "Behaviour:"; ObjectID = "1907"; */
+"1907.title" = "옵션:";
+
+/* Class = "NSTextFieldCell"; title = "Small"; ObjectID = "1994"; */
+"1994.title" = "작음";
+
+/* Class = "NSTextFieldCell"; title = "Large"; ObjectID = "1996"; */
+"1996.title" = "큼";
+
+/* Class = "NSTextFieldCell"; title = "Elements:"; ObjectID = "2013"; */
+"2013.title" = "미리보기창에 표시될 요소들:";
+
+/* Class = "NSButtonCell"; title = "Minimized indicator / space number"; ObjectID = "2018"; */
+"2018.title" = "최소화된 창이나 스페이스 위치를 나타내는 아이콘";
+
+/* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "2062"; */
+"2062.label" = "고급";
+
+/* Class = "NSTextFieldCell"; title = "ms"; ObjectID = "2331"; */
+"2331.title" = "ms";
+
+/* Class = "NSTextFieldCell"; title = "Full size preview delay on subsequent activation:"; ObjectID = "2345"; */
+"2345.title" = "풀사이즈 프리뷰가 나타나기까지의 두번째 지연 시간";
+
+/* Class = "NSTextFieldCell"; title = "Close button activation delay:"; ObjectID = "2349"; */
+"2349.title" = "닫기 버튼 표시 지연 시간:";
+
+/* Class = "NSTextFieldCell"; title = "ms"; ObjectID = "2354"; */
+"2354.title" = "ms";
+
+/* Class = "NSTextFieldCell"; title = "Full size preview delay on first activation:"; ObjectID = "2356"; */
+"2356.title" = "풀사이즈 프리뷰가 나타나기까지의 첫 지연 시간";
+
+/* Class = "NSTextFieldCell"; title = "Preview deactivation delay:"; ObjectID = "2357"; */
+"2357.title" = "미리보기창이 사라지기까지 지연 시간";
+
+/* Class = "NSTextFieldCell"; title = "ms"; ObjectID = "2360"; */
+"2360.title" = "ms";
+
+/* Class = "NSTextFieldCell"; title = "s "; ObjectID = "2407"; */
+"2407.title" = "s ";
+
+/* Class = "NSTextFieldCell"; title = "s"; ObjectID = "2408"; */
+"2408.title" = "s";
+
+/* Class = "NSTextFieldCell"; title = "Delay (near screen border):"; ObjectID = "2410"; */
+"2410.title" = "지연 시간 - 스크린 가장자리에 근접한 경우:";
+
+/* Class = "NSButtonCell"; title = "Hide when a dock item is clicked"; ObjectID = "2448"; */
+"2448.title" = "독 아이템을 클릭하면 다시 감추기";
+
+/* Class = "NSTextFieldCell"; title = "Delay (exact screen border):"; ObjectID = "2534"; */
+"2534.title" = "지연 시간 - 스크린 가장자리에 정확히 접촉한 경우:";
+
+/* Class = "NSTextFieldCell"; title = "When you hold these modifier keys, you can move&resize windows from anywhere - not just the titlebar."; ObjectID = "2539"; */
+"2539.title" = "윈도우 최상단이나 리사이즈 버튼을 드래그 할 필요 없이 스크린 어느 위치에서라도 위 단축키와 마우스 조작으로 창을 이동시키거나 크기를 조절할 수 있습니다.";
+
+/* Class = "NSButton"; gToolTip = "When enabled, pressing arrow/number keys directly switches spaces"; ObjectID = "2550"; */
+"2550.gToolTip" = "When enabled, pressing arrow/number keys directly switches spaces";
+
+/* Class = "NSButtonCell"; title = "Blur bubble background"; ObjectID = "2551"; */
+"2551.title" = "미리보기창의 배경을 흐림";
+
+/* Class = "NSButtonCell"; title = "Shade invisible windows"; ObjectID = "2553"; */
+"2553.title" = "숨겨진 창 어둡게 표시하기";
+
+/* Class = "NSButtonCell"; title = "Draw highlight gradient"; ObjectID = "2554"; */
+"2554.title" = "그레디언트 효과로 선택한 썸네일 강조";
+
+/* Class = "NSButtonCell"; title = "Draw triangle below bubble"; ObjectID = "2555"; */
+"2555.title" = "미리보기창에 말풍선 꼬리 넣기";
+
+/* Class = "NSTextFieldCell"; title = "px"; ObjectID = "2586"; */
+"2586.title" = "픽셀";
+
+/* Class = "NSTextFieldCell"; title = "Distance from the Dock:"; ObjectID = "2588"; */
+"2588.title" = "미리보기창과 독 사이의 여백:";
+
+/* Class = "NSButtonCell"; title = "Palettes"; ObjectID = "2596"; */
+"2596.title" = "팔레트";
+
+/* Class = "NSButton"; gToolTip = "When enabled, pressing arrow/number keys directly switches spaces"; ObjectID = "2601"; */
+"2601.gToolTip" = "활성화시 방향키/숫자키만 눌러도 바로 해당 스페이스로 이동";
+
+/* Class = "NSButtonCell"; title = "Update to dev versions"; ObjectID = "2602"; */
+"2602.title" = "개발자 버전으로 업데이트";
+
+/* Class = "NSButtonCell"; title = "Open License ..."; ObjectID = "2657"; */
+"2657.title" = "라이센스 파일 열기";
+
+/* Class = "NSButtonCell"; title = "Disable HyperDock"; ObjectID = "2686"; */
+"2686.title" = "HyperDock 비활성화";
+
+/* Class = "NSTextFieldCell"; title = "Enable this option if you experience problems like a stuttering Dock."; ObjectID = "2687"; */
+"2687.title" = "독이 깨지거나 랙이 발생할 경우에만 이 옵션을 활성화하세요.";
+
+/* Class = "NSButtonCell"; title = "Don't block Dock's autohide / magnification"; ObjectID = "2688"; */
+"2688.title" = "독의 자동 가리기 및 확대 기능과 충돌 방지";
+
+/* Class = "NSTabViewItem"; label = "Shortcuts"; ObjectID = "2708"; */
+"2708.label" = "단축키";
+
+/* Class = "NSTabViewItem"; label = "Window Filters"; ObjectID = "2710"; */
+"2710.label" = "필터링";
+
+/* Class = "NSTabViewItem"; label = "Preview Options"; ObjectID = "2754"; */
+"2754.label" = "미리보기 옵션";
+
+/* Class = "NSButtonCell"; title = "Show ratings"; ObjectID = "2763"; */
+"2763.title" = "별점 보기";
+
+/* Class = "NSButtonCell"; title = "Enable iTunes special preview"; ObjectID = "2764"; */
+"2764.title" = "아이튠 스페셜 미리보기 활성화";
+
+/* Class = "NSTabViewItem"; label = "Preview Options"; ObjectID = "2772"; */
+"2772.label" = "미리보기 옵션";
+
+/* Class = "NSButtonCell"; title = "Show tabs instead of windows"; ObjectID = "2775"; */
+"2775.title" = "창 대신 탭 내용 미리보기";
+
+/* Class = "NSButtonCell"; title = "Scrolling on the iTunes icon adjusts volume"; ObjectID = "2833"; */
+"2833.title" = "아이튠즈 아이콘 위에서 마우스 스크롤로 볼륨 조절 가능";
+
+/* Class = "NSMenuItem"; title = "Creation time"; ObjectID = "2859"; */
+"2859.title" = "생성된 순서로";
+
+/* Class = "NSButtonCell"; title = "Order current space windows to front"; ObjectID = "2861"; */
+"2861.title" = "현재 사용중인 스페이스 상에 있는 창은 최우선으로 표시";
+
+/* Class = "NSTextFieldCell"; title = "This list allows you to exclude windows from HyperDock. A single wildcard (*) excludes all windows."; ObjectID = "2888"; */
+"2888.title" = "필터링 목록에 추가된 어플리케이션은 HyperDock이 관리하지 않습니다. 와일드카드(*)를 사용하여 단일 어플내 윈도우를 모두 포함할 수 있습니다.";
+
+/* Class = "NSTableColumn"; headerCell.title = "Window title filter"; ObjectID = "2898"; */
+"2898.headerCell.title" = "창 제목 필터";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "2904"; */
+"2904.title" = "텍스트";
+
+/* Class = "IBBindingConnection"; designableIsNilPlaceholder = "*"; ObjectID = "2910"; */
+"2910.designableIsNilPlaceholder" = "*";
+
+/* Class = "NSTabViewItem"; label = "Preview Options"; ObjectID = "2934"; */
+"2934.label" = "미리보기 옵션";
+
+/* Class = "NSButtonCell"; title = "Enable Busycal events preview"; ObjectID = "2946"; */
+"2946.title" = "BusyCal 이벤트 미리보기 활성화";
+
+/* Class = "NSTextFieldCell"; title = "Limit to:"; ObjectID = "2947"; */
+"2947.title" = "최대 표시 개수:";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "2953"; */
+"2953.title" = "Check";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2954"; */
+"2954.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "day(s)"; ObjectID = "2956"; */
+"2956.title" = "일 이내";
+
+/* Class = "NSTextFieldCell"; title = "events"; ObjectID = "2958"; */
+"2958.title" = "이벤트";
+
+/* Class = "NSTextFieldCell"; title = "Calendars:"; ObjectID = "2959"; */
+"2959.title" = "캘린더:";
+
+/* Class = "NSTabViewItem"; label = "Preview Options"; ObjectID = "2988"; */
+"2988.label" = "미리보기 옵션";
+
+/* Class = "NSTextFieldCell"; title = "Grid layout:"; ObjectID = "3041"; */
+"3041.title" = "격자 배치:";
+
+/* Class = "NSTextFieldCell"; title = "previews per row"; ObjectID = "3047"; */
+"3047.title" = "개의 썸네일 표시";
+
+/* Class = "NSTextFieldCell"; title = "ms"; ObjectID = "3080"; */
+"3080.title" = "ms";
+
+/* Class = "NSTextFieldCell"; title = "Calendars:"; ObjectID = "3129"; */
+"3129.title" = "캘린더:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3135"; */
+"3135.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "3136"; */
+"3136.title" = "Check";
+
+/* Class = "NSTextFieldCell"; title = "Limit to:"; ObjectID = "3137"; */
+"3137.title" = "최대 표시 개수:";
+
+/* Class = "NSButtonCell"; title = "Enable iCal events preview"; ObjectID = "3138"; */
+"3138.title" = "iCal 이벤트 미리보기 활성화";
+
+/* Class = "NSTextFieldCell"; title = "events"; ObjectID = "3139"; */
+"3139.title" = "이벤트";
+
+/* Class = "NSTextFieldCell"; title = "day(s)"; ObjectID = "3141"; */
+"3141.title" = "일 이내";
+
+/* Class = "NSTextFieldCell"; title = "Show"; ObjectID = "3164"; */
+"3164.title" = "한 줄에";
+
+/* Class = "NSButton"; gToolTip = "When enabled, pressing arrow/number keys directly switches spaces"; ObjectID = "3257"; */
+"3257.gToolTip" = "활성화시 방향키/숫자키만 눌러도 바로 해당 스페이스로 이동";
+
+/* Class = "NSButtonCell"; title = "Enable logging"; ObjectID = "3258"; */
+"3258.title" = "Log 활성화";
+
+/* Class = "NSButtonCell"; title = "View Log"; ObjectID = "3270"; */
+"3270.title" = "Log 보기";
+
+/* Class = "NSTextFieldCell"; title = "ms"; ObjectID = "3278"; */
+"3278.title" = "ms";
+
+/* Class = "NSTextFieldCell"; title = "Activation Delay:"; ObjectID = "3279"; */
+"3279.title" = "미리보기창이 나타나기까지 지연 시간:";
+
+/* Class = "NSButtonCell"; title = "Left mouse button"; ObjectID = "3285"; */
+"3285.title" = "마우스 우클릭";
+
+/* Class = "NSButtonCell"; title = "Left mouse button"; ObjectID = "3287"; */
+"3287.title" = "마우스 좌클릭";
+
+/* Class = "NSTextFieldCell"; title = "Thumbnail interpolation quality:"; ObjectID = "3302"; */
+"3302.title" = "썸네일 이미지 퀄리티";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "3305"; */
+"3305.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Low"; ObjectID = "3306"; */
+"3306.title" = "낮음";
+
+/* Class = "NSMenuItem"; title = "Medium"; ObjectID = "3307"; */
+"3307.title" = "보통";
+
+/* Class = "NSMenuItem"; title = "High"; ObjectID = "3308"; */
+"3308.title" = "높음";
+
+/* Class = "NSTextFieldCell"; title = "Popup animation:"; ObjectID = "3323"; */
+"3323.title" = "애니메이션 효과:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "3326"; */
+"3326.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Snap in"; ObjectID = "3327"; */
+"3327.title" = "위에서 떠오르기";
+
+/* Class = "NSMenuItem"; title = "Fade in"; ObjectID = "3328"; */
+"3328.title" = "서서히 나타나기";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "3329"; */
+"3329.title" = "없음";
+
+/* Class = "NSTextFieldCell"; title = "Drag a window to a screen edge and pause to see resize recommendations."; ObjectID = "3405"; */
+"3405.title" = "창을 스크린 가장자리로 가져가면 미리보기 그림자가 나타납니다.";
+
+/* Class = "NSButtonCell"; title = "Run Helper in Terminal"; ObjectID = "3446"; */
+"3446.title" = "터미널로 헬퍼 프로그램 구동";
+
+/* Class = "NSButtonCell"; title = "Refresh thumbnails every"; ObjectID = "3450"; */
+"3450.title" = "다음 주기로 미리보기 썸네일 업데이트";
+
+/* Class = "NSTextFieldCell"; title = "s"; ObjectID = "3457"; */
+"3457.title" = "s";
+
+/* Class = "NSButtonCell"; title = "Buy now ..."; ObjectID = "3471"; */
+"3471.title" = "지금 구입하기";
+
+/* Class = "NSButtonCell"; title = "Indicate the front window"; ObjectID = "3474"; */
+"3474.title" = "마지막에 활성화된 윈도우를 강조하기";
+
+/* Class = "NSWindow"; title = "Welcome"; ObjectID = "3481"; */
+"3481.title" = "환영합니다!";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to HyperDock!"; ObjectID = "3484"; */
+"3484.title" = "HyperDock 설치를 환영합니다!";
+
+/* Class = "NSTabViewItem"; label = "1"; ObjectID = "3486"; */
+"3486.label" = "1";
+
+/* Class = "NSTabViewItem"; label = "2"; ObjectID = "3487"; */
+"3487.label" = "2";
+
+/* Class = "NSButtonCell"; title = "Accept"; ObjectID = "3499"; */
+"3499.title" = "승인";
+
+/* Class = "NSTextFieldCell"; title = "License Agreement"; ObjectID = "3503"; */
+"3503.title" = "라이센스 약관";
+
+/* Class = "NSButtonCell"; title = "Decline"; ObjectID = "3505"; */
+"3505.title" = "취소";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "3514"; */
+"3514.title" = "계속";
+
+/* Class = "NSButtonCell"; title = "Check now"; ObjectID = "3529"; */
+"3529.title" = "지금 확인하기";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "3531"; */
+"3531.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Hourly"; ObjectID = "3532"; */
+"3532.title" = "매 시간";
+
+/* Class = "NSMenuItem"; title = "Weekly"; ObjectID = "3533"; */
+"3533.title" = "매주";
+
+/* Class = "NSButtonCell"; title = "Check for Updates:"; ObjectID = "3534"; */
+"3534.title" = "버전 업데이트 체크";
+
+/* Class = "NSButton"; gToolTip = "When enabled, pressing arrow/number keys directly switches spaces"; ObjectID = "3539"; */
+"3539.gToolTip" = "활성화시 방향키/숫자키만 눌러도 바로 해당 스페이스로 이동";
+
+/* Class = "NSButtonCell"; title = "Upgrade to unstable versions"; ObjectID = "3540"; */
+"3540.title" = "베타 버전도 확인";
+
+/* Class = "NSTextFieldCell"; title = "Preview Rendering"; ObjectID = "3548"; */
+"3548.title" = "썸네일 렌더링";
+
+/* Class = "NSTextFieldCell"; title = "Software Updates"; ObjectID = "3570"; */
+"3570.title" = "소프트웨어 업데이트";
+
+/* Class = "NSTextFieldCell"; title = "Delays"; ObjectID = "3572"; */
+"3572.title" = "지연 시간";
+
+/* Class = "NSMenuItem"; title = "Daily"; ObjectID = "3578"; */
+"3578.title" = "매일";
+
+/* Class = "NSTextFieldCell"; title = "Window Snapping"; ObjectID = "3583"; */
+"3583.title" = "창 스냅(Snap) 기능";
+
+/* Class = "NSTextFieldCell"; title = "Window Dragging"; ObjectID = "3585"; */
+"3585.title" = "창 드래그(Drag) 기능";
+
+/* Class = "NSButtonCell"; title = "^"; ObjectID = "3593"; */
+"3593.title" = "^";
+
+/* Class = "NSButtonCell"; title = "⌥"; ObjectID = "3594"; */
+"3594.title" = "⌥";
+
+/* Class = "NSButtonCell"; title = "Snap windows when pressing"; ObjectID = "3595"; */
+"3595.title" = "창 스냅 기능 단축키";
+
+/* Class = "NSButtonCell"; title = "⇧"; ObjectID = "3596"; */
+"3596.title" = "⇧";
+
+/* Class = "NSButtonCell"; title = "⌘"; ObjectID = "3597"; */
+"3597.title" = "⌘";
+
+/* Class = "NSTextFieldCell"; title = "+ Arrow/Numpad Keys"; ObjectID = "3610"; */
+"3610.title" = "+ 방향키/Numpad키";
+
+/* Class = "NSTextFieldCell"; title = "You can try HyperDock for 15 days from now on.\n\nHave fun!"; ObjectID = "3623"; */
+"3623.title" = "15일의 트라이얼 기간동안 HyperSpaces를 마음껏 사용하실 수 있습니다.\n\nHave fun!";
+
+/* Class = "NSTextFieldCell"; title = "Note: This will install an unofficial Safari extension. "; ObjectID = "3633"; */
+"3633.title" = "주의: 이 기능은 비공식적인 사파리 플러그인을 설치 합니다. ";
+
+/* Class = "NSButtonCell"; title = "Learn more ..."; ObjectID = "3639"; */
+"3639.title" = "좀 더 알아보기...";
+
+/* Class = "NSButtonCell"; title = "Translate ..."; ObjectID = "3642"; */
+"3642.title" = "번역...";
