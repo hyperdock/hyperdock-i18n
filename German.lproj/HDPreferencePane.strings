@@ -1,0 +1,549 @@
+﻿
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "Fenster";
+
+/* Class = "NSTableColumn"; headerCell.title = "Dock Items"; ObjectID = "13"; */
+"13.headerCell.title" = "Programme";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "16"; */
+"16.title" = "Textfeld";
+
+/* Class = "NSTabViewItem"; label = "Dock Items"; ObjectID = "71"; */
+"71.label" = "Programme";
+
+/* Class = "NSTabViewItem"; label = "About"; ObjectID = "75"; */
+"75.label" = "Über";
+
+/* Class = "NSTextFieldCell"; title = "HyperDock"; ObjectID = "100"; */
+"100.title" = "HyperDock";
+
+/* Class = "NSButtonCell"; title = "Uninstall ..."; ObjectID = "106"; */
+"106.title" = "Deinstallieren ...";
+
+/* Class = "NSTabViewItem"; label = "Window Management"; ObjectID = "119"; */
+"119.label" = "Fenster";
+
+/* Class = "NSButtonCell"; title = "Move windows when holding down"; ObjectID = "224"; */
+"224.title" = "Fenster bewegen mit";
+
+/* Class = "NSButtonCell"; title = "^"; ObjectID = "555"; */
+"555.title" = "^";
+
+/* Class = "NSButtonCell"; title = "⌥"; ObjectID = "557"; */
+"557.title" = "⌥";
+
+/* Class = "NSButtonCell"; title = "⌘"; ObjectID = "559"; */
+"559.title" = "⌘";
+
+/* Class = "NSButtonCell"; title = "⇧"; ObjectID = "561"; */
+"561.title" = "⇧";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "676"; */
+"676.title" = "Einstellungen zurücksetzen  ...";
+
+/* Class = "NSButtonCell"; title = "Resize windows when holding down"; ObjectID = "707"; */
+"707.title" = "Fenstergröße verändern mit";
+
+/* Class = "NSButtonCell"; title = "⇧"; ObjectID = "715"; */
+"715.title" = "⇧";
+
+/* Class = "NSButtonCell"; title = "⌘"; ObjectID = "716"; */
+"716.title" = "⌘";
+
+/* Class = "NSButtonCell"; title = "⌥"; ObjectID = "717"; */
+"717.title" = "⌥";
+
+/* Class = "NSButtonCell"; title = "^"; ObjectID = "718"; */
+"718.title" = "^";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "1086"; */
+"1086.label" = "Allgemein";
+
+/* Class = "NSPanel"; title = "Window"; ObjectID = "1117"; */
+"1117.title" = "Fenster";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "1122"; */
+"1122.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1124"; */
+"1124.title" = "Abbrechen";
+
+/* Class = "NSButtonCell"; title = "Send Feedback ..."; ObjectID = "1138"; */
+"1138.title" = "Feedback ...";
+
+/* Class = "NSButtonCell"; title = "Visit Homepage"; ObjectID = "1141"; */
+"1141.title" = "Homepage besuchen ...";
+
+/* Class = "NSTextFieldCell"; title = "Version XXX"; ObjectID = "1144"; */
+"1144.title" = "Version XXX";
+
+/* Class = "NSButtonCell"; title = "Enable window previews"; ObjectID = "1158"; */
+"1158.title" = "Fenstervorschauen aktivieren";
+
+/* Class = "NSButtonCell"; title = "Show full size preview on hover"; ObjectID = "1424"; */
+"1424.title" = "Vollbildvorschauen anzeigen";
+
+/* Class = "NSButtonCell"; title = "Windows from all spaces"; ObjectID = "1428"; */
+"1428.title" = "Fenster von allen Spaces";
+
+/* Class = "NSButtonCell"; title = "Snap windows when dragging to screen edges"; ObjectID = "1488"; */
+"1488.title" = "Aktiviere Fensterschnappen";
+
+/* Class = "NSTextFieldCell"; title = "Beta"; ObjectID = "1505"; */
+"1505.title" = "Beta";
+
+/* Class = "NSButtonCell"; title = "Minimized/hidden windows"; ObjectID = "1511"; */
+"1511.title" = "Minimierte/versteckte Fenster";
+
+/* Class = "NSWindow"; title = "DEBUG "; ObjectID = "1559"; */
+"1559.title" = "DEBUG ";
+
+/* Class = "NSButtonCell"; title = "Save Default Examples"; ObjectID = "1602"; */
+"1602.title" = "Save Default Examples";
+
+/* Class = "NSButtonCell"; title = "Apply Config"; ObjectID = "1605"; */
+"1605.title" = "Konfiguration übernehmen";
+
+/* Class = "NSButtonCell"; title = "Hide when a preview is clicked"; ObjectID = "1701"; */
+"1701.title" = "Ausblenden, wenn eine Vorschau angeklickt wird";
+
+/* Class = "NSButtonCell"; title = "Don't show if there is only one app window"; ObjectID = "1718"; */
+"1718.title" = "Nicht anzeigen, wenn nur ein Fenster geöffnet ist";
+
+/* Class = "NSTabViewItem"; label = "Appearance"; ObjectID = "1813"; */
+"1813.label" = "Erscheinungsbild";
+
+/* Class = "NSButtonCell"; title = "Close button"; ObjectID = "1823"; */
+"1823.title" = "Schließknopf";
+
+/* Class = "NSButtonCell"; title = "Application name"; ObjectID = "1824"; */
+"1824.title" = "Anwendungsname";
+
+/* Class = "NSTextFieldCell"; title = "Bubble size:"; ObjectID = "1829"; */
+"1829.title" = "Größe des Vorschaufensters:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Event"; ObjectID = "1856"; */
+"1856.headerCell.title" = "Auslöser";
+
+/* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "1858"; */
+"1858.headerCell.title" = "Aktion";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1860"; */
+"1860.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1870"; */
+"1870.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Right Click"; ObjectID = "1871"; */
+"1871.title" = "Rechtsklick";
+
+/* Class = "NSMenuItem"; title = "Other Buttons/Keys ..."; ObjectID = "1872"; */
+"1872.title" = "Andere Knöpfe/Tasten ...";
+
+/* Class = "NSMenuItem"; title = "Left Click"; ObjectID = "1873"; */
+"1873.title" = "Linksklick";
+
+/* Class = "NSMenuItem"; title = "Mouse Entered"; ObjectID = "1875"; */
+"1875.title" = "Mouse Entered";
+
+/* Class = "NSMenuItem"; title = "Mouse Hovered"; ObjectID = "1876"; */
+"1876.title" = "Mouse Hovered";
+
+/* Class = "NSMenuItem"; title = "Scroll Up"; ObjectID = "1879"; */
+"1879.title" = "Hochscrollen";
+
+/* Class = "NSMenuItem"; title = "Scroll Down"; ObjectID = "1880"; */
+"1880.title" = "Herunterscrollen";
+
+/* Class = "NSMenuItem"; title = "Middle Click"; ObjectID = "1881"; */
+"1881.title" = "Mittelklick";
+
+/* Class = "IBBindingConnection"; designableIsNilPlaceholder = "none"; ObjectID = "1886"; */
+"1886.designableIsNilPlaceholder" = "none";
+
+/* Class = "IBBindingConnection"; designableNotApplicablePlaceholder = "none"; ObjectID = "1886"; */
+"1886.designableNotApplicablePlaceholder" = "none";
+
+/* Class = "IBBindingConnection"; designableIsNilPlaceholder = "null"; ObjectID = "1887"; */
+"1887.designableIsNilPlaceholder" = "null";
+
+/* Class = "IBBindingConnection"; designableNoSelectionPlaceholder = "Select Event1"; ObjectID = "1887"; */
+"1887.designableNoSelectionPlaceholder" = "Select Event1";
+
+/* Class = "IBBindingConnection"; designableNotApplicablePlaceholder = "Select 2"; ObjectID = "1887"; */
+"1887.designableNotApplicablePlaceholder" = "Select 2";
+
+/* Class = "NSTextFieldCell"; title = "Include:"; ObjectID = "1894"; */
+"1894.title" = "Zeige:";
+
+/* Class = "NSTextFieldCell"; title = "Order by:"; ObjectID = "1899"; */
+"1899.title" = "Anordnen nach:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1902"; */
+"1902.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Recent usage"; ObjectID = "1904"; */
+"1904.title" = "Letzter Benutzung";
+
+/* Class = "NSTextFieldCell"; title = "Behaviour:"; ObjectID = "1907"; */
+"1907.title" = "Verhalten:";
+
+/* Class = "NSTextFieldCell"; title = "Small"; ObjectID = "1994"; */
+"1994.title" = "klein";
+
+/* Class = "NSTextFieldCell"; title = "Large"; ObjectID = "1996"; */
+"1996.title" = "groß";
+
+/* Class = "NSTextFieldCell"; title = "Elements:"; ObjectID = "2013"; */
+"2013.title" = "Elemente:";
+
+/* Class = "NSButtonCell"; title = "Minimized indicator / space number"; ObjectID = "2018"; */
+"2018.title" = "Minimiert-Symbol / Spacenummer";
+
+/* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "2062"; */
+"2062.label" = "Erweitert";
+
+/* Class = "NSTextFieldCell"; title = "ms"; ObjectID = "2331"; */
+"2331.title" = "ms";
+
+/* Class = "NSTextFieldCell"; title = "Full size preview delay on subsequent activation:"; ObjectID = "2345"; */
+"2345.title" = "Verzögerung der Vollbildvorschau (danach):";
+
+/* Class = "NSTextFieldCell"; title = "Close button activation delay:"; ObjectID = "2349"; */
+"2349.title" = "Verzögerung des Schließen-Buttons:";
+
+/* Class = "NSTextFieldCell"; title = "ms"; ObjectID = "2354"; */
+"2354.title" = "ms";
+
+/* Class = "NSTextFieldCell"; title = "Full size preview delay on first activation:"; ObjectID = "2356"; */
+"2356.title" = "Verzögerung der Vollbildvorschau (erste Aktivierung):";
+
+/* Class = "NSTextFieldCell"; title = "Preview deactivation delay:"; ObjectID = "2357"; */
+"2357.title" = "Ausblendeverzögerung:";
+
+/* Class = "NSTextFieldCell"; title = "ms"; ObjectID = "2360"; */
+"2360.title" = "ms";
+
+/* Class = "NSTextFieldCell"; title = "s "; ObjectID = "2407"; */
+"2407.title" = "s ";
+
+/* Class = "NSTextFieldCell"; title = "s"; ObjectID = "2408"; */
+"2408.title" = "s";
+
+/* Class = "NSTextFieldCell"; title = "Delay (near screen border):"; ObjectID = "2410"; */
+"2410.title" = "Verzögerung (genauer Bildschirmrand):";
+
+/* Class = "NSButtonCell"; title = "Hide when a dock item is clicked"; ObjectID = "2448"; */
+"2448.title" = "Ausblenden, wenn ein Programmsymbol angeklickt wird";
+
+/* Class = "NSTextFieldCell"; title = "Delay (exact screen border):"; ObjectID = "2534"; */
+"2534.title" = "Verzögerung (nahe Bildschirmrand):";
+
+/* Class = "NSTextFieldCell"; title = "When you hold these modifier keys, you can move&resize windows from anywhere - not just the titlebar."; ObjectID = "2539"; */
+"2539.title" = "Beim Halten dieser Tasten kannst du Fenster bewegen - nicht nur von der Titelleiste.";
+
+/* Class = "NSButton"; gToolTip = "When enabled, pressing arrow/number keys directly switches spaces"; ObjectID = "2550"; */
+"2550.gToolTip" = "Bei Aktivierung, wechseln die Pfeil- bzw. Zifferntasten die Spaces.";
+
+/* Class = "NSButtonCell"; title = "Blur bubble background"; ObjectID = "2551"; */
+"2551.title" = "Verschwommener Hintergrund";
+
+/* Class = "NSButtonCell"; title = "Shade invisible windows"; ObjectID = "2553"; */
+"2553.title" = "Unsichtbare Fenster verdunkeln";
+
+/* Class = "NSButtonCell"; title = "Draw highlight gradient"; ObjectID = "2554"; */
+"2554.title" = "Vorschau unter Mauszeiger hervorheben";
+
+/* Class = "NSButtonCell"; title = "Draw triangle below bubble"; ObjectID = "2555"; */
+"2555.title" = "Dreieck anzeigen";
+
+/* Class = "NSTextFieldCell"; title = "px"; ObjectID = "2586"; */
+"2586.title" = "px";
+
+/* Class = "NSTextFieldCell"; title = "Distance from the Dock:"; ObjectID = "2588"; */
+"2588.title" = "Abstand vom Dock:";
+
+/* Class = "NSButtonCell"; title = "Palettes"; ObjectID = "2596"; */
+"2596.title" = "Paletten";
+
+/* Class = "NSButton"; gToolTip = "When enabled, pressing arrow/number keys directly switches spaces"; ObjectID = "2601"; */
+"2601.gToolTip" = "Wenn aktiviert, wechseln die Pfeil- bzw. Zifferntasten die Spaces.";
+
+/* Class = "NSButtonCell"; title = "Update to dev versions"; ObjectID = "2602"; */
+"2602.title" = "Auf nicht stabile Versionen aktualisieren";
+
+/* Class = "NSButtonCell"; title = "Open License ..."; ObjectID = "2657"; */
+"2657.title" = "Lizenz öffnen ...";
+
+/* Class = "NSButtonCell"; title = "Disable HyperDock"; ObjectID = "2686"; */
+"2686.title" = "HyperDock deaktivieren";
+
+/* Class = "NSTextFieldCell"; title = "Enable this option if you experience problems like a stuttering Dock."; ObjectID = "2687"; */
+"2687.title" = "Aktiviere diese Option, wenn Probleme mit dem Dock auftreten (z.B. Stottern).";
+
+/* Class = "NSButtonCell"; title = "Don't block Dock's autohide / magnification"; ObjectID = "2688"; */
+"2688.title" = "Ein- und Ausblenden des Docks nicht blockieren";
+
+/* Class = "NSTabViewItem"; label = "Shortcuts"; ObjectID = "2708"; */
+"2708.label" = "Tastenkürzel";
+
+/* Class = "NSTabViewItem"; label = "Window Filters"; ObjectID = "2710"; */
+"2710.label" = "Fensterfilter";
+
+/* Class = "NSTabViewItem"; label = "Preview Options"; ObjectID = "2754"; */
+"2754.label" = "Vorschau-Optionen";
+
+/* Class = "NSButtonCell"; title = "Show ratings"; ObjectID = "2763"; */
+"2763.title" = "Bewertungen anzeigen";
+
+/* Class = "NSButtonCell"; title = "Enable iTunes special preview"; ObjectID = "2764"; */
+"2764.title" = "iTunes Vorschau aktivieren";
+
+/* Class = "NSTabViewItem"; label = "Preview Options"; ObjectID = "2772"; */
+"2772.label" = "Vorschau-Optionen";
+
+/* Class = "NSButtonCell"; title = "Show tabs instead of windows"; ObjectID = "2775"; */
+"2775.title" = "Tabs statt Fenster anzeigen";
+
+/* Class = "NSButtonCell"; title = "Scrolling on the iTunes icon adjusts volume"; ObjectID = "2833"; */
+"2833.title" = "Lautstärke durch Scrollen verändern";
+
+/* Class = "NSMenuItem"; title = "Creation time"; ObjectID = "2859"; */
+"2859.title" = "Alter";
+
+/* Class = "NSButtonCell"; title = "Order current space windows to front"; ObjectID = "2861"; */
+"2861.title" = "Fenster vom aktuellen Space zuerst";
+
+/* Class = "NSTextFieldCell"; title = "This list allows you to exclude windows from HyperDock. A single wildcard (*) excludes all windows."; ObjectID = "2888"; */
+"2888.title" = "In dieser Liste kannst du Fenster von HyperDock ausschließen. Die Wildcard (*) schließt alle Fenster aus.";
+
+/* Class = "NSTableColumn"; headerCell.title = "Window title filter"; ObjectID = "2898"; */
+"2898.headerCell.title" = "Fenstertitel Filter";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "2904"; */
+"2904.title" = "Text";
+
+/* Class = "IBBindingConnection"; designableIsNilPlaceholder = "*"; ObjectID = "2910"; */
+"2910.designableIsNilPlaceholder" = "*";
+
+/* Class = "NSTabViewItem"; label = "Preview Options"; ObjectID = "2934"; */
+"2934.label" = "Vorschau-Optionen";
+
+/* Class = "NSButtonCell"; title = "Enable Busycal events preview"; ObjectID = "2946"; */
+"2946.title" = "BusyCal Kalendervorschau aktivieren";
+
+/* Class = "NSTextFieldCell"; title = "Limit to:"; ObjectID = "2947"; */
+"2947.title" = "Limitieren auf:";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "2953"; */
+"2953.title" = "Check";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2954"; */
+"2954.title" = "Textfeld";
+
+/* Class = "NSTextFieldCell"; title = "day(s)"; ObjectID = "2956"; */
+"2956.title" = "Tage";
+
+/* Class = "NSTextFieldCell"; title = "events"; ObjectID = "2958"; */
+"2958.title" = "Ereignisse";
+
+/* Class = "NSTextFieldCell"; title = "Calendars:"; ObjectID = "2959"; */
+"2959.title" = "Kalender:";
+
+/* Class = "NSTabViewItem"; label = "Preview Options"; ObjectID = "2988"; */
+"2988.label" = "Vorschau-Optionen";
+
+/* Class = "NSTextFieldCell"; title = "Grid layout:"; ObjectID = "3041"; */
+"3041.title" = "Gitteranordnung:";
+
+/* Class = "NSTextFieldCell"; title = "previews per row"; ObjectID = "3047"; */
+"3047.title" = "Vorschauen pro Reihe";
+
+/* Class = "NSTextFieldCell"; title = "ms"; ObjectID = "3080"; */
+"3080.title" = "ms";
+
+/* Class = "NSTextFieldCell"; title = "Calendars:"; ObjectID = "3129"; */
+"3129.title" = "Kalender:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3135"; */
+"3135.title" = "Textfeld";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "3136"; */
+"3136.title" = "Check";
+
+/* Class = "NSTextFieldCell"; title = "Limit to:"; ObjectID = "3137"; */
+"3137.title" = "Limitieren auf:";
+
+/* Class = "NSButtonCell"; title = "Enable iCal events preview"; ObjectID = "3138"; */
+"3138.title" = "iCal Kalendervorschau aktivieren";
+
+/* Class = "NSTextFieldCell"; title = "events"; ObjectID = "3139"; */
+"3139.title" = "Ereignisse";
+
+/* Class = "NSTextFieldCell"; title = "day(s)"; ObjectID = "3141"; */
+"3141.title" = "Tage";
+
+/* Class = "NSTextFieldCell"; title = "Show"; ObjectID = "3164"; */
+"3164.title" = "Zeige";
+
+/* Class = "NSButton"; gToolTip = "When enabled, pressing arrow/number keys directly switches spaces"; ObjectID = "3257"; */
+"3257.gToolTip" = "Bei Aktivierung, wechseln die Pfeil- bzw. Zifferntasten die Spaces.";
+
+/* Class = "NSButtonCell"; title = "Enable logging"; ObjectID = "3258"; */
+"3258.title" = "Logging aktivieren";
+
+/* Class = "NSButtonCell"; title = "View Log"; ObjectID = "3270"; */
+"3270.title" = "Log ansehen";
+
+/* Class = "NSTextFieldCell"; title = "ms"; ObjectID = "3278"; */
+"3278.title" = "ms";
+
+/* Class = "NSTextFieldCell"; title = "Activation Delay:"; ObjectID = "3279"; */
+"3279.title" = "Verzögerung:";
+
+/* Class = "NSButtonCell"; title = "Left mouse button"; ObjectID = "3285"; */
+"3285.title" = "Linke Maustaste";
+
+/* Class = "NSButtonCell"; title = "Left mouse button"; ObjectID = "3287"; */
+"3287.title" = "Linke Maustaste";
+
+/* Class = "NSTextFieldCell"; title = "Thumbnail interpolation quality:"; ObjectID = "3302"; */
+"3302.title" = "Vorschauqualität:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "3305"; */
+"3305.title" = "andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Low"; ObjectID = "3306"; */
+"3306.title" = "niedrig";
+
+/* Class = "NSMenuItem"; title = "Medium"; ObjectID = "3307"; */
+"3307.title" = "mittel";
+
+/* Class = "NSMenuItem"; title = "High"; ObjectID = "3308"; */
+"3308.title" = "hoch";
+
+/* Class = "NSTextFieldCell"; title = "Popup animation:"; ObjectID = "3323"; */
+"3323.title" = "Pop-up Animation:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "3326"; */
+"3326.title" = "andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Snap in"; ObjectID = "3327"; */
+"3327.title" = "Aufschnappen";
+
+/* Class = "NSMenuItem"; title = "Fade in"; ObjectID = "3328"; */
+"3328.title" = "Einblenden";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "3329"; */
+"3329.title" = "Keine";
+
+/* Class = "NSTextFieldCell"; title = "Drag a window to a screen edge and pause to see resize recommendations."; ObjectID = "3405"; */
+"3405.title" = "Ziehe ein Fenster an den Bildschirmrand, um die Größe automatisch anzupassen.";
+
+/* Class = "NSButtonCell"; title = "Run Helper in Terminal"; ObjectID = "3446"; */
+"3446.title" = "Run Helper in Terminal";
+
+/* Class = "NSButtonCell"; title = "Refresh thumbnails every"; ObjectID = "3450"; */
+"3450.title" = "Aktualisiere Vorschauen alle";
+
+/* Class = "NSTextFieldCell"; title = "s"; ObjectID = "3457"; */
+"3457.title" = "s";
+
+/* Class = "NSButtonCell"; title = "Buy now ..."; ObjectID = "3471"; */
+"3471.title" = "Kaufen ...";
+
+/* Class = "NSButtonCell"; title = "Indicate the front window"; ObjectID = "3474"; */
+"3474.title" = "Vorderstes Fenster hervorheben";
+
+/* Class = "NSWindow"; title = "Welcome"; ObjectID = "3481"; */
+"3481.title" = "Willkommen";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to HyperDock!"; ObjectID = "3484"; */
+"3484.title" = "Willkommen bei HyperDock!";
+
+/* Class = "NSTabViewItem"; label = "1"; ObjectID = "3486"; */
+"3486.label" = "1";
+
+/* Class = "NSTabViewItem"; label = "2"; ObjectID = "3487"; */
+"3487.label" = "2";
+
+/* Class = "NSButtonCell"; title = "Accept"; ObjectID = "3499"; */
+"3499.title" = "Akzeptieren";
+
+/* Class = "NSTextFieldCell"; title = "License Agreement"; ObjectID = "3503"; */
+"3503.title" = "Lizenzvereinbarung";
+
+/* Class = "NSButtonCell"; title = "Decline"; ObjectID = "3505"; */
+"3505.title" = "Ablehnen";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "3514"; */
+"3514.title" = "Weiter";
+
+/* Class = "NSButtonCell"; title = "Check now"; ObjectID = "3529"; */
+"3529.title" = "Jetzt suchen";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "3531"; */
+"3531.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Hourly"; ObjectID = "3532"; */
+"3532.title" = "stündlich";
+
+/* Class = "NSMenuItem"; title = "Weekly"; ObjectID = "3533"; */
+"3533.title" = "wöchentlich";
+
+/* Class = "NSButtonCell"; title = "Check for Updates:"; ObjectID = "3534"; */
+"3534.title" = "Nach Aktualisierungen suchen:";
+
+/* Class = "NSButton"; gToolTip = "When enabled, pressing arrow/number keys directly switches spaces"; ObjectID = "3539"; */
+"3539.gToolTip" = "When enabled, pressing arrow/number keys directly switches spaces";
+
+/* Class = "NSButtonCell"; title = "Upgrade to unstable versions"; ObjectID = "3540"; */
+"3540.title" = "Auf unstabile Versionen aktualisieren";
+
+/* Class = "NSTextFieldCell"; title = "Preview Rendering"; ObjectID = "3548"; */
+"3548.title" = "Vorschauoptionen";
+
+/* Class = "NSTextFieldCell"; title = "Software Updates"; ObjectID = "3570"; */
+"3570.title" = "Softwareaktualisierung";
+
+/* Class = "NSTextFieldCell"; title = "Delays"; ObjectID = "3572"; */
+"3572.title" = "Verzögerungen";
+
+/* Class = "NSMenuItem"; title = "Daily"; ObjectID = "3578"; */
+"3578.title" = "täglich";
+
+/* Class = "NSTextFieldCell"; title = "Window Snapping"; ObjectID = "3583"; */
+"3583.title" = "Fensterschnappen";
+
+/* Class = "NSTextFieldCell"; title = "Window Dragging"; ObjectID = "3585"; */
+"3585.title" = "Fensterbewegung";
+
+/* Class = "NSButtonCell"; title = "^"; ObjectID = "3593"; */
+"3593.title" = "^";
+
+/* Class = "NSButtonCell"; title = "⌥"; ObjectID = "3594"; */
+"3594.title" = "⌥";
+
+/* Class = "NSButtonCell"; title = "Snap windows when pressing"; ObjectID = "3595"; */
+"3595.title" = "Fenster einrasten durch Drücken von";
+
+/* Class = "NSButtonCell"; title = "⇧"; ObjectID = "3596"; */
+"3596.title" = "⇧";
+
+/* Class = "NSButtonCell"; title = "⌘"; ObjectID = "3597"; */
+"3597.title" = "⌘";
+
+/* Class = "NSTextFieldCell"; title = "+ Arrow/Numpad Keys"; ObjectID = "3610"; */
+"3610.title" = "+ Pfeil-/Nummerntasten";
+
+/* Class = "NSTextFieldCell"; title = "You can try HyperDock for 15 days from now on.\n\nHave fun!"; ObjectID = "3623"; */
+"3623.title" = "Du kannst HyperDock für 15 Tage testen.\nViel Spaß dabei!";
+
+/* Class = "NSTextFieldCell"; title = "Note: This will install an unofficial Safari extension. "; ObjectID = "3633"; */
+"3633.title" = "Hinweis: Diese Option installiert ein nicht offizielles Safari Plugin. ";
+
+/* Class = "NSButtonCell"; title = "Learn more ..."; ObjectID = "3639"; */
+"3639.title" = "Mehr erfahren ...";
+
+/* Class = "NSButtonCell"; title = "Translate ..."; ObjectID = "3642"; */
+"3642.title" = "Übersetzen ...";

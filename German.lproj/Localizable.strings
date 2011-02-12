@@ -1,0 +1,209 @@
+﻿/* No comment provided by engineer. */
+"Activate App" = "Programm anzeigen";
+
+/* all-day string on ical preview */
+"all-day" = "Ganztägig";
+
+/* No comment provided by engineer. */
+"Any Dock Item" = "Jedes Docksymbol";
+
+/* No comment provided by engineer. */
+"Assistive Device Support Disabled." = "Assistive Device Support Disabled.";
+
+/* a mouse button */
+"Button" = "Maustaste";
+
+/* No comment provided by engineer. */
+"Buy" = "Kaufen";
+
+/* No comment provided by engineer. */
+"Cancel" = "Abbrechen";
+
+/* No comment provided by engineer. */
+"caps lock" = "caps lock";
+
+/* No comment provided by engineer. */
+"Close" = "Schließen";
+
+/* No comment provided by engineer. */
+"Create new mail" = "Neue Mail";
+
+/* No comment provided by engineer. */
+"Decide Later" = "Später entscheiden";
+
+/* No comment provided by engineer. */
+"Do you really want to uninstall HyperDock?" = "Möchtest du HyperDock wirklich deinstallieren?";
+
+/* No comment provided by engineer. */
+"Execute AppleScript" = "AppleScript ausführen ...";
+
+/* No comment provided by engineer. */
+"Exposé" = "Exposé";
+
+/* No comment provided by engineer. */
+"Focus Next Window" = "Nächstes Fenster";
+
+/* No comment provided by engineer. */
+"Focus Previous Window" = "Vorheriges Fenster";
+
+/* No comment provided by engineer. */
+"help" = "Hilfe";
+
+/* No comment provided by engineer. */
+"Hide App" = "Programm verstecken";
+
+/* No comment provided by engineer. */
+"Hide other apps" = "Andere Programme verstecken";
+
+/* No comment provided by engineer. */
+"Hope you enjoyed it!\n\nIf you want to buy an unlimited license for HyperDock, press \"Buy\"." = "Hope you enjoyed it!\n\nIf you want to buy an unlimited license for HyperDock, press \"Buy\".";
+
+/* No comment provided by engineer. */
+"HyperDock needs assistive devices support to operate.\n\nPlease enable \"Access for Assistive Devices\" in the Universal Access pane of System Preferences." = "HyperDock needs assistive devices support to operate.\n\nPlease enable \"Access for Assistive Devices\" in the Universal Access pane of System Preferences.";
+
+/* No comment provided by engineer. */
+"HyperDock Trial expired" = "HyperDock Testversion abgelaufen";
+
+/* No comment provided by engineer. */
+"Invalid License" = "Invalid License";
+
+/* No comment provided by engineer. */
+"Kill App" = "Programm sofort beenden";
+
+/* No comment provided by engineer. */
+"Left Click" = "Linksklick";
+
+/* No comment provided by engineer. */
+"Left Edge" = "Linke Bildschirmhälfte";
+
+/* e.g. Licensed for tom@gmail.com */
+"Licensed for " = "Lizensiert für ";
+
+/* No comment provided by engineer. */
+"Maximize" = "Maximieren";
+
+/* No comment provided by engineer. */
+"Middle Click" = "Mittelklick";
+
+/* No comment provided by engineer. */
+"Minimize" = "Minimieren";
+
+/* No comment provided by engineer. */
+"Mouse Entered" = "Mouse Entered";
+
+/* No comment provided by engineer. */
+"Mouse Hovered" = "Mouse Hovered";
+
+/* No comment provided by engineer. */
+"New Tab" = "Neuer Tab";
+
+/* No comment provided by engineer. */
+"New Window" = "Neues Fenster";
+
+/* No comment provided by engineer. */
+"Next" = "Weiter";
+
+/* No comment provided by engineer. */
+"Next track" = "Nächstes Lied";
+
+/* No comment provided by engineer. */
+"Next window" = "Nächstes Fenster";
+
+/* No comment provided by engineer. */
+"No Action" = "Keine Aktion";
+
+/* No comment provided by engineer. */
+"No Events!" = "Keine Ereignisse!";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open License ..." = "Open License ...";
+
+/* No comment provided by engineer. */
+"Open Location" = "Ort öffnen ...";
+
+/* No comment provided by engineer. */
+"Other Buttons/Keys ..." = "Other Buttons/Keys ...";
+
+/* No comment provided by engineer. */
+"Play/Pause" = "Wiedergabe/Pause";
+
+/* No comment provided by engineer. */
+"Play/pause" = "Play/pause";
+
+/* No comment provided by engineer. */
+"Previous" = "Zurück";
+
+/* No comment provided by engineer. */
+"Previous track" = "Vorheriges Lied";
+
+/* No comment provided by engineer. */
+"Previous window" = "Vorheriges Fenster";
+
+/* No comment provided by engineer. */
+"Quit App" = "Programm beenden";
+
+/* No comment provided by engineer. */
+"Restart App" = "Programm neu starten";
+
+/* No comment provided by engineer. */
+"Restart Safari to see the tab previews in HyperDock." = "Restart Safari to see the tab previews in HyperDock.";
+
+/* No comment provided by engineer. */
+"Reveal App in Finder" = "Programm in Finder anzeigen";
+
+/* No comment provided by engineer. */
+"Right Click" = "Rechtsklick";
+
+/* No comment provided by engineer. */
+"Right Edge" = "Rechte Bildschirmhälfte";
+
+/* No comment provided by engineer. */
+"Safari Plugin installed!" = "Safari Plugin erfolgreich installiert!";
+
+/* No comment provided by engineer. */
+"Scroll down" = "Herunterscrollen";
+
+/* No comment provided by engineer. */
+"Scroll left" = "Links scrollen";
+
+/* No comment provided by engineer. */
+"Scroll right" = "Rechts scrollen";
+
+/* No comment provided by engineer. */
+"Scroll up" = "Hochscrollen";
+
+/* No comment provided by engineer. */
+"Send to Space" = "Space";
+
+/* No comment provided by engineer. */
+"Stop" = "Stop";
+
+/* No comment provided by engineer. */
+"Support" = "Support";
+
+/* String for current day */
+"Today" = "Heute";
+
+/* No comment provided by engineer. */
+"Toggle mute" = "Laut/leise umschalten";
+
+/* No comment provided by engineer. */
+"Tomorrow" = "Morgen";
+
+/* No comment provided by engineer. */
+"Uninstall" = "Deinstallieren";
+
+/* No comment provided by engineer. */
+"Volume Down" = "Lauter";
+
+/* No comment provided by engineer. */
+"Volume Up" = "Leiser";
+
+/* generic new window action */
+"⌘ + N (New Window)" = "⌘ + N (Neues Fenster)";
+
+/* generic new tab action */
+"⌘ + T (New Tab)" = "⌘ + T (Neuer Tab)";
