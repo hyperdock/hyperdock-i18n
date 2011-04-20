@@ -39,7 +39,7 @@
 "561.title" = "⇧";
 
 /* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "676"; */
-"676.title" = "Einstellungen zurücksetzen  ...";
+"676.title" = "Einstellungen zurücksetzen";
 
 /* Class = "NSButtonCell"; title = "Resize windows when holding down"; ObjectID = "707"; */
 "707.title" = "Fenstergröße verändern mit";
@@ -68,8 +68,8 @@
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1124"; */
 "1124.title" = "Abbrechen";
 
-/* Class = "NSButtonCell"; title = "Send Feedback ..."; ObjectID = "1138"; */
-"1138.title" = "Feedback ...";
+/* Class = "NSButtonCell"; title = "Support ..."; ObjectID = "1138"; */
+"1138.title" = "Support ...";
 
 /* Class = "NSButtonCell"; title = "Visit Homepage"; ObjectID = "1141"; */
 "1141.title" = "Homepage besuchen ...";
@@ -537,7 +537,7 @@
 "3610.title" = "+ Pfeil-/Nummerntasten";
 
 /* Class = "NSTextFieldCell"; title = "You can try HyperDock for 15 days from now on.\n\nHave fun!"; ObjectID = "3623"; */
-"3623.title" = "Du kannst HyperDock für 15 Tage testen.\nViel Spaß dabei!";
+"3623.title" = "Du kannst HyperDock ab jetzt für 15 Tage testen.\n\nViel Spaß dabei!";
 
 /* Class = "NSTextFieldCell"; title = "Note: This will install an unofficial Safari extension. "; ObjectID = "3633"; */
 "3633.title" = "Hinweis: Diese Option installiert ein nicht offizielles Safari Plugin. ";

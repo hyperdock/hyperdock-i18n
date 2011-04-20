@@ -56,7 +56,7 @@
 "Hide other apps" = "Andere Programme verstecken";
 
 /* No comment provided by engineer. */
-"Hope you enjoyed it!\n\nIf you want to buy an unlimited license for HyperDock, press \"Buy\"." = "Hope you enjoyed it!\n\nIf you want to buy an unlimited license for HyperDock, press \"Buy\".";
+"Hope you enjoyed it!\n\nIf you want to buy an unlimited license for HyperDock, press \"Buy\"." = "Ich hoffe, es hat dir gefallen!\n\nWenn du eine unbeschränkte Lizenz kaufen möchtest, klick auf \"Kaufen\".";
 
 /* No comment provided by engineer. */
 "HyperDock needs assistive devices support to operate.\n\nPlease enable \"Access for Assistive Devices\" in the Universal Access pane of System Preferences." = "HyperDock needs assistive devices support to operate.\n\nPlease enable \"Access for Assistive Devices\" in the Universal Access pane of System Preferences.";
@@ -76,8 +76,8 @@
 /* No comment provided by engineer. */
 "Left Edge" = "Linke Bildschirmhälfte";
 
-/* e.g. Licensed for tom@gmail.com */
-"Licensed for " = "Lizensiert für ";
+/* e.g. Licensed to tom@gmail.com */
+"Licensed to " = "Lizensiert für ";
 
 /* No comment provided by engineer. */
 "Maximize" = "Maximieren";
@@ -129,9 +129,6 @@
 
 /* No comment provided by engineer. */
 "Play/Pause" = "Wiedergabe/Pause";
-
-/* No comment provided by engineer. */
-"Play/pause" = "Play/pause";
 
 /* No comment provided by engineer. */
 "Previous" = "Zurück";
