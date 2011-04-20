@@ -1,0 +1,210 @@
+/* No comment provided by engineer. */
+"Activate App" = "Activeer App";
+
+/* all-day string on ical preview */
+"all-day" = "hele dag";
+
+/* No comment provided by engineer. */
+"Any Dock Item" = "Alle Dock-onderdelen";
+
+/* No comment provided by engineer. */
+"Assistive Device Support Disabled." = "Ondersteuning voor hulpapparaten uitgeschakeld.";
+
+/* a mouse button */
+"Button" = "Knop";
+
+/* No comment provided by engineer. */
+"Buy" = "Koop";
+
+/* No comment provided by engineer. */
+"Cancel" = "Annuleren";
+
+/* No comment provided by engineer. */
+"caps lock" = "caps lock";
+
+/* No comment provided by engineer. */
+"Close" = "Sluiten";
+
+/* No comment provided by engineer. */
+"Create new mail" = "Maak nieuwe e-mail";
+
+/* No comment provided by engineer. */
+"Decide Later" = "Later Beslissen";
+
+/* No comment provided by engineer. */
+"Do you really want to uninstall HyperDock?" = "Weet je zeker dat je HyperDock wilt deïnstalleren?";
+
+/* No comment provided by engineer. */
+"Execute AppleScript" = "AppleScript Uitvoeren";
+
+/* No comment provided by engineer. */
+"Exposé" = "Exposé";
+
+/* No comment provided by engineer. */
+"Focus Next Window" = "Focus op volgend venster";
+
+/* No comment provided by engineer. */
+"Focus Previous Window" = "Focus op vorig venster";
+
+/* No comment provided by engineer. */
+"help" = "help";
+
+/* No comment provided by engineer. */
+"Hide App" = "Verberg App";
+
+/* No comment provided by engineer. */
+"Hide other apps" = "Andere apps verbergen";
+
+/* No comment provided by engineer. */
+"Hope you enjoyed it!\n\nIf you want to buy an unlimited license for HyperDock, press \"Buy\"." = "Hopelijk heb je HyperDock met plezier gebruikt!\n\nAls je een ongelimiteerde licentie wilt kopen, klik dan op \"Koop\".";
+
+/* No comment provided by engineer. */
+"HyperDock needs assistive devices support to operate.\n\nPlease enable \"Access for Assistive Devices\" in the Universal Access pane of System Preferences." = "HyperDock heeft assisterende apparaten nodig om te werken. Ga naar Universele Toegang in Systeemvoorkeuren, en vink \"Activeer toegang voor hulpapparaten\" aan.";
+
+/* No comment provided by engineer. */
+"HyperDock Trial expired" = "HyperDock proefperiode is verlopen";
+
+/* No comment provided by engineer. */
+"Invalid License" = "Ongeldige Licentie";
+
+/* No comment provided by engineer. */
+"Kill App" = "App Stoppen";
+
+/* No comment provided by engineer. */
+"Left Click" = "Linker muisknop";
+
+/* No comment provided by engineer. */
+"Left Edge" = "Linkerkant";
+
+/* e.g. Licensed for tom@gmail.com */
+"Licensed for " = "Gelicenseerd aan ";
+
+/* No comment provided by engineer. */
+"Maximize" = "Maximaliseren";
+
+/* No comment provided by engineer. */
+"Middle Click" = "Middelste muisknop";
+
+/* No comment provided by engineer. */
+"Minimize" = "Minimaliseren";
+
+/* No comment provided by engineer. */
+"Mouse Entered" = "Muis Enter";
+
+/* No comment provided by engineer. */
+"Mouse Hovered" = "Muis Hover";
+
+/* No comment provided by engineer. */
+"New Tab" = "Nieuwe Tab";
+
+/* No comment provided by engineer. */
+"New Window" = "Nieuw Venster";
+
+/* No comment provided by engineer. */
+"Next" = "Volgende";
+
+/* No comment provided by engineer. */
+"Next track" = "Volgend nummer";
+
+/* No comment provided by engineer. */
+"Next window" = "Volgend venster";
+
+/* No comment provided by engineer. */
+"No Action" = "Geen Actie";
+
+/* No comment provided by engineer. */
+"No Events!" = "Geen afspraken!";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open License ..." = "Open Licentie ...";
+
+/* No comment provided by engineer. */
+"Open Location" = "Open Locatie";
+
+/* No comment provided by engineer. */
+"Other Buttons/Keys ..." = "Andere Knoppen/Toetsen ...";
+
+/* No comment provided by engineer. */
+"Play/Pause" = "Afspelen/Pauzeren";
+
+/* No comment provided by engineer. */
+"Play/pause" = "Afspelen/Pauzeren";
+
+/* No comment provided by engineer. */
+"Previous" = "Vorige";
+
+/* No comment provided by engineer. */
+"Previous track" = "Vorige nummer";
+
+/* No comment provided by engineer. */
+"Previous window" = "Vorige venster";
+
+/* No comment provided by engineer. */
+"Quit App" = "App Stoppen";
+
+/* No comment provided by engineer. */
+"Restart App" = "App Herstarten";
+
+/* No comment provided by engineer. */
+"Restart Safari to see the tab previews in HyperDock." = "Herstart Safari om de tabvoorbeelden te laten zien in HyperDock.";
+
+/* No comment provided by engineer. */
+"Reveal App in Finder" = "App weergeven in Finder";
+
+/* No comment provided by engineer. */
+"Right Click" = "Rechter muisknop";
+
+/* No comment provided by engineer. */
+"Right Edge" = "Rechterkant";
+
+/* No comment provided by engineer. */
+"Safari Plugin installed!" = "Safari Plugin geïnstalleerd!";
+
+/* No comment provided by engineer. */
+"Scroll down" = "Scroll naar beneden";
+
+/* No comment provided by engineer. */
+"Scroll left" = "Scroll naar links";
+
+/* No comment provided by engineer. */
+"Scroll right" = "Scroll naar rechts";
+
+/* No comment provided by engineer. */
+"Scroll up" = "Scroll naar boven";
+
+/* No comment provided by engineer. */
+"Send to Space" = "Stuur naar Space";
+
+/* No comment provided by engineer. */
+"Stop" = "Stop";
+
+/* No comment provided by engineer. */
+"Support" = "Ondersteuning";
+
+/* String for current day */
+"Today" = "Vandaag";
+
+/* No comment provided by engineer. */
+"Toggle mute" = "Geluid (ont)dempen";
+
+/* No comment provided by engineer. */
+"Tomorrow" = "Morgen";
+
+/* No comment provided by engineer. */
+"Uninstall" = "Deïnstalleren";
+
+/* No comment provided by engineer. */
+"Volume Down" = "Volume Zachter";
+
+/* No comment provided by engineer. */
+"Volume Up" = "Volume Harder";
+
+/* generic new window action */
+"⌘ + N (New Window)" = "⌘ + N (Nieuw venster)";
+
+/* generic new tab action */
+"⌘ + T (New Tab)" = "⌘ + T (Nieuwe tab)";
+
