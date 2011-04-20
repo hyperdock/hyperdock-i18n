@@ -1,0 +1,210 @@
+﻿/* No comment provided by engineer. */
+"Activate App" = "프로그램 실행";
+
+/* all-day string on ical preview */
+"all-day" = "하루종일";
+
+/* No comment provided by engineer. */
+"Any Dock Item" = "아무 독 아이템";
+
+/* No comment provided by engineer. */
+"Assistive Device Support Disabled." = "보조 장비에 대한 접근 활성화 옵션이 꺼져 있습니다.";
+
+/* a mouse button */
+"Button" = "버튼";
+
+/* No comment provided by engineer. */
+"Buy" = "구입";
+
+/* No comment provided by engineer. */
+"Cancel" = "취소";
+
+/* No comment provided by engineer. */
+"caps lock" = "caps lock";
+
+/* No comment provided by engineer. */
+"Close" = "닫기";
+
+/* No comment provided by engineer. */
+"Create new mail" = "새 메일 쓰기";
+
+/* No comment provided by engineer. */
+"Decide Later" = "나중에 결정";
+
+/* No comment provided by engineer. */
+"Do you really want to uninstall HyperDock?" = "정말 HyperDock을 삭제 하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Execute AppleScript" = "AppleScript 실행";
+
+/* No comment provided by engineer. */
+"Exposé" = "Exposé";
+
+/* No comment provided by engineer. */
+"Focus Next Window" = "다음 창을 활성화";
+
+/* No comment provided by engineer. */
+"Focus Previous Window" = "이전 창을 활성화";
+
+/* No comment provided by engineer. */
+"help" = "도움말";
+
+/* No comment provided by engineer. */
+"Hide App" = "프로그램 감추기";
+
+/* No comment provided by engineer. */
+"Hide other apps" = "다른 프로그램들 감추기";
+
+/* No comment provided by engineer. */
+"Hope you enjoyed it!\n\nIf you want to buy an unlimited license for HyperDock, press \"Buy\"." = "충분히 테스트해보셨길 바라겠습니다!\n\n만약 HyperDock 라이센스 구매를 원하시면 다음을 눌러주세요. \"Buy\".";
+
+/* No comment provided by engineer. */
+"HyperDock needs assistive devices support to operate.\n\nPlease enable \"Access for Assistive Devices\" in the Universal Access pane of System Preferences." = "HyperDock이 정상적으로 구동되기 위해 보조 장비의 접근이 활성화 되어 있어야 합니다.\n\n따라서 시스템 환경설정의 손쉬운 사용에서 \"Access for Assistive Devices\" 를 체크하여 주십시요.";
+
+/* No comment provided by engineer. */
+"HyperDock Trial expired" = "HyperDock 트라이얼 기간 만료";
+
+/* No comment provided by engineer. */
+"Invalid License" = "잘못된 라이센스";
+
+/* No comment provided by engineer. */
+"Kill App" = "강제 종료";
+
+/* No comment provided by engineer. */
+"Left Click" = "마우스 좌클릭";
+
+/* No comment provided by engineer. */
+"Left Edge" = "왼쪽 가장자리";
+
+/* e.g. Licensed for tom@gmail.com */
+"Licensed for " = "다음 구매자에게 등록됨: ";
+
+/* No comment provided by engineer. */
+"Maximize" = "최대화";
+
+/* No comment provided by engineer. */
+"Middle Click" = "마우스 가운데클릭";
+
+/* No comment provided by engineer. */
+"Minimize" = "최소화";
+
+/* No comment provided by engineer. */
+"Mouse Entered" = "마우스 입력";
+
+/* No comment provided by engineer. */
+"Mouse Hovered" = "마우스 호버";
+
+/* No comment provided by engineer. */
+"New Tab" = "새로운 탭";
+
+/* No comment provided by engineer. */
+"New Window" = "새로운 창";
+
+/* No comment provided by engineer. */
+"Next" = "다음";
+
+/* No comment provided by engineer. */
+"Next track" = "다음 트랙";
+
+/* No comment provided by engineer. */
+"Next window" = "다음 창으로";
+
+/* No comment provided by engineer. */
+"No Action" = "행동 없음";
+
+/* No comment provided by engineer. */
+"No Events!" = "이벤트 없음!";
+
+/* No comment provided by engineer. */
+"OK" = "승인";
+
+/* No comment provided by engineer. */
+"Open License ..." = "라이센스 파일 열기";
+
+/* No comment provided by engineer. */
+"Open Location" = "위치 지정";
+
+/* No comment provided by engineer. */
+"Other Buttons/Keys ..." = "임의의 키 입력";
+
+/* No comment provided by engineer. */
+"Play/Pause" = "재생/일시정지";
+
+/* No comment provided by engineer. */
+"Play/pause" = "재생/일시정지";
+
+/* No comment provided by engineer. */
+"Previous" = "이전";
+
+/* No comment provided by engineer. */
+"Previous track" = "이전 트랙";
+
+/* No comment provided by engineer. */
+"Previous window" = "이전 창으로";
+
+/* No comment provided by engineer. */
+"Quit App" = "프로그램 종료";
+
+/* No comment provided by engineer. */
+"Restart App" = "프로그램 재시작";
+
+/* No comment provided by engineer. */
+"Restart Safari to see the tab previews in HyperDock." = "HyperDock에서 탭을 미리 보기 위해 사파리를 재시작하여 주십시요.";
+
+/* No comment provided by engineer. */
+"Reveal App in Finder" = "파인더에 프로그램 나타내기";
+
+/* No comment provided by engineer. */
+"Right Click" = "마우스 우클릭";
+
+/* No comment provided by engineer. */
+"Right Edge" = "오른쪽 가장자리";
+
+/* No comment provided by engineer. */
+"Safari Plugin installed!" = "사파리 플러그인 설치 완료!";
+
+/* No comment provided by engineer. */
+"Scroll down" = "아래로 스크롤";
+
+/* No comment provided by engineer. */
+"Scroll left" = "왼쪽으로 스크롤";
+
+/* No comment provided by engineer. */
+"Scroll right" = "오른쪽으로 스크롤";
+
+/* No comment provided by engineer. */
+"Scroll up" = "위로 스크롤";
+
+/* No comment provided by engineer. */
+"Send to Space" = "스페이스로 보내기";
+
+/* No comment provided by engineer. */
+"Stop" = "정지";
+
+/* No comment provided by engineer. */
+"Support" = "지원";
+
+/* String for current day */
+"Today" = "오늘";
+
+/* No comment provided by engineer. */
+"Toggle mute" = "음소거 토글";
+
+/* No comment provided by engineer. */
+"Tomorrow" = "내일";
+
+/* No comment provided by engineer. */
+"Uninstall" = "언인스톨";
+
+/* No comment provided by engineer. */
+"Volume Down" = "볼륨 낮추기";
+
+/* No comment provided by engineer. */
+"Volume Up" = "볼륨 올리기";
+
+/* generic new window action */
+"⌘ + N (New Window)" = "⌘ + N (새 창)";
+
+/* generic new tab action */
+"⌘ + T (New Tab)" = "⌘ + T (새 탭)";
+
