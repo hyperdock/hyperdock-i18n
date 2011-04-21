@@ -1,0 +1,215 @@
+﻿/* No comment provided by engineer. */
+"Activate App" = "激活程序";
+
+/* all-day string on ical preview */
+"all-day" = "整日";
+
+/* No comment provided by engineer. */
+"Any Dock Item" = "任何 Dock 项目";
+
+/* No comment provided by engineer. */
+"Assistive Device Support Disabled." = "辅助设备支持已停用。";
+
+/* a mouse button */
+"Button" = "按钮";
+
+/* No comment provided by engineer. */
+"Buy" = "购买";
+
+/* No comment provided by engineer. */
+"Cancel" = "取消";
+
+/* No comment provided by engineer. */
+"caps lock" = "大写锁定";
+
+/* No comment provided by engineer. */
+"Center" = "Center";
+
+/* No comment provided by engineer. */
+"Close" = "关闭";
+
+/* No comment provided by engineer. */
+"Close all windows" = "Close all windows";
+
+/* No comment provided by engineer. */
+"Create new mail" = "创建新邮件";
+
+/* No comment provided by engineer. */
+"Decide Later" = "稍后决定";
+
+/* No comment provided by engineer. */
+"Do you really want to uninstall HyperDock?" = "你确定要卸载 HyperDock 吗?";
+
+/* No comment provided by engineer. */
+"Execute AppleScript" = "执行 AppleScript";
+
+/* No comment provided by engineer. */
+"Exposé" = "Exposé";
+
+/* No comment provided by engineer. */
+"Focus Next Window" = "将焦点移至下一窗口";
+
+/* No comment provided by engineer. */
+"Focus Previous Window" = "将焦点移至上一窗口";
+
+/* No comment provided by engineer. */
+"help" = "帮助";
+
+/* No comment provided by engineer. */
+"Hide App" = "隐藏程序";
+
+/* No comment provided by engineer. */
+"Hide other apps" = "隐藏其它程序";
+
+/* No comment provided by engineer. */
+"Hope you enjoyed it!\n\nIf you want to buy an unlimited license for HyperDock, press \"Buy\"." = "希望你喜欢它!\n\n如果你想要购买一份 HyperDock 的无限制授权，请点选 \"购买\"。";
+
+/* No comment provided by engineer. */
+"HyperDock needs assistive devices support to operate.\n\nPlease enable \"Access for Assistive Devices\" in the Universal Access pane of System Preferences." = "HyperDock 需要辅助设备支援。\n\n请到系统偏好设定中的辅助使用中选择 \"允许使用辅助设备\"。";
+
+/* No comment provided by engineer. */
+"HyperDock Trial expired" = "HyperDock 试用过期";
+
+/* No comment provided by engineer. */
+"Invalid HyperDock License" = "Invalid HyperDock License";
+
+/* No comment provided by engineer. */
+"Invalid License" = "无效授权";
+
+/* No comment provided by engineer. */
+"Kill App" = "强制结束程式";
+
+/* No comment provided by engineer. */
+"Left Click" = "左键点击";
+
+/* No comment provided by engineer. */
+"Left Edge" = "左边沿";
+
+/* e.g. Licensed to tom@gmail.com */
+"Licensed to " = "Licensed to ";
+
+/* No comment provided by engineer. */
+"Maximize" = "最大化";
+
+/* No comment provided by engineer. */
+"Middle Click" = "中键点击";
+
+/* No comment provided by engineer. */
+"Minimize" = "最小化";
+
+/* No comment provided by engineer. */
+"Mouse Entered" = "鼠标进入";
+
+/* No comment provided by engineer. */
+"Mouse Hovered" = "鼠标停靠";
+
+/* No comment provided by engineer. */
+"New Tab" = "新标签";
+
+/* No comment provided by engineer. */
+"New Window" = "新窗口";
+
+/* No comment provided by engineer. */
+"Next" = "下一个";
+
+/* No comment provided by engineer. */
+"Next track" = "下一项目";
+
+/* No comment provided by engineer. */
+"Next window" = "下一窗口";
+
+/* No comment provided by engineer. */
+"No Action" = "无动作";
+
+/* No comment provided by engineer. */
+"No Events!" = "无事件!";
+
+/* No comment provided by engineer. */
+"OK" = "确定";
+
+/* No comment provided by engineer. */
+"Open License ..." = "打开授权...";
+
+/* No comment provided by engineer. */
+"Open Location" = "开启位置";
+
+/* No comment provided by engineer. */
+"Other Buttons/Keys ..." = "其他按钮/按键...";
+
+/* No comment provided by engineer. */
+"Play/Pause" = "播放/暂停";
+
+/* No comment provided by engineer. */
+"Previous" = "上一个";
+
+/* No comment provided by engineer. */
+"Previous track" = "上一项目";
+
+/* No comment provided by engineer. */
+"Previous window" = "上一窗口";
+
+/* No comment provided by engineer. */
+"Quit App" = "退出程序";
+
+/* No comment provided by engineer. */
+"Restart App" = "重新启动程序";
+
+/* No comment provided by engineer. */
+"Restart Safari to see the tab previews in HyperDock." = "重新启动 Safari 以显示标签预览于 HyperDock.";
+
+/* No comment provided by engineer. */
+"Reveal App in Finder" = "在Finder显示程序";
+
+/* No comment provided by engineer. */
+"Right Click" = "右键";
+
+/* No comment provided by engineer. */
+"Right Edge" = "右边沿";
+
+/* No comment provided by engineer. */
+"Safari Plugin installed!" = "Safari 插件已安装!";
+
+/* No comment provided by engineer. */
+"Scroll down" = "往下滚动";
+
+/* No comment provided by engineer. */
+"Scroll left" = "往左滚动";
+
+/* No comment provided by engineer. */
+"Scroll right" = "往右滚动";
+
+/* No comment provided by engineer. */
+"Scroll up" = "往上滚动";
+
+/* No comment provided by engineer. */
+"Send to Space" = "发送至 Space";
+
+/* No comment provided by engineer. */
+"Stop" = "停止";
+
+/* No comment provided by engineer. */
+"Support" = "支持";
+
+/* String for current day */
+"Today" = "今天";
+
+/* No comment provided by engineer. */
+"Toggle mute" = "静音切换";
+
+/* No comment provided by engineer. */
+"Tomorrow" = "明天";
+
+/* No comment provided by engineer. */
+"Uninstall" = "卸载";
+
+/* No comment provided by engineer. */
+"Volume Down" = "降低音量";
+
+/* No comment provided by engineer. */
+"Volume Up" = "调高音量";
+
+/* generic new window action */
+"⌘ + N (New Window)" = "⌘ + N (新窗口)";
+
+/* generic new tab action */
+"⌘ + T (New Tab)" = "⌘ + T (新标签)";
