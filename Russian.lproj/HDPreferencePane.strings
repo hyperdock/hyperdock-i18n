@@ -3,7 +3,7 @@
 "1.title" = "Окно";
 
 /* Class = "NSTableColumn"; headerCell.title = "Dock Items"; ObjectID = "13"; */
-"13.headerCell.title" = "Элементы Dock";
+"13.headerCell.title" = "Dock";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "16"; */
 "16.title" = "Текстовая Ячейка";
@@ -21,10 +21,10 @@
 "106.title" = "Удалить";
 
 /* Class = "NSTabViewItem"; label = "Window Management"; ObjectID = "119"; */
-"119.label" = "Управление окнами";
+"119.label" = "Окна";
 
 /* Class = "NSButtonCell"; title = "Move windows when holding down"; ObjectID = "224"; */
-"224.title" = "Перемещать окно удерживая";
+"224.title" = "Перемещать окно, удерживая";
 
 /* Class = "NSButtonCell"; title = "^"; ObjectID = "555"; */
 "555.title" = "^";
@@ -42,7 +42,7 @@
 "676.title" = "Настройки по умолчаниию";
 
 /* Class = "NSButtonCell"; title = "Resize windows when holding down"; ObjectID = "707"; */
-"707.title" = "Перемещать окно по удержанию";
+"707.title" = "Изменять размер, удерживая";
 
 /* Class = "NSButtonCell"; title = "⇧"; ObjectID = "715"; */
 "715.title" = "⇧";
@@ -189,16 +189,16 @@
 "1907.title" = "Поведение:";
 
 /* Class = "NSTextFieldCell"; title = "Small"; ObjectID = "1994"; */
-"1994.title" = "Маленький";
+"1994.title" = "Меньше";
 
 /* Class = "NSTextFieldCell"; title = "Large"; ObjectID = "1996"; */
-"1996.title" = "Большой";
+"1996.title" = "Больше";
 
 /* Class = "NSTextFieldCell"; title = "Elements:"; ObjectID = "2013"; */
 "2013.title" = "Элементы:";
 
 /* Class = "NSButtonCell"; title = "Minimized indicator / space number"; ObjectID = "2018"; */
-"2018.title" = "Индикатор минимизированного окна / номер рабочего стола";
+"2018.title" = "Индикатор свернутого окна / номер рабочего стола";
 
 /* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "2062"; */
 "2062.label" = "Дополнительно";
@@ -279,7 +279,7 @@
 "2686.title" = "Выключить HyperDock";
 
 /* Class = "NSTextFieldCell"; title = "Enable this option if you experience problems like a stuttering Dock."; ObjectID = "2687"; */
-"2687.title" = "Включите эту опцию если вы испытваете проблемы, например, закрывающийся Dock.";
+"2687.title" = "Включите эту опцию при проблемах (например, закрывающийся Dock).";
 
 /* Class = "NSButtonCell"; title = "Don't block Dock's autohide / magnification"; ObjectID = "2688"; */
 "2688.title" = "Не блокировать автоматическое скрытие и увеличение Dock";
@@ -384,7 +384,7 @@
 "3141.title" = "день(дней)";
 
 /* Class = "NSTextFieldCell"; title = "Show"; ObjectID = "3164"; */
-"3164.title" = "Показывать";
+"3164.title" = "По";
 
 /* Class = "NSButton"; gToolTip = "When enabled, pressing arrow/number keys directly switches spaces"; ObjectID = "3257"; */
 "3257.gToolTip" = "Когда включено, нажатие курсорных/цифровых клавиш напрямую переключает рабочие столы";
@@ -480,7 +480,7 @@
 "3514.title" = "Продолжить";
 
 /* Class = "NSButtonCell"; title = "Check now"; ObjectID = "3529"; */
-"3529.title" = "Проверить сейчас";
+"3529.title" = "Проверить";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "3531"; */
 "3531.title" = "OtherViews";
@@ -492,7 +492,7 @@
 "3533.title" = "Еженедельно";
 
 /* Class = "NSButtonCell"; title = "Check for Updates:"; ObjectID = "3534"; */
-"3534.title" = "Проверять обновления:";
+"3534.title" = "Проверять:";
 
 /* Class = "NSButton"; gToolTip = "When enabled, pressing arrow/number keys directly switches spaces"; ObjectID = "3539"; */
 "3539.gToolTip" = "Когда включено, нажатие стрелок/цифр непосредственно переключает spaces";
